@@ -1,97 +1,73 @@
 fileFormatVersion: 2
-guid: 425a155ebae7e584284a7e4272e428c8
+guid: 06100b18312f1a54687e9152467ec131
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3747426248873178878
-    second: deerGod_JumpF_0
+      213: -9041507894754071803
+    second: theGuardian_PierceHand_0
   - first:
-      213: 8120098372966214689
-    second: deerGod_JumpF_1
+      213: -8632413908989293383
+    second: theGuardian_PierceHand_1
   - first:
-      213: 6512406983805465519
-    second: deerGod_JumpF_2
+      213: -1208639739228336943
+    second: theGuardian_PierceHand_2
   - first:
-      213: 709980953782385440
-    second: deerGod_JumpF_3
+      213: 6338568602765342047
+    second: theGuardian_PierceHand_3
   - first:
-      213: 8490546113742843566
-    second: deerGod_JumpF_4
+      213: 9209019341104312298
+    second: theGuardian_PierceHand_4
   - first:
-      213: -6447881029499860374
-    second: deerGod_JumpF_5
+      213: 4794041217707403354
+    second: theGuardian_PierceHand_5
   - first:
-      213: -9193316505648287837
-    second: deerGod_JumpF_6
+      213: 7615195632243415495
+    second: theGuardian_PierceHand_6
   - first:
-      213: -6291942910826693381
-    second: deerGod_JumpF_7
+      213: 492376157906606146
+    second: theGuardian_PierceHand_7
   - first:
-      213: -417652446194791334
-    second: deerGod_JumpF_8
+      213: -4610181552730991336
+    second: theGuardian_PierceHand_8
   - first:
-      213: -6422474654714719170
-    second: deerGod_JumpF_9
+      213: 6539750960106848433
+    second: theGuardian_PierceHand_9
   - first:
-      213: -6316378418137882159
-    second: deerGod_JumpF_10
+      213: -4131275467575112574
+    second: theGuardian_PierceHand_10
   - first:
-      213: -8114301397587501831
-    second: deerGod_JumpF_11
+      213: -1652734870145067596
+    second: theGuardian_PierceHand_11
   - first:
-      213: 2248385608459509918
-    second: deerGod_JumpF_12
+      213: 9204313609671613378
+    second: theGuardian_PierceHand_12
   - first:
-      213: -8464755937164952260
-    second: deerGod_JumpF_13
+      213: 7119237470675060522
+    second: theGuardian_PierceHand_13
   - first:
-      213: 4866353316322107921
-    second: deerGod_JumpF_14
+      213: -3035008829833240658
+    second: theGuardian_PierceHand_14
   - first:
-      213: 295672057441755889
-    second: deerGod_JumpF_15
+      213: -2807262004158701615
+    second: theGuardian_PierceHand_15
   - first:
-      213: 3341372859313546639
-    second: deerGod_JumpF_16
+      213: -496366016053523020
+    second: theGuardian_PierceHand_16
   - first:
-      213: 6652709391977506016
-    second: deerGod_JumpF_17
+      213: -6804593322897116623
+    second: theGuardian_PierceHand_17
   - first:
-      213: -9129418649916644455
-    second: deerGod_JumpF_18
+      213: -9082650842255075923
+    second: theGuardian_PierceHand_18
   - first:
-      213: 8045073499551438717
-    second: deerGod_JumpF_19
+      213: -3435981092038881604
+    second: theGuardian_PierceHand_19
   - first:
-      213: -8268881890035246829
-    second: deerGod_JumpF_20
+      213: -6950145373586911220
+    second: theGuardian_PierceHand_20
   - first:
-      213: -9026830342843710354
-    second: deerGod_JumpF_21
-  - first:
-      213: 7041640618663430349
-    second: deerGod_JumpF_22
-  - first:
-      213: 8811658500502601908
-    second: deerGod_JumpF_23
-  - first:
-      213: 539869422761491547
-    second: deerGod_JumpF_24
-  - first:
-      213: 4135866110614444258
-    second: deerGod_JumpF_25
-  - first:
-      213: -3692290837773127368
-    second: deerGod_JumpF_26
-  - first:
-      213: 56124482891667884
-    second: deerGod_JumpF_27
-  - first:
-      213: -5207831516516919271
-    second: deerGod_JumpF_28
-  - first:
-      213: -5057454295638289032
-    second: deerGod_JumpF_29
+      213: -2683703612203269017
+    second: theGuardian_PierceHand_21
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -159,7 +135,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -187,13 +163,343 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: deerGod_JumpF_0
+      name: theGuardian_PierceHand_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b2b43497c168280800000000000000
+      internalID: -9041507894754071803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 312
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc4d884941833880800000000000000
+      internalID: -8632413908989293383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 312
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dccfd19f8c0a3fe0800000000000000
+      internalID: -1208639739228336943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_3
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 312
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b540af8e17f750800000000000000
+      internalID: 6338568602765342047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_4
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 312
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef693c9c420dcf70800000000000000
+      internalID: 9209019341104312298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e70c661bd78240800000000000000
+      internalID: 4794041217707403354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 208
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c999fa941c9ea960800000000000000
+      internalID: 7615195632243415495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 208
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24815e3c18545d600800000000000000
+      internalID: 492376157906606146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_8
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 208
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8151967bd485500c0800000000000000
+      internalID: -4610181552730991336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_9
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 208
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b040b069dcd1ca50800000000000000
+      internalID: 6539750960106848433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c46e5c9d2caa6c0800000000000000
+      internalID: -4131275467575112574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 104
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b51a15646e4019e0800000000000000
+      internalID: -1652734870145067596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 104
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb15c1267a4cbf70800000000000000
+      internalID: 9204313609671613378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_13
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 104
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27cc3f92cc9cc260800000000000000
+      internalID: 7119237470675060522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_14
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 104
+        width: 299
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf9d97ac8b71e5d0800000000000000
+      internalID: -3035008829833240658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_PierceHand_15
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 96
-        height: 237
+        width: 299
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +508,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef67f029158810430800000000000000
-      internalID: 3747426248873178878
+      spriteID: 1df5baaa41a9a09d0800000000000000
+      internalID: -2807262004158701615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_JumpF_1
+      name: theGuardian_PierceHand_16
       rect:
         serializedVersion: 2
-        x: 96
+        x: 299
         y: 0
-        width: 96
-        height: 237
+        width: 299
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +530,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12ce0e5b27260b070800000000000000
-      internalID: 8120098372966214689
+      spriteID: 4bdcd8efcbd8c19f0800000000000000
+      internalID: -496366016053523020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_JumpF_2
+      name: theGuardian_PierceHand_17
       rect:
         serializedVersion: 2
-        x: 192
+        x: 598
         y: 0
-        width: 96
-        height: 237
+        width: 299
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,404 +552,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa37f76c5a7b06a50800000000000000
-      internalID: 6512406983805465519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_3
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02bfd737aeb5ad900800000000000000
-      internalID: 709980953782385440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_4
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eae27b2a4ba74d570800000000000000
-      internalID: 8490546113742843566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_5
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a6a4ea2bd568486a0800000000000000
-      internalID: -6447881029499860374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_6
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3af291da857ca6080800000000000000
-      internalID: -9193316505648287837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_7
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfc332d32478ea8a0800000000000000
-      internalID: -6291942910826693381
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_8
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5c8cf02053343af0800000000000000
-      internalID: -417652446194791334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_9
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3497ca4459ced6a0800000000000000
-      internalID: -6422474654714719170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_10
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d1a2f75b47b758a0800000000000000
-      internalID: -6316378418137882159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_11
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9fc575cced5346f80800000000000000
-      internalID: -8114301397587501831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_12
-      rect:
-        serializedVersion: 2
-        x: 1152
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9064566cced33f10800000000000000
-      internalID: 2248385608459509918
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_13
-      rect:
-        serializedVersion: 2
-        x: 1248
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3d77e6c255278a80800000000000000
-      internalID: -8464755937164952260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_14
-      rect:
-        serializedVersion: 2
-        x: 1344
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1126ce2ee82c88340800000000000000
-      internalID: 4866353316322107921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_15
-      rect:
-        serializedVersion: 2
-        x: 1440
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f223d17b207a1400800000000000000
-      internalID: 295672057441755889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_16
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f85e38589e0fe5e20800000000000000
-      internalID: 3341372859313546639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_17
-      rect:
-        serializedVersion: 2
-        x: 1632
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e469b6c1fb235c50800000000000000
-      internalID: 6652709391977506016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_18
-      rect:
-        serializedVersion: 2
-        x: 1728
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99364ed8b1acd4180800000000000000
-      internalID: -9129418649916644455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_19
-      rect:
-        serializedVersion: 2
-        x: 1824
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d771ca429b7d5af60800000000000000
-      internalID: 8045073499551438717
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_JumpF_20
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 0
-        width: 96
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 319d9ce3bb70f3d80800000000000000
-      internalID: -8268881890035246829
+      spriteID: 132f8b3dc6a3191a0800000000000000
+      internalID: -6804593322897116623
       vertices: []
       indices: 
       edges: []
@@ -652,7 +562,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8e6e43fb1624edb43a4928160344681b
+    spriteID: c0874104de9d4564ca5cb6716e5a36e0
     internalID: 0
     vertices: []
     indices: 
@@ -662,27 +572,24 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      deerGod_JumpF_0: 3747426248873178878
-      deerGod_JumpF_1: 8120098372966214689
-      deerGod_JumpF_10: -6316378418137882159
-      deerGod_JumpF_11: -8114301397587501831
-      deerGod_JumpF_12: 2248385608459509918
-      deerGod_JumpF_13: -8464755937164952260
-      deerGod_JumpF_14: 4866353316322107921
-      deerGod_JumpF_15: 295672057441755889
-      deerGod_JumpF_16: 3341372859313546639
-      deerGod_JumpF_17: 6652709391977506016
-      deerGod_JumpF_18: -9129418649916644455
-      deerGod_JumpF_19: 8045073499551438717
-      deerGod_JumpF_2: 6512406983805465519
-      deerGod_JumpF_20: -8268881890035246829
-      deerGod_JumpF_3: 709980953782385440
-      deerGod_JumpF_4: 8490546113742843566
-      deerGod_JumpF_5: -6447881029499860374
-      deerGod_JumpF_6: -9193316505648287837
-      deerGod_JumpF_7: -6291942910826693381
-      deerGod_JumpF_8: -417652446194791334
-      deerGod_JumpF_9: -6422474654714719170
+      theGuardian_PierceHand_0: -9041507894754071803
+      theGuardian_PierceHand_1: -8632413908989293383
+      theGuardian_PierceHand_10: -4131275467575112574
+      theGuardian_PierceHand_11: -1652734870145067596
+      theGuardian_PierceHand_12: 9204313609671613378
+      theGuardian_PierceHand_13: 7119237470675060522
+      theGuardian_PierceHand_14: -3035008829833240658
+      theGuardian_PierceHand_15: -2807262004158701615
+      theGuardian_PierceHand_16: -496366016053523020
+      theGuardian_PierceHand_17: -6804593322897116623
+      theGuardian_PierceHand_2: -1208639739228336943
+      theGuardian_PierceHand_3: 6338568602765342047
+      theGuardian_PierceHand_4: 9209019341104312298
+      theGuardian_PierceHand_5: 4794041217707403354
+      theGuardian_PierceHand_6: 7615195632243415495
+      theGuardian_PierceHand_7: 492376157906606146
+      theGuardian_PierceHand_8: -4610181552730991336
+      theGuardian_PierceHand_9: 6539750960106848433
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
