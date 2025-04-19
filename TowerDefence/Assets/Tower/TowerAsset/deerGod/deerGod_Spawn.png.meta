@@ -3,176 +3,170 @@ guid: 971e6706af7bd8b409c5b71392df2637
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3558214911884227343
-    second: deerGod_Spawn_0
+      213: -4799792746026620881
+    second: deerGod_spawn_0
   - first:
-      213: 4299949087023712553
-    second: deerGod_Spawn_1
+      213: -4408216914189172315
+    second: deerGod_spawn_1
   - first:
-      213: 153582077435687761
-    second: deerGod_Spawn_2
+      213: -2109459209304676038
+    second: deerGod_spawn_2
   - first:
-      213: -4389773997163427370
-    second: deerGod_Spawn_3
+      213: -1615887540509715091
+    second: deerGod_spawn_3
   - first:
-      213: 8300407016732820255
-    second: deerGod_Spawn_4
+      213: -2252788624091310971
+    second: deerGod_spawn_4
   - first:
-      213: 444441192443889565
-    second: deerGod_Spawn_5
+      213: 4802185442405961866
+    second: deerGod_spawn_5
   - first:
-      213: -8784276534528611040
-    second: deerGod_Spawn_6
+      213: -2809193405977296416
+    second: deerGod_spawn_6
   - first:
-      213: 4695960765804108539
-    second: deerGod_Spawn_7
+      213: -3810625643508852942
+    second: deerGod_spawn_7
   - first:
-      213: -2616923395179549712
-    second: deerGod_Spawn_8
+      213: 9025624630822902121
+    second: deerGod_spawn_8
   - first:
-      213: 3228789385510243299
-    second: deerGod_Spawn_9
+      213: 239394837619599106
+    second: deerGod_spawn_9
   - first:
-      213: -1096699904105088183
-    second: deerGod_Spawn_10
+      213: 5394341692174658821
+    second: deerGod_spawn_10
   - first:
-      213: -5601051683967962909
-    second: deerGod_Spawn_11
+      213: -6402889127438662022
+    second: deerGod_spawn_11
   - first:
-      213: -7313807713201412552
-    second: deerGod_Spawn_12
+      213: -5610666113437861972
+    second: deerGod_spawn_12
   - first:
-      213: -7393303324925619928
-    second: deerGod_Spawn_13
+      213: 7216259781979744125
+    second: deerGod_spawn_13
   - first:
-      213: -4212687060551544284
-    second: deerGod_Spawn_14
+      213: -1940399941788437507
+    second: deerGod_spawn_14
   - first:
-      213: -2480874997577431033
-    second: deerGod_Spawn_15
+      213: -7393770057529028625
+    second: deerGod_spawn_15
   - first:
-      213: 2489186300359954927
-    second: deerGod_Spawn_16
+      213: -7559006754714775111
+    second: deerGod_spawn_16
   - first:
-      213: 1863344444010406202
-    second: deerGod_Spawn_17
+      213: -8729886956404601390
+    second: deerGod_spawn_17
   - first:
-      213: 8080235342010391550
-    second: deerGod_Spawn_18
+      213: -650960751552099652
+    second: deerGod_spawn_18
   - first:
-      213: 3153305948361594615
-    second: deerGod_Spawn_19
+      213: -2482334391690359177
+    second: deerGod_spawn_19
   - first:
-      213: -3553880215944805795
-    second: deerGod_Spawn_20
+      213: -7064573830062380998
+    second: deerGod_spawn_20
   - first:
-      213: 8587839417592917619
-    second: deerGod_Spawn_21
+      213: 9135182693194150988
+    second: deerGod_spawn_21
   - first:
-      213: 1507962927983830693
-    second: deerGod_Spawn_22
+      213: -244980290627362176
+    second: deerGod_spawn_22
   - first:
-      213: -841136040967589098
-    second: deerGod_Spawn_23
+      213: 5360262641676027496
+    second: deerGod_spawn_23
   - first:
-      213: 4716018163670783357
-    second: deerGod_Spawn_24
+      213: 2064996626297649704
+    second: deerGod_spawn_24
   - first:
-      213: -3718159055247083327
-    second: deerGod_Spawn_25
+      213: -4876008110961689688
+    second: deerGod_spawn_25
   - first:
-      213: 8249476930707811378
-    second: deerGod_Spawn_26
+      213: 2141862768955819238
+    second: deerGod_spawn_26
   - first:
-      213: 8859512626744345480
-    second: deerGod_Spawn_27
+      213: -3632902931128548110
+    second: deerGod_spawn_27
   - first:
-      213: 2373286202667489409
-    second: deerGod_Spawn_28
+      213: -7153546588390234652
+    second: deerGod_spawn_28
   - first:
-      213: 6058035745474502646
-    second: deerGod_Spawn_29
+      213: -1202497896456688847
+    second: deerGod_spawn_29
   - first:
-      213: 8630183475604110028
-    second: deerGod_Spawn_30
+      213: 6863492961551673861
+    second: deerGod_spawn_30
   - first:
-      213: -7125632653075733502
-    second: deerGod_Spawn_31
+      213: 1344453768494291212
+    second: deerGod_spawn_31
   - first:
-      213: -8045002359898854031
-    second: deerGod_Spawn_32
+      213: -5241637531604326198
+    second: deerGod_spawn_32
   - first:
-      213: -3490261613880655699
-    second: deerGod_Spawn_33
+      213: 681152567930445462
+    second: deerGod_spawn_33
   - first:
-      213: 587065818399912467
-    second: deerGod_Spawn_34
+      213: -6783974225745116928
+    second: deerGod_spawn_34
   - first:
-      213: 3895800671805375497
-    second: deerGod_Spawn_35
+      213: 9108630077297784128
+    second: deerGod_spawn_35
   - first:
-      213: 7337870941179323955
-    second: deerGod_Spawn_36
+      213: 6145511643663334366
+    second: deerGod_spawn_36
   - first:
-      213: 436546625076113937
-    second: deerGod_Spawn_37
+      213: 4901095242854336003
+    second: deerGod_spawn_37
   - first:
-      213: -1166963889207811096
-    second: deerGod_Spawn_38
+      213: 8808712605671080787
+    second: deerGod_spawn_38
   - first:
-      213: 8036634211593102782
-    second: deerGod_Spawn_39
+      213: 6491120857906358617
+    second: deerGod_spawn_39
   - first:
-      213: -2533849137705157087
-    second: deerGod_Spawn_40
+      213: 1000793438987871742
+    second: deerGod_spawn_40
   - first:
-      213: -1713412581109858920
-    second: deerGod_Spawn_41
+      213: 6298756598091276988
+    second: deerGod_spawn_41
   - first:
-      213: 5621023955913619105
-    second: deerGod_Spawn_42
+      213: -658368914132023258
+    second: deerGod_spawn_42
   - first:
-      213: 4541376011289884698
-    second: deerGod_Spawn_43
+      213: -7866272337562040892
+    second: deerGod_spawn_43
   - first:
-      213: -7084805089254265399
-    second: deerGod_Spawn_44
+      213: 4362883023371174730
+    second: deerGod_spawn_44
   - first:
-      213: 9083403376276080117
-    second: deerGod_Spawn_45
+      213: 4578667604683051441
+    second: deerGod_spawn_45
   - first:
-      213: 1551664183349455199
-    second: deerGod_Spawn_46
+      213: 5068891488674966376
+    second: deerGod_spawn_46
   - first:
-      213: -7737975703654170101
-    second: deerGod_Spawn_47
+      213: -5053145550849505370
+    second: deerGod_spawn_47
   - first:
-      213: 7431240007834542009
-    second: deerGod_Spawn_48
+      213: -4534238229036153238
+    second: deerGod_spawn_48
   - first:
-      213: 5664793269281449312
-    second: deerGod_Spawn_49
+      213: -3529971496558993641
+    second: deerGod_spawn_49
   - first:
-      213: 7893655976677024002
-    second: deerGod_Spawn_50
+      213: 3859363572123166039
+    second: deerGod_spawn_50
   - first:
-      213: 1239858392816353982
-    second: deerGod_Spawn_51
+      213: -3947026018125035132
+    second: deerGod_spawn_51
   - first:
-      213: -7066910905779181194
-    second: deerGod_Spawn_52
+      213: -142220608624805163
+    second: deerGod_spawn_52
   - first:
-      213: -5432720395773016272
-    second: deerGod_Spawn_53
+      213: -2177625448504466368
+    second: deerGod_spawn_53
   - first:
-      213: 2989412247773779314
-    second: deerGod_Spawn_54
-  - first:
-      213: 8380408739107408512
-    second: deerGod_Spawn_55
-  - first:
-      213: -7664899753789192540
-    second: deerGod_Spawn_56
+      213: 8328448585487385504
+    second: deerGod_spawn_54
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -240,7 +234,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -268,343 +262,937 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: deerGod_Spawn_0
+      name: deerGod_spawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2826998de5b36db0800000000000000
+      internalID: -4799792746026620881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1c2e0821ed2d2c0800000000000000
+      internalID: -4408216914189172315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39e7398602b9b2e0800000000000000
+      internalID: -2109459209304676038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6550fed7d63399e0800000000000000
+      internalID: -1615887540509715091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5841ff2aeac7cb0e0800000000000000
+      internalID: -2252788624091310971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80d820873ac4a240800000000000000
+      internalID: 4802185442405961866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e18a532b7db309d0800000000000000
+      internalID: -2809193405977296416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23719a2ba20fd1bc0800000000000000
+      internalID: -3810625643508852942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969173c28c5714d70800000000000000
+      internalID: 9025624630822902121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207e0612650825300800000000000000
+      internalID: 239394837619599106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d6627403d8cda40800000000000000
+      internalID: 5394341692174658821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76cec6334e5427a0800000000000000
+      internalID: -6402889127438662022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f63b75e8e222b0800000000000000
+      internalID: -5610666113437861972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7727dfc90e452460800000000000000
+      internalID: 7216259781979744125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3f28b98805215e0800000000000000
+      internalID: -1940399941788437507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef001a7e4d046990800000000000000
+      internalID: -7393770057529028625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1927ae763091790800000000000000
+      internalID: -7559006754714775111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd003ae01639d680800000000000000
+      internalID: -8729886956404601390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba040935a257f6f0800000000000000
+      internalID: -650960751552099652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8f81d50afc8dd0800000000000000
+      internalID: -2482334391690359177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a386c91088795fd90800000000000000
+      internalID: -7064573830062380998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44322a5240b6ce70800000000000000
+      internalID: 9135182693194150988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0822f2049b7a99cf0800000000000000
+      internalID: -244980290627362176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86685e3097a736a40800000000000000
+      internalID: 5360262641676027496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af9d4ad7758ac10800000000000000
+      internalID: 2064996626297649704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab74301570f45cb0800000000000000
+      internalID: -4876008110961689688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e40f3d17dc69bd10800000000000000
+      internalID: 2141862768955819238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f48b963806559dc0800000000000000
+      internalID: -3632902931128548110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5eaca674f79bc90800000000000000
+      internalID: -7153546588390234652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b6b86c88edf4fe0800000000000000
+      internalID: -1202497896456688847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a6ea3fb76004f50800000000000000
+      internalID: 6863492961551673861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c099908449578a210800000000000000
+      internalID: 1344453768494291212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac86e57bf66f147b0800000000000000
+      internalID: -5241637531604326198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ed651d6a0f37900800000000000000
+      internalID: 681152567930445462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0018e0d726b7ad1a0800000000000000
+      internalID: -6783974225745116928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045f5c3bbca586e70800000000000000
+      internalID: 9108630077297784128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb7493974e394550800000000000000
+      internalID: 6145511643663334366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30680b00820340440800000000000000
+      internalID: 4901095242854336003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353c78db175de3a70800000000000000
+      internalID: 8808712605671080787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95923a16708151a50800000000000000
+      internalID: 6491120857906358617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5e960945883ed00800000000000000
+      internalID: 1000793438987871742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117652a98095d9b49aa0618af55c136c
+      internalID: 6298756598091276988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_spawn_42
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f037b513c91516130800000000000000
-      internalID: 3558214911884227343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_1
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 929405c99ec7cab30800000000000000
-      internalID: 4299949087023712553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_2
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 153bb61f512a12200800000000000000
-      internalID: 153582077435687761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_3
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d9c3debec36413c0800000000000000
-      internalID: -4389773997163427370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_4
-      rect:
-        serializedVersion: 2
-        x: 680
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f13058b4438f03370800000000000000
-      internalID: 8300407016732820255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_5
-      rect:
-        serializedVersion: 2
-        x: 850
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d974b27e8e8fa2600800000000000000
-      internalID: 444441192443889565
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_6
-      rect:
-        serializedVersion: 2
-        x: 1020
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02d6f9e680bf71680800000000000000
-      internalID: -8784276534528611040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_7
-      rect:
-        serializedVersion: 2
-        x: 1190
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfadcecaf676b2140800000000000000
-      internalID: 4695960765804108539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_8
-      rect:
-        serializedVersion: 2
-        x: 1360
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0fbe9e18902deabd0800000000000000
-      internalID: -2616923395179549712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_9
-      rect:
-        serializedVersion: 2
-        x: 1530
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ebc3e9d6d6fecc20800000000000000
-      internalID: 3228789385510243299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_10
-      rect:
-        serializedVersion: 2
-        x: 1700
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94b7c9e6f3db7c0f0800000000000000
-      internalID: -1096699904105088183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_11
-      rect:
-        serializedVersion: 2
-        x: 1870
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e07c784b211542b0800000000000000
-      internalID: -5601051683967962909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_12
-      rect:
-        serializedVersion: 2
-        x: 2040
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8362e1392a2208a90800000000000000
-      internalID: -7313807713201412552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_13
-      rect:
-        serializedVersion: 2
-        x: 2210
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82118112cc5b56990800000000000000
-      internalID: -7393303324925619928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_14
-      rect:
-        serializedVersion: 2
-        x: 2380
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 422d0fd20778985c0800000000000000
-      internalID: -4212687060551544284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_15
-      rect:
-        serializedVersion: 2
-        x: 2550
-        y: 0
-        width: 170
-        height: 149
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -613,20 +1201,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 769d6351a73e6084fb17e78c3f9b63ff
-      internalID: -2480874997577431033
+      spriteID: 3cbb68ad21539194388eec844a5973e1
+      internalID: -658368914132023258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_Spawn_16
+      name: deerGod_spawn_43
       rect:
         serializedVersion: 2
-        x: 2720
+        x: 256
         y: 0
-        width: 170
-        height: 149
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -635,20 +1223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e340b946305b7ea4c87ca996c62e1c33
-      internalID: 2489186300359954927
+      spriteID: 1da6225424cb9434d915583b5dbf972b
+      internalID: -7866272337562040892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_Spawn_17
+      name: deerGod_spawn_44
       rect:
         serializedVersion: 2
-        x: 2890
+        x: 512
         y: 0
-        width: 170
-        height: 149
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,20 +1245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72d46713de065f44c969393fb70252fc
-      internalID: 1863344444010406202
+      spriteID: 6ce057133613585479dfe9cf824f0f77
+      internalID: 4362883023371174730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_Spawn_18
+      name: deerGod_spawn_45
       rect:
         serializedVersion: 2
-        x: 3060
+        x: 768
         y: 0
-        width: 170
-        height: 149
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -679,20 +1267,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce5dec86ca52215428b49c23532a9968
-      internalID: 8080235342010391550
+      spriteID: 1415f68859f05d943a3fdc3ce8bad499
+      internalID: 4578667604683051441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_Spawn_19
+      name: deerGod_spawn_46
       rect:
         serializedVersion: 2
-        x: 3230
+        x: 1024
         y: 0
-        width: 170
-        height: 149
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,20 +1289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a736b1e9990bf2488a7bd40d38d2250
-      internalID: 3153305948361594615
+      spriteID: 674f4571f9dcbc14aa28d40502c45e87
+      internalID: 5068891488674966376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_Spawn_20
+      name: deerGod_spawn_47
       rect:
         serializedVersion: 2
-        x: 3400
+        x: 1280
         y: 0
-        width: 170
-        height: 149
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -723,646 +1311,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aae45910f86f8a9448dc302edd08277e
-      internalID: -3553880215944805795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_21
-      rect:
-        serializedVersion: 2
-        x: 3570
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89211e89de5512e488c0a0f6ffcc717d
-      internalID: 8587839417592917619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_22
-      rect:
-        serializedVersion: 2
-        x: 3740
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e9d8107892df0243b014d9421a10e07
-      internalID: 1507962927983830693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_23
-      rect:
-        serializedVersion: 2
-        x: 3910
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ae1f12c216907243acf3466cdbe97af
-      internalID: -841136040967589098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_24
-      rect:
-        serializedVersion: 2
-        x: 4080
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c561dc2246029064f827c31f72bb0010
-      internalID: 4716018163670783357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_25
-      rect:
-        serializedVersion: 2
-        x: 4250
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43aed4a71078504459407174fd21edb2
-      internalID: -3718159055247083327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_26
-      rect:
-        serializedVersion: 2
-        x: 4420
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08b74275d9909ed458012c0c61c1a6dd
-      internalID: 8249476930707811378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_27
-      rect:
-        serializedVersion: 2
-        x: 4590
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b88b915208bfef14ebab9e47a4c47f60
-      internalID: 8859512626744345480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_28
-      rect:
-        serializedVersion: 2
-        x: 4760
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfd468f43f55f0b44ab5d87eeecfe9f6
-      internalID: 2373286202667489409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_29
-      rect:
-        serializedVersion: 2
-        x: 4930
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b40244223700e374089d44039ea02bd1
-      internalID: 6058035745474502646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_30
-      rect:
-        serializedVersion: 2
-        x: 5100
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d547b4bbebebe047a9a8d8b44f77cc1
-      internalID: 8630183475604110028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_31
-      rect:
-        serializedVersion: 2
-        x: 5270
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 983822c0844361f46a3fb9245be90e26
-      internalID: -7125632653075733502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_32
-      rect:
-        serializedVersion: 2
-        x: 5440
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b4a3d0e0088a904395146b234538002
-      internalID: -8045002359898854031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_33
-      rect:
-        serializedVersion: 2
-        x: 5610
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33bfe83d2afd4ba40a885975324eab2a
-      internalID: -3490261613880655699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_34
-      rect:
-        serializedVersion: 2
-        x: 5780
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0dab0785dcc2420408233b88b18a14d9
-      internalID: 587065818399912467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_35
-      rect:
-        serializedVersion: 2
-        x: 5950
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5e4abba74a61da488e33dfa385e69c1
-      internalID: 3895800671805375497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_36
-      rect:
-        serializedVersion: 2
-        x: 6120
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a0f1a42583d22242af16724e3e8affc
-      internalID: 7337870941179323955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_37
-      rect:
-        serializedVersion: 2
-        x: 6290
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e78a473bbff9225468287c718244d63f
-      internalID: 436546625076113937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_38
-      rect:
-        serializedVersion: 2
-        x: 6460
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b2b7a33cc8238814a920281039904b6c
-      internalID: -1166963889207811096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_39
-      rect:
-        serializedVersion: 2
-        x: 6630
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56988e616092ecc41a127a1b4de378a6
-      internalID: 8036634211593102782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_40
-      rect:
-        serializedVersion: 2
-        x: 6800
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a43c11732ed1e5247a190a87eb50e1b8
-      internalID: -2533849137705157087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_41
-      rect:
-        serializedVersion: 2
-        x: 6970
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8fc3b861b990c0e48974c167292dc21c
-      internalID: -1713412581109858920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_42
-      rect:
-        serializedVersion: 2
-        x: 7140
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a728eda72860bb498b7c1f0fb501e54
-      internalID: 5621023955913619105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_43
-      rect:
-        serializedVersion: 2
-        x: 7310
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7cf002163a525e746b558e32ebf14d9f
-      internalID: 4541376011289884698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_44
-      rect:
-        serializedVersion: 2
-        x: 7480
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea7684596ea76af48b3d7e9609340afa
-      internalID: -7084805089254265399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_45
-      rect:
-        serializedVersion: 2
-        x: 7650
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea167ea642be09c4c8364e56165d4bfa
-      internalID: 9083403376276080117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_46
-      rect:
-        serializedVersion: 2
-        x: 7820
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edfb27c7550aef244adffd280e2c8555
-      internalID: 1551664183349455199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_47
-      rect:
-        serializedVersion: 2
-        x: 7990
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbbcd8da9f9b82944a1844879967d117
-      internalID: -7737975703654170101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_48
-      rect:
-        serializedVersion: 2
-        x: 8160
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff2225b4dca75d9468beeb56ac57bada
-      internalID: 7431240007834542009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_Spawn_49
-      rect:
-        serializedVersion: 2
-        x: 8330
-        y: 0
-        width: 170
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4b4ff32c12c8e546bb9700061bee0b9
-      internalID: 5664793269281449312
+      spriteID: 7bd484121cddf034c97b672a3c7a175b
+      internalID: -5053145550849505370
       vertices: []
       indices: 
       edges: []
@@ -1371,7 +1321,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1d1f160cf2abf054682d52ffecefab89
+    spriteID: 22378e542b01c674cad6e6bc5c1e2672
     internalID: 0
     vertices: []
     indices: 
@@ -1381,56 +1331,54 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      deerGod_Spawn_0: 3558214911884227343
-      deerGod_Spawn_1: 4299949087023712553
-      deerGod_Spawn_10: -1096699904105088183
-      deerGod_Spawn_11: -5601051683967962909
-      deerGod_Spawn_12: -7313807713201412552
-      deerGod_Spawn_13: -7393303324925619928
-      deerGod_Spawn_14: -4212687060551544284
-      deerGod_Spawn_15: -2480874997577431033
-      deerGod_Spawn_16: 2489186300359954927
-      deerGod_Spawn_17: 1863344444010406202
-      deerGod_Spawn_18: 8080235342010391550
-      deerGod_Spawn_19: 3153305948361594615
-      deerGod_Spawn_2: 153582077435687761
-      deerGod_Spawn_20: -3553880215944805795
-      deerGod_Spawn_21: 8587839417592917619
-      deerGod_Spawn_22: 1507962927983830693
-      deerGod_Spawn_23: -841136040967589098
-      deerGod_Spawn_24: 4716018163670783357
-      deerGod_Spawn_25: -3718159055247083327
-      deerGod_Spawn_26: 8249476930707811378
-      deerGod_Spawn_27: 8859512626744345480
-      deerGod_Spawn_28: 2373286202667489409
-      deerGod_Spawn_29: 6058035745474502646
-      deerGod_Spawn_3: -4389773997163427370
-      deerGod_Spawn_30: 8630183475604110028
-      deerGod_Spawn_31: -7125632653075733502
-      deerGod_Spawn_32: -8045002359898854031
-      deerGod_Spawn_33: -3490261613880655699
-      deerGod_Spawn_34: 587065818399912467
-      deerGod_Spawn_35: 3895800671805375497
-      deerGod_Spawn_36: 7337870941179323955
-      deerGod_Spawn_37: 436546625076113937
-      deerGod_Spawn_38: -1166963889207811096
-      deerGod_Spawn_39: 8036634211593102782
-      deerGod_Spawn_4: 8300407016732820255
-      deerGod_Spawn_40: -2533849137705157087
-      deerGod_Spawn_41: -1713412581109858920
-      deerGod_Spawn_42: 5621023955913619105
-      deerGod_Spawn_43: 4541376011289884698
-      deerGod_Spawn_44: -7084805089254265399
-      deerGod_Spawn_45: 9083403376276080117
-      deerGod_Spawn_46: 1551664183349455199
-      deerGod_Spawn_47: -7737975703654170101
-      deerGod_Spawn_48: 7431240007834542009
-      deerGod_Spawn_49: 5664793269281449312
-      deerGod_Spawn_5: 444441192443889565
-      deerGod_Spawn_6: -8784276534528611040
-      deerGod_Spawn_7: 4695960765804108539
-      deerGod_Spawn_8: -2616923395179549712
-      deerGod_Spawn_9: 3228789385510243299
+      deerGod_spawn_0: -4799792746026620881
+      deerGod_spawn_1: -4408216914189172315
+      deerGod_spawn_10: 5394341692174658821
+      deerGod_spawn_11: -6402889127438662022
+      deerGod_spawn_12: -5610666113437861972
+      deerGod_spawn_13: 7216259781979744125
+      deerGod_spawn_14: -1940399941788437507
+      deerGod_spawn_15: -7393770057529028625
+      deerGod_spawn_16: -7559006754714775111
+      deerGod_spawn_17: -8729886956404601390
+      deerGod_spawn_18: -650960751552099652
+      deerGod_spawn_19: -2482334391690359177
+      deerGod_spawn_2: -2109459209304676038
+      deerGod_spawn_20: -7064573830062380998
+      deerGod_spawn_21: 9135182693194150988
+      deerGod_spawn_22: -244980290627362176
+      deerGod_spawn_23: 5360262641676027496
+      deerGod_spawn_24: 2064996626297649704
+      deerGod_spawn_25: -4876008110961689688
+      deerGod_spawn_26: 2141862768955819238
+      deerGod_spawn_27: -3632902931128548110
+      deerGod_spawn_28: -7153546588390234652
+      deerGod_spawn_29: -1202497896456688847
+      deerGod_spawn_3: -1615887540509715091
+      deerGod_spawn_30: 6863492961551673861
+      deerGod_spawn_31: 1344453768494291212
+      deerGod_spawn_32: -5241637531604326198
+      deerGod_spawn_33: 681152567930445462
+      deerGod_spawn_34: -6783974225745116928
+      deerGod_spawn_35: 9108630077297784128
+      deerGod_spawn_36: 6145511643663334366
+      deerGod_spawn_37: 4901095242854336003
+      deerGod_spawn_38: 8808712605671080787
+      deerGod_spawn_39: 6491120857906358617
+      deerGod_spawn_4: -2252788624091310971
+      deerGod_spawn_40: 1000793438987871742
+      deerGod_spawn_41: 6298756598091276988
+      deerGod_spawn_42: -658368914132023258
+      deerGod_spawn_43: -7866272337562040892
+      deerGod_spawn_44: 4362883023371174730
+      deerGod_spawn_45: 4578667604683051441
+      deerGod_spawn_46: 5068891488674966376
+      deerGod_spawn_47: -5053145550849505370
+      deerGod_spawn_5: 4802185442405961866
+      deerGod_spawn_6: -2809193405977296416
+      deerGod_spawn_7: -3810625643508852942
+      deerGod_spawn_8: 9025624630822902121
+      deerGod_spawn_9: 239394837619599106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

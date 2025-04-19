@@ -3,23 +3,23 @@ guid: 832764967be54ea4ab489e729f09dd63
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9219623032350516533
-    second: deerGod_StandF_0
+      213: 8053333202268690637
+    second: deerGod_standF_0
   - first:
-      213: -6002721304108341228
-    second: deerGod_StandF_1
+      213: -9132489852821839355
+    second: deerGod_standF_1
   - first:
-      213: -5918746242390330801
-    second: deerGod_StandF_2
+      213: 6013912294467900022
+    second: deerGod_standF_2
   - first:
-      213: 8223444802051655460
-    second: deerGod_StandF_3
+      213: 5062038664504801352
+    second: deerGod_standF_3
   - first:
-      213: 8412977531758952712
-    second: deerGod_StandF_4
+      213: -9126184333864575275
+    second: deerGod_standF_4
   - first:
-      213: 2455983084650002505
-    second: deerGod_StandF_5
+      213: -6033411992500410879
+    second: deerGod_standF_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -87,7 +87,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -115,13 +115,79 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: deerGod_StandF_0
+      name: deerGod_standF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8951b01ef23cf60800000000000000
+      internalID: 8053333202268690637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_standF_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e1b76dd0e24180800000000000000
+      internalID: -9132489852821839355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_standF_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721d166e55b57350800000000000000
+      internalID: 6013912294467900022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_standF_3
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 86
-        height: 145
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcadcb123b15d0080800000000000000
-      internalID: -9219623032350516533
+      spriteID: 848f9157859ff3640800000000000000
+      internalID: 5062038664504801352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_StandF_1
+      name: deerGod_standF_4
       rect:
         serializedVersion: 2
-        x: 86
+        x: 256
         y: 0
-        width: 86
-        height: 145
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,74 +218,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 418e3f617cc02bca0800000000000000
-      internalID: -6002721304108341228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_StandF_2
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 0
-        width: 86
-        height: 145
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4275a2c6a36cdda0800000000000000
-      internalID: -5918746242390330801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_StandF_3
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 0
-        width: 86
-        height: 145
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 42742505a7b8f1270800000000000000
-      internalID: 8223444802051655460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_StandF_4
-      rect:
-        serializedVersion: 2
-        x: 344
-        y: 0
-        width: 86
-        height: 145
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 801c5d3cd76e0c470800000000000000
-      internalID: 8412977531758952712
+      spriteID: 5de544173b7495180800000000000000
+      internalID: -9126184333864575275
       vertices: []
       indices: 
       edges: []
@@ -228,7 +228,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a362c17de6175bf4789872317e2e43f6
+    spriteID: e5bfe7cedbc56a747b8e486d1b646915
     internalID: 0
     vertices: []
     indices: 
@@ -238,11 +238,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      deerGod_StandF_0: -9219623032350516533
-      deerGod_StandF_1: -6002721304108341228
-      deerGod_StandF_2: -5918746242390330801
-      deerGod_StandF_3: 8223444802051655460
-      deerGod_StandF_4: 8412977531758952712
+      deerGod_standF_0: 8053333202268690637
+      deerGod_standF_1: -9132489852821839355
+      deerGod_standF_2: 6013912294467900022
+      deerGod_standF_3: 5062038664504801352
+      deerGod_standF_4: -9126184333864575275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

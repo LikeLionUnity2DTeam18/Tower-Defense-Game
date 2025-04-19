@@ -3,35 +3,35 @@ guid: 8eecb9b489c0e0e41a98012db684c9c0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7031420546319682038
-    second: deerGod_MoveF_0
+      213: -5617728194162479239
+    second: deerGod_moveF_0
   - first:
-      213: -6260891538790939532
-    second: deerGod_MoveF_1
+      213: 1092984153002470429
+    second: deerGod_moveF_1
   - first:
-      213: 7182559218417933450
-    second: deerGod_MoveF_2
+      213: 1228990791868718377
+    second: deerGod_moveF_2
   - first:
-      213: -7776095556500151804
-    second: deerGod_MoveF_3
+      213: 6630326506055133169
+    second: deerGod_moveF_3
   - first:
-      213: 5276887989047707346
-    second: deerGod_MoveF_4
+      213: 4584513433218034117
+    second: deerGod_moveF_4
   - first:
-      213: 7867736878117301410
-    second: deerGod_MoveF_5
+      213: 7781222953646733259
+    second: deerGod_moveF_5
   - first:
-      213: 7618688444175480206
-    second: deerGod_MoveF_6
+      213: -1065412055899014767
+    second: deerGod_moveF_6
   - first:
-      213: -5886141194474952587
-    second: deerGod_MoveF_7
+      213: -7922105613539299488
+    second: deerGod_moveF_7
   - first:
-      213: -7883818459271283452
-    second: deerGod_MoveF_8
+      213: 7630368257823705545
+    second: deerGod_moveF_8
   - first:
-      213: -5114109947886339963
-    second: deerGod_MoveF_9
+      213: 5600651869431234799
+    second: deerGod_moveF_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -99,7 +99,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -127,13 +127,145 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: deerGod_MoveF_0
+      name: deerGod_moveF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97faf3ea8f1d902b0800000000000000
+      internalID: -5617728194162479239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_moveF_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ce7d8db4f0b2f00800000000000000
+      internalID: 1092984153002470429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_moveF_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d9f8d1d904e0110800000000000000
+      internalID: 1228990791868718377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_moveF_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e54a04d6a30c50800000000000000
+      internalID: 6630326506055133169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_moveF_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a7fe7da67f9f30800000000000000
+      internalID: 4584513433218034117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_moveF_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7ba36bc057cfb60800000000000000
+      internalID: 7781222953646733259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_moveF_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 115
-        height: 99
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,20 +274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a067b3664406b6e90800000000000000
-      internalID: -7031420546319682038
+      spriteID: 19978b44165e631f0800000000000000
+      internalID: -1065412055899014767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_MoveF_1
+      name: deerGod_moveF_7
       rect:
         serializedVersion: 2
-        x: 115
+        x: 256
         y: 0
-        width: 115
-        height: 99
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,140 +296,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4740e1d2158dc19a0800000000000000
-      internalID: -6260891538790939532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_MoveF_2
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 0
-        width: 115
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8c1208ed839da360800000000000000
-      internalID: 7182559218417933450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_MoveF_3
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 0
-        width: 115
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 402a0577a42c51490800000000000000
-      internalID: -7776095556500151804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_MoveF_4
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 0
-        width: 115
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d6c6bafaa54b3940800000000000000
-      internalID: 5276887989047707346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_MoveF_5
-      rect:
-        serializedVersion: 2
-        x: 575
-        y: 0
-        width: 115
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ac2c6e6101df2d60800000000000000
-      internalID: 7867736878117301410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_MoveF_6
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 0
-        width: 115
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e85f37146c40bb960800000000000000
-      internalID: 7618688444175480206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_MoveF_7
-      rect:
-        serializedVersion: 2
-        x: 805
-        y: 0
-        width: 115
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 578e68d05c9305ea0800000000000000
-      internalID: -5886141194474952587
+      spriteID: 06facd7eae60f0290800000000000000
+      internalID: -7922105613539299488
       vertices: []
       indices: 
       edges: []
@@ -306,7 +306,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 26faefadae17fa24f969811e93168d0b
+    spriteID: 80eb6e3863709dd469ddb64074e01434
     internalID: 0
     vertices: []
     indices: 
@@ -316,14 +316,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      deerGod_MoveF_0: -7031420546319682038
-      deerGod_MoveF_1: -6260891538790939532
-      deerGod_MoveF_2: 7182559218417933450
-      deerGod_MoveF_3: -7776095556500151804
-      deerGod_MoveF_4: 5276887989047707346
-      deerGod_MoveF_5: 7867736878117301410
-      deerGod_MoveF_6: 7618688444175480206
-      deerGod_MoveF_7: -5886141194474952587
+      deerGod_moveF_0: -5617728194162479239
+      deerGod_moveF_1: 1092984153002470429
+      deerGod_moveF_2: 1228990791868718377
+      deerGod_moveF_3: 6630326506055133169
+      deerGod_moveF_4: 4584513433218034117
+      deerGod_moveF_5: 7781222953646733259
+      deerGod_moveF_6: -1065412055899014767
+      deerGod_moveF_7: -7922105613539299488
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

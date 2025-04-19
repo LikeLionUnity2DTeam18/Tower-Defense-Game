@@ -3,17 +3,29 @@ guid: f16c16fb5c71f83408c2752f250e56e5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4418899931035792988
-    second: deerGod_IdleF_0
+      213: -7453860073652611213
+    second: deerGod_idleF_0
   - first:
-      213: 3000900150525582281
-    second: deerGod_IdleF_1
+      213: -8691015072377196762
+    second: deerGod_idleF_1
   - first:
-      213: 5097811103106990105
-    second: deerGod_IdleF_2
+      213: 830508513252454127
+    second: deerGod_idleF_2
   - first:
-      213: 2412797944656685257
-    second: deerGod_IdleF_3
+      213: 1151711290146627750
+    second: deerGod_idleF_3
+  - first:
+      213: -3214352967728403752
+    second: deerGod_idleF_4
+  - first:
+      213: -5263899084188081341
+    second: deerGod_idleF_5
+  - first:
+      213: -3530997780306605834
+    second: deerGod_idleF_6
+  - first:
+      213: 1677389377968768699
+    second: deerGod_idleF_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -81,7 +93,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -109,13 +121,145 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: deerGod_IdleF_0
+      name: deerGod_idleF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377187851c19e8890800000000000000
+      internalID: -7453860073652611213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_idleF_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f2461b6df436780800000000000000
+      internalID: -8691015072377196762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_idleF_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feea953b71f868b00800000000000000
+      internalID: 830508513252454127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_idleF_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a02ffcf053bbff00800000000000000
+      internalID: 1151711290146627750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_idleF_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da63d791035463d0800000000000000
+      internalID: -3214352967728403752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_idleF_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34327791cafd2f6b0800000000000000
+      internalID: -5263899084188081341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deerGod_idleF_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 85
-        height: 91
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c56f26f2316135d30800000000000000
-      internalID: 4418899931035792988
+      spriteID: 6f8c1221a306ffec0800000000000000
+      internalID: -3530997780306605834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: deerGod_IdleF_1
+      name: deerGod_idleF_7
       rect:
         serializedVersion: 2
-        x: 85
+        x: 256
         y: 0
-        width: 85
-        height: 91
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,140 +290,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9cb5e7699c655a920800000000000000
-      internalID: 3000900150525582281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_IdleF_2
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 0
-        width: 85
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9100cbc50301fb640800000000000000
-      internalID: 5097811103106990105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_IdleF_3
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 0
-        width: 85
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c8ed0672fafb7120800000000000000
-      internalID: 2412797944656685257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_IdleF_4
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 0
-        width: 85
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2cc9ccd27db023418a83238eaaf9ac8
-      internalID: 557069439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_IdleF_5
-      rect:
-        serializedVersion: 2
-        x: 425
-        y: 0
-        width: 85
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2dd7f8c660038304f94fee45843203d3
-      internalID: 30775567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_IdleF_6
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 0
-        width: 85
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0f9e0f35c05caa94f8688c91785f3189
-      internalID: 630475680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: deerGod_IdleF_7
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 0
-        width: 85
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a741f04d92bd494c930b5223ca69375
-      internalID: 828998018
+      spriteID: bb687d780c8474710800000000000000
+      internalID: 1677389377968768699
       vertices: []
       indices: 
       edges: []
@@ -288,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1f426d3dee0ceb54ea10f7c99874d0b7
+    spriteID: 2debe09299c34bc429e4b1ed48b04644
     internalID: 0
     vertices: []
     indices: 
@@ -298,14 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      deerGod_IdleF_0: 4418899931035792988
-      deerGod_IdleF_1: 3000900150525582281
-      deerGod_IdleF_2: 5097811103106990105
-      deerGod_IdleF_3: 2412797944656685257
-      deerGod_IdleF_4: 557069439
-      deerGod_IdleF_5: 30775567
-      deerGod_IdleF_6: 630475680
-      deerGod_IdleF_7: 828998018
+      deerGod_idleF_0: -7453860073652611213
+      deerGod_idleF_1: -8691015072377196762
+      deerGod_idleF_2: 830508513252454127
+      deerGod_idleF_3: 1151711290146627750
+      deerGod_idleF_4: -3214352967728403752
+      deerGod_idleF_5: -5263899084188081341
+      deerGod_idleF_6: -3530997780306605834
+      deerGod_idleF_7: 1677389377968768699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
