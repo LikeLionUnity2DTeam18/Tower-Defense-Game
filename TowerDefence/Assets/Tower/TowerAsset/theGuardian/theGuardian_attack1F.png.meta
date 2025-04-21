@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: aa88f1a6aaf85e64299732f57b2a8a8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3197629289230952711
+    second: theGuardian_attack1F_0
+  - first:
+      213: 3130373269226423290
+    second: theGuardian_attack1F_1
+  - first:
+      213: 8057867859507526079
+    second: theGuardian_attack1F_2
+  - first:
+      213: -1323894139244477183
+    second: theGuardian_attack1F_3
+  - first:
+      213: -3561671665616626311
+    second: theGuardian_attack1F_4
+  - first:
+      213: 690435055374372376
+    second: theGuardian_attack1F_5
+  - first:
+      213: 3360919328964550693
+    second: theGuardian_attack1F_6
+  - first:
+      213: -5962478029484806445
+    second: theGuardian_attack1F_7
+  - first:
+      213: 4085927508302625137
+    second: theGuardian_attack1F_8
+  - first:
+      213: -3354411287121941563
+    second: theGuardian_attack1F_9
+  - first:
+      213: 4311392347744316998
+    second: theGuardian_attack1F_10
+  - first:
+      213: -2044239497825011814
+    second: theGuardian_attack1F_11
+  - first:
+      213: 3892834311245014071
+    second: theGuardian_attack1F_12
+  - first:
+      213: -3832736656038362221
+    second: theGuardian_attack1F_13
+  - first:
+      213: 5622236529464255812
+    second: theGuardian_attack1F_14
+  - first:
+      213: 5979578839809630646
+    second: theGuardian_attack1F_15
+  - first:
+      213: -8612093952086436370
+    second: theGuardian_attack1F_16
+  - first:
+      213: 4070185421655135415
+    second: theGuardian_attack1F_17
+  - first:
+      213: -8345429296595280307
+    second: theGuardian_attack1F_18
+  - first:
+      213: 6212615905160247244
+    second: theGuardian_attack1F_19
+  - first:
+      213: 3205898717312359195
+    second: theGuardian_attack1F_20
+  - first:
+      213: 387790825111302027
+    second: theGuardian_attack1F_21
+  - first:
+      213: 3464405951731155880
+    second: theGuardian_attack1F_22
+  - first:
+      213: -6619737401837218560
+    second: theGuardian_attack1F_23
+  - first:
+      213: -20098826004985135
+    second: theGuardian_attack1F_24
+  - first:
+      213: 2701324717667064281
+    second: theGuardian_attack1F_25
+  - first:
+      213: -5896244045485085501
+    second: theGuardian_attack1F_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theGuardian_attack1F_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6110c6a1dbf93d0800000000000000
+      internalID: -3197629289230952711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1168
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38e9627e1517b20800000000000000
+      internalID: 3130373269226423290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1168
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9bbf4302c43df60800000000000000
+      internalID: 8057867859507526079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_3
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1168
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1058c1e6b4590ade0800000000000000
+      internalID: -1323894139244477183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_4
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1168
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dd85c9d76629ec0800000000000000
+      internalID: -3561671665616626311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_5
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1168
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e0118560be49900800000000000000
+      internalID: 690435055374372376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5202da1a25264ae20800000000000000
+      internalID: 3360919328964550693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 876
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deac7f92d5014da0800000000000000
+      internalID: -5962478029484806445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_8
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 876
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179ff5eab6124b830800000000000000
+      internalID: 4085927508302625137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_9
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 876
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb2980f4bcb271d0800000000000000
+      internalID: -3354411287121941563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_10
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 876
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e23ae5f7425db30800000000000000
+      internalID: 4311392347744316998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_11
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 876
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a973150f10761a3e0800000000000000
+      internalID: -2044239497825011814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73426335e20260630800000000000000
+      internalID: 3892834311245014071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 584
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393073b61526fcac0800000000000000
+      internalID: -3832736656038362221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_14
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 584
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44521fde552360e40800000000000000
+      internalID: 5622236529464255812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_15
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 584
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1ab4d064bbbf250800000000000000
+      internalID: 5979578839809630646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_16
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 584
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5199ded22bb7880800000000000000
+      internalID: -8612093952086436370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_17
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 584
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b45ab383143c7830800000000000000
+      internalID: 4070185421655135415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4edc4e45441f2c80800000000000000
+      internalID: -8345429296595280307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 292
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7b409ff35a73650800000000000000
+      internalID: 6212615905160247244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_20
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 292
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b9847d5e3ad7c20800000000000000
+      internalID: 3205898717312359195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_21
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 292
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f2ae963b5b16500800000000000000
+      internalID: 387790825111302027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_22
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 292
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34fae9bda041030800000000000000
+      internalID: 3464405951731155880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_23
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 292
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0051029e7e7f124a0800000000000000
+      internalID: -6619737401837218560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da0297693898bff0800000000000000
+      internalID: -20098826004985135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_attack1F_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 580
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9178bb4880d7520800000000000000
+      internalID: 2701324717667064281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42e72ce091d60fa4bb2376b73bf1888a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      theGuardian_attack1F_0: -3197629289230952711
+      theGuardian_attack1F_1: 3130373269226423290
+      theGuardian_attack1F_10: 4311392347744316998
+      theGuardian_attack1F_11: -2044239497825011814
+      theGuardian_attack1F_12: 3892834311245014071
+      theGuardian_attack1F_13: -3832736656038362221
+      theGuardian_attack1F_14: 5622236529464255812
+      theGuardian_attack1F_15: 5979578839809630646
+      theGuardian_attack1F_16: -8612093952086436370
+      theGuardian_attack1F_17: 4070185421655135415
+      theGuardian_attack1F_18: -8345429296595280307
+      theGuardian_attack1F_19: 6212615905160247244
+      theGuardian_attack1F_2: 8057867859507526079
+      theGuardian_attack1F_20: 3205898717312359195
+      theGuardian_attack1F_21: 387790825111302027
+      theGuardian_attack1F_22: 3464405951731155880
+      theGuardian_attack1F_23: -6619737401837218560
+      theGuardian_attack1F_24: -20098826004985135
+      theGuardian_attack1F_25: 2701324717667064281
+      theGuardian_attack1F_3: -1323894139244477183
+      theGuardian_attack1F_4: -3561671665616626311
+      theGuardian_attack1F_5: 690435055374372376
+      theGuardian_attack1F_6: 3360919328964550693
+      theGuardian_attack1F_7: -5962478029484806445
+      theGuardian_attack1F_8: 4085927508302625137
+      theGuardian_attack1F_9: -3354411287121941563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
