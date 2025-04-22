@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blocker_Lvl1_01_Idle_Back_02_0: -5177937688115776406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
