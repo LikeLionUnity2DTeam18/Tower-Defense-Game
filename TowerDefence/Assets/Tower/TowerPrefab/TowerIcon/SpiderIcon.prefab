@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1114070239516844765
+--- !u!1 &5764122845598796082
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,40 +8,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3985555696737002883}
-  - component: {fileID: 1196190862764215044}
-  - component: {fileID: 5290536880354709712}
-  - component: {fileID: 9055540649118950311}
-  - component: {fileID: 6971246513965447379}
+  - component: {fileID: 4860039595297561586}
+  - component: {fileID: 1581148316030102865}
+  - component: {fileID: 8300122136753337415}
+  - component: {fileID: 2168372222769641850}
+  - component: {fileID: 4830562139090216262}
   m_Layer: 0
-  m_Name: eye
-  m_TagString: Untagged
+  m_Name: SpiderIcon
+  m_TagString: TowerIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3985555696737002883
+--- !u!4 &4860039595297561586
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114070239516844765}
+  m_GameObject: {fileID: 5764122845598796082}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.38, y: -2.28, z: 0}
+  m_LocalPosition: {x: 6.42, y: 3.16, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &1196190862764215044
+--- !u!212 &1581148316030102865
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114070239516844765}
+  m_GameObject: {fileID: 5764122845598796082}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -79,72 +79,37 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -112968808170193824, guid: 2439f0b80eaf0c54fa78f2bdd59041bf, type: 3}
+  m_Sprite: {fileID: -213109981696728556, guid: aa44d6965f775df4ca152438e08e8b36, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.12, y: 4.77}
+  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &5290536880354709712
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114070239516844765}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 00f82aa6d117b4148b778911e3383eca, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!114 &9055540649118950311
+--- !u!114 &8300122136753337415
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114070239516844765}
+  m_GameObject: {fileID: 5764122845598796082}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 03a2ed4b8fa349e4eb08121668285a18, type: 3}
+  m_Script: {fileID: 11500000, guid: 8d84b516349b4c14c845ca880fecb85b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icons:
-  - {fileID: 8147447063523395120, guid: 6ae583f8c5e6c1843aa5739a928576d4, type: 3}
-  - {fileID: 5871276474628059452, guid: dff85195184a87e4c8eaa857e4315638, type: 3}
-  - {fileID: 2355183272093655826, guid: 6795f888ce645a84abf43b7925b1b27b, type: 3}
-  - {fileID: 5764122845598796082, guid: 725e22fc6eb2341498aefc05c7df620a, type: 3}
-  - {fileID: 6121262684634561198, guid: c8d10641df7887e48adbdf2ed8f39a1a, type: 3}
-  - {fileID: 8118555621734483768, guid: fa2c22bb51c59d340b1c7855d76564a4, type: 3}
-  - {fileID: 9098780993001472448, guid: 6f1e10a682c75614e9775f5b6417015e, type: 3}
-  - {fileID: 8398775767973915075, guid: 00dc5b2d20830494d9d9665e58514e2a, type: 3}
-  - {fileID: 2405804855953346657, guid: 3312245b0071d6546b2a7fa2046de2ff, type: 3}
-  - {fileID: 7354938202994455242, guid: f061b23135803d14a80669872008cbcf, type: 3}
-  - {fileID: 2634072822118698467, guid: 47158d0f1ae78174393ab96b2042bf86, type: 3}
-  - {fileID: 2466671558554157210, guid: 0b9f6e9f935a4e2458fd7dcf7417b6de, type: 3}
-  - {fileID: 5545378091509048840, guid: 1fd052bde7712b54fa389bcb2a08ad1e, type: 3}
---- !u!58 &6971246513965447379
-CircleCollider2D:
+  type: 3
+--- !u!61 &2168372222769641850
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114070239516844765}
+  m_GameObject: {fileID: 5764122845598796082}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -172,5 +137,31 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.03345704, y: 0}
-  m_Radius: 1.12133
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.31, y: 1.13}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!114 &4830562139090216262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5764122845598796082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 646d626fadfd7db4ea86777dc4506939, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Radius: 1
+  whatIsBeacon:
+    serializedVersion: 2
+    m_Bits: 64
