@@ -2,12 +2,36 @@ using UnityEngine;
 
 public class TowerAnimationTrigger : MonoBehaviour
 {
-    private Tower tower => GetComponent<Tower>();
+    private Tower tower;
+    private TowerProjectile towerProjectile;
 
-
-    public void AnimationTrigger1()
+    private void Awake()
     {
-        tower.AnimationTrigger();
-        Debug.Log("애니메이션 끝");
+        tower = GetComponent<Tower>();
+        towerProjectile = GetComponent<TowerProjectile>();
+    }
+
+    public void AnimationTriggerEndwt()
+    {
+        if (tower != null)
+            tower.AnimationTriggerEnd();
+    }
+
+    public void AnimationTriggerStartwt()
+    {
+        if (tower != null)
+            tower.AnimationTriggerStart();
+    }
+
+    public void AnimationTriggerSpawnwt()
+    {
+        if (tower != null)
+            tower.AnimationTrigger();
+    }
+
+    public void AnimationTriggerEnd()
+    {
+        if (towerProjectile != null)
+            towerProjectile.AnimationTriggerEnd();
     }
 }
