@@ -2,8 +2,10 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Tower
+  - TowerIcon
   layers:
   - Default
   - TransparentFX
@@ -11,8 +13,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Beacon
+  - Enemy
   - 
   - 
   - 
@@ -41,3 +43,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1798903049
+    locked: 0
+  - name: World
+    uniqueID: 1969109931
+    locked: 0
+  - name: Projectile
+    uniqueID: 3465859155
+    locked: 0
+  - name: Effect
+    uniqueID: 2826219829
+    locked: 0
+  - name: UI
+    uniqueID: 1661598547
+    locked: 0
+  m_RenderingLayers:
+  - Default
