@@ -198,7 +198,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blocker_Lvl1_01_Front_Death_03_0: -243110229502972515
+      Blocker_Lvl1_01_Front_Death_03_1: 3450861690829328145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
