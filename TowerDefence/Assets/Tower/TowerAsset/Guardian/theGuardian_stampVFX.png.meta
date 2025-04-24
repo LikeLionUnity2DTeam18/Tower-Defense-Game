@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 9a37f6e64cf15cd4cb279564cf94fcd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8707577679277401175
+    second: theGuardian_stampVFX_0
+  - first:
+      213: 6571877378992562897
+    second: theGuardian_stampVFX_1
+  - first:
+      213: 1330401830298424186
+    second: theGuardian_stampVFX_2
+  - first:
+      213: 8163031278434716647
+    second: theGuardian_stampVFX_3
+  - first:
+      213: 8372229904597140377
+    second: theGuardian_stampVFX_4
+  - first:
+      213: 1416376687936970003
+    second: theGuardian_stampVFX_5
+  - first:
+      213: 4855154228695338513
+    second: theGuardian_stampVFX_6
+  - first:
+      213: -7701908482866890348
+    second: theGuardian_stampVFX_7
+  - first:
+      213: -4039798923191040629
+    second: theGuardian_stampVFX_8
+  - first:
+      213: 2433636911450355099
+    second: theGuardian_stampVFX_9
+  - first:
+      213: 9104626371139455535
+    second: theGuardian_stampVFX_10
+  - first:
+      213: 7626368272358514637
+    second: theGuardian_stampVFX_11
+  - first:
+      213: -7420766008964717738
+    second: theGuardian_stampVFX_12
+  - first:
+      213: 4540654052902565933
+    second: theGuardian_stampVFX_13
+  - first:
+      213: 7841251473857025620
+    second: theGuardian_stampVFX_14
+  - first:
+      213: -5546682940953280959
+    second: theGuardian_stampVFX_15
+  - first:
+      213: 4206189660778131801
+    second: theGuardian_stampVFX_16
+  - first:
+      213: -5848195525138873455
+    second: theGuardian_stampVFX_17
+  - first:
+      213: -8626869256052658144
+    second: theGuardian_stampVFX_18
+  - first:
+      213: 873605591321948034
+    second: theGuardian_stampVFX_19
+  - first:
+      213: 6042410035614686871
+    second: theGuardian_stampVFX_20
+  - first:
+      213: -3469176576125413911
+    second: theGuardian_stampVFX_21
+  - first:
+      213: 1239139212118992244
+    second: theGuardian_stampVFX_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754237bb3c787d870800000000000000
+      internalID: 8707577679277401175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1104
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2e64a28aff33b50800000000000000
+      internalID: 6571877378992562897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_2
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1104
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7397777a69867210800000000000000
+      internalID: 1330401830298424186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_3
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1104
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb0189b2b9e84170800000000000000
+      internalID: 8163031278434716647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_4
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1104
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934a618db2203470800000000000000
+      internalID: 8372229904597140377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d90a8e71bf7a310800000000000000
+      internalID: 1416376687936970003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 736
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e0f1b1c09f06340800000000000000
+      internalID: 4855154228695338513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_7
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 736
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499b6229a035d1590800000000000000
+      internalID: -7701908482866890348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_8
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 736
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85413b7840cfe7c0800000000000000
+      internalID: -4039798923191040629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_9
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 736
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95f64380e306c120800000000000000
+      internalID: 2433636911450355099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2acb6832712a5e70800000000000000
+      internalID: 9104626371139455535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 368
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf1d38998d46d960800000000000000
+      internalID: 7626368272358514637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 368
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6536d5ab1a4240990800000000000000
+      internalID: -7420766008964717738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_13
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 371
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f13fbdc4a30f30800000000000000
+      internalID: 4540654052902565933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_14
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 368
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45691c5bba8b1dc60800000000000000
+      internalID: 7841251473857025620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eb2c6b0493603b0800000000000000
+      internalID: -5546682940953280959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_16
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951f99c06336f5a30800000000000000
+      internalID: 4206189660778131801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_17
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193811ba72907dea0800000000000000
+      internalID: -5848195525138873455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theGuardian_stampVFX_18
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 610
+        height: 368
+      alignment: 9
+      pivot: {x: 0.48, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0203e356e14374880800000000000000
+      internalID: -8626869256052658144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 56f901e3e894a5b4092ccbc122dadc6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      theGuardian_stampVFX_0: 8707577679277401175
+      theGuardian_stampVFX_1: 6571877378992562897
+      theGuardian_stampVFX_10: 9104626371139455535
+      theGuardian_stampVFX_11: 7626368272358514637
+      theGuardian_stampVFX_12: -7420766008964717738
+      theGuardian_stampVFX_13: 4540654052902565933
+      theGuardian_stampVFX_14: 7841251473857025620
+      theGuardian_stampVFX_15: -5546682940953280959
+      theGuardian_stampVFX_16: 4206189660778131801
+      theGuardian_stampVFX_17: -5848195525138873455
+      theGuardian_stampVFX_18: -8626869256052658144
+      theGuardian_stampVFX_2: 1330401830298424186
+      theGuardian_stampVFX_3: 8163031278434716647
+      theGuardian_stampVFX_4: 8372229904597140377
+      theGuardian_stampVFX_5: 1416376687936970003
+      theGuardian_stampVFX_6: 4855154228695338513
+      theGuardian_stampVFX_7: -7701908482866890348
+      theGuardian_stampVFX_8: -4039798923191040629
+      theGuardian_stampVFX_9: 2433636911450355099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
