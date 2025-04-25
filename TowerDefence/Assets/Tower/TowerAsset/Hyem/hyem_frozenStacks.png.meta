@@ -706,6 +706,72 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: hyem_frozenStacks_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f906526d910a582418a4dcc8c688a06f
+      internalID: 1633048907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_frozenStacks_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec547723557d9a42aaf086a55c8bb11
+      internalID: 982422011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_frozenStacks_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5527826b7e7b9114e90b4dd302f5efe4
+      internalID: 1597422976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -735,6 +801,9 @@ TextureImporter:
       hyem_frozenStacks_2: 6298436008004701733
       hyem_frozenStacks_20: -212177753350598577
       hyem_frozenStacks_21: -27381894469975543
+      hyem_frozenStacks_22: 1633048907
+      hyem_frozenStacks_23: 982422011
+      hyem_frozenStacks_24: 1597422976
       hyem_frozenStacks_3: -2238556799510907539
       hyem_frozenStacks_4: 3440120391405072800
       hyem_frozenStacks_5: -2785505369287758621
