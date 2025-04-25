@@ -463,6 +463,10 @@ PrefabInstance:
       value: Beacon
       objectReference: {fileID: 0}
     - target: {fileID: 871968380932141752, guid: 31617b4094113f9439cbb805d8b2aed2, type: 3}
+      propertyPath: towers.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 871968380932141752, guid: 31617b4094113f9439cbb805d8b2aed2, type: 3}
       propertyPath: 'towers.Array.data[0]'
       value: 
       objectReference: {fileID: 6132440690679419821, guid: a9aafa75156ea0f4eb1e0aed265d2313, type: 3}
@@ -470,6 +474,10 @@ PrefabInstance:
       propertyPath: 'towers.Array.data[1]'
       value: 
       objectReference: {fileID: 9149709071479638485, guid: 19de247f3eb86144ebd8258146a33659, type: 3}
+    - target: {fileID: 871968380932141752, guid: 31617b4094113f9439cbb805d8b2aed2, type: 3}
+      propertyPath: 'towers.Array.data[2]'
+      value: 
+      objectReference: {fileID: 9141126267972075348, guid: 8a3eb9646ae4df14bb2807e732fff313, type: 3}
     - target: {fileID: 4563991540840473069, guid: 31617b4094113f9439cbb805d8b2aed2, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.6569203

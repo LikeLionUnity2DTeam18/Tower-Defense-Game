@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 6664366347163438}
   - component: {fileID: 8487717080178401496}
   - component: {fileID: 6039272265704561808}
-  - component: {fileID: 8480626220439980179}
+  - component: {fileID: -3101818452564625720}
   - component: {fileID: 6026722002686326147}
   - component: {fileID: 9083677497597828876}
   m_Layer: 0
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83a70774e3152124688392b5485aec3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &8480626220439980179
+--- !u!114 &-3101818452564625720
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -239,9 +239,9 @@ MonoBehaviour:
   skillCoolDown: 20
   timer: 20
   dir: {x: 0, y: 0}
-  meleeAttack: 2
-  rangedAttack: 7
-  detectRange: 4
+  meleeAttack: 1
+  rangedAttack: 5
+  detectRange: 2
   projectile: {fileID: 3157875176317522960, guid: 18b01d5d2e87295418a5d5e0c186efd9, type: 3}
   firePoint: {fileID: 3737457073281349340}
 --- !u!114 &6026722002686326147
