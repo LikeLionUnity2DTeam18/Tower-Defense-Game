@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -273,7 +286,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skills_ShortBow_TightVolley_TargetN_01_0: 6457287097271526442
+      Skills_ShortBow_TightVolley_TargetN_01_1: 6185467771949310757
+      Skills_ShortBow_TightVolley_TargetN_01_2: -912313218436921682
+      Skills_ShortBow_TightVolley_TargetN_01_3: -3616690755065906754
+      Skills_ShortBow_TightVolley_TargetN_01_4: 3892266622126095214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
