@@ -448,7 +448,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skills_ShortBow_TightVolley_Caster_09_0: 6493923715872420885
+      Skills_ShortBow_TightVolley_Caster_09_1: -2526059773492874908
+      Skills_ShortBow_TightVolley_Caster_09_10: 2802944260361614318
+      Skills_ShortBow_TightVolley_Caster_09_11: 8110181874472486405
+      Skills_ShortBow_TightVolley_Caster_09_2: -8128907835258087383
+      Skills_ShortBow_TightVolley_Caster_09_3: 4926455587073220201
+      Skills_ShortBow_TightVolley_Caster_09_4: 6502695144116005011
+      Skills_ShortBow_TightVolley_Caster_09_5: 6983751639237376432
+      Skills_ShortBow_TightVolley_Caster_09_6: -1755251564529279580
+      Skills_ShortBow_TightVolley_Caster_09_7: -3076101597667664556
+      Skills_ShortBow_TightVolley_Caster_09_8: 9042080051291803752
+      Skills_ShortBow_TightVolley_Caster_09_9: -8165927618398581556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

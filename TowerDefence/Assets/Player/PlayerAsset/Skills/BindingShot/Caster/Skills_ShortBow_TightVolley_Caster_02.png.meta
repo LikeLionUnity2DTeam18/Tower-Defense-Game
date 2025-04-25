@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skills_ShortBow_TightVolley_Caster_02_0: -7002359604814265610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
