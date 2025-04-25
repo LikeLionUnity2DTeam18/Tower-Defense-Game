@@ -104,8 +104,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   radius: 3.14
   towers:
-  - {fileID: 1081529484801244094, guid: 1f24525b26e267e4abab7aac943c773f, type: 3}
-  - {fileID: 7599342697616138058, guid: 733da137bcbb6144c90db98cff6ffc93, type: 3}
+  - {fileID: 6132440690679419821, guid: a9aafa75156ea0f4eb1e0aed265d2313, type: 3}
+  - {fileID: 9149709071479638485, guid: 19de247f3eb86144ebd8258146a33659, type: 3}
+  - {fileID: 9141126267972075348, guid: 8a3eb9646ae4df14bb2807e732fff313, type: 3}
 --- !u!50 &1278579093230165570
 Rigidbody2D:
   serializedVersion: 5

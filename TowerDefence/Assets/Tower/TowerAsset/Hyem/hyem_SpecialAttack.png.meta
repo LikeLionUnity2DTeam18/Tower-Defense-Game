@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: 949eb69d4564b754aa2e65bb2f9d32ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 469496234516902698
+    second: hyem_SpecialAttack_0
+  - first:
+      213: -1935581526032260582
+    second: hyem_SpecialAttack_1
+  - first:
+      213: 2260854041128694839
+    second: hyem_SpecialAttack_2
+  - first:
+      213: -3190210862877470053
+    second: hyem_SpecialAttack_3
+  - first:
+      213: -1515433841528570587
+    second: hyem_SpecialAttack_4
+  - first:
+      213: -6798072630197496003
+    second: hyem_SpecialAttack_5
+  - first:
+      213: 1355915783959572345
+    second: hyem_SpecialAttack_6
+  - first:
+      213: 5458389468781467842
+    second: hyem_SpecialAttack_7
+  - first:
+      213: 6232931747086361375
+    second: hyem_SpecialAttack_8
+  - first:
+      213: -2944226458613170337
+    second: hyem_SpecialAttack_9
+  - first:
+      213: 7786110764023222373
+    second: hyem_SpecialAttack_10
+  - first:
+      213: 5636408380614022746
+    second: hyem_SpecialAttack_11
+  - first:
+      213: -1810473742057859186
+    second: hyem_SpecialAttack_12
+  - first:
+      213: -2296876349217696575
+    second: hyem_SpecialAttack_13
+  - first:
+      213: 1947245069825777643
+    second: hyem_SpecialAttack_14
+  - first:
+      213: 8559661289426672803
+    second: hyem_SpecialAttack_15
+  - first:
+      213: 3478999796926531912
+    second: hyem_SpecialAttack_16
+  - first:
+      213: -3087718121804543302
+    second: hyem_SpecialAttack_17
+  - first:
+      213: 2993629996813363556
+    second: hyem_SpecialAttack_18
+  - first:
+      213: 6302066857957395953
+    second: hyem_SpecialAttack_19
+  - first:
+      213: 7562494374358183036
+    second: hyem_SpecialAttack_20
+  - first:
+      213: -478590963299696829
+    second: hyem_SpecialAttack_21
+  - first:
+      213: 1662145339588518447
+    second: hyem_SpecialAttack_22
+  - first:
+      213: -3334548471559322423
+    second: hyem_SpecialAttack_23
+  - first:
+      213: 3624157708201510704
+    second: hyem_SpecialAttack_24
+  - first:
+      213: -3020204215975625659
+    second: hyem_SpecialAttack_25
+  - first:
+      213: -4008397238332803854
+    second: hyem_SpecialAttack_26
+  - first:
+      213: 3628498694217186193
+    second: hyem_SpecialAttack_27
+  - first:
+      213: -2171245130632700316
+    second: hyem_SpecialAttack_28
+  - first:
+      213: 8536411489101527471
+    second: hyem_SpecialAttack_29
+  - first:
+      213: 8757634352942306099
+    second: hyem_SpecialAttack_30
+  - first:
+      213: -7567763152071204644
+    second: hyem_SpecialAttack_31
+  - first:
+      213: 7846497467928336444
+    second: hyem_SpecialAttack_32
+  - first:
+      213: -4448089187074353367
+    second: hyem_SpecialAttack_33
+  - first:
+      213: -7491000149241046174
+    second: hyem_SpecialAttack_34
+  - first:
+      213: -9052394082264165862
+    second: hyem_SpecialAttack_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2373c9765cf38600800000000000000
+      internalID: 469496234516902698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12e9037bde6325e0800000000000000
+      internalID: -1935581526032260582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7347b7a95ca206f10800000000000000
+      internalID: 2260854041128694839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9298976f181ab3d0800000000000000
+      internalID: -3190210862877470053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d751343f818fae0800000000000000
+      internalID: -1515433841528570587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d5c7e5f468a1a0800000000000000
+      internalID: -6798072630197496003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f6148b83e21d210800000000000000
+      internalID: 1355915783959572345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d3745d4810cb40800000000000000
+      internalID: 5458389468781467842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1366568662df7650800000000000000
+      internalID: 6232931747086361375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f3e0492a10427d0800000000000000
+      internalID: -2944226458613170337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560137fbc72dd0c60800000000000000
+      internalID: 7786110764023222373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5698872f8b883e40800000000000000
+      internalID: 5636408380614022746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87187159b7efd6e0800000000000000
+      internalID: -1810473742057859186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c412e7312bdf10e0800000000000000
+      internalID: -2296876349217696575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef9895f211060b10800000000000000
+      internalID: 1947245069825777643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac50f977960ac670800000000000000
+      internalID: 8559661289426672803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849467df1e3e74030800000000000000
+      internalID: 3478999796926531912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abacd474ab83625d0800000000000000
+      internalID: -3087718121804543302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469a3050f928b8920800000000000000
+      internalID: 2993629996813363556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd0053ea60757750800000000000000
+      internalID: 6302066857957395953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c628fc09063f860800000000000000
+      internalID: 7562494374358183036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f3fc7fd04bb59f0800000000000000
+      internalID: -478590963299696829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22ae334160211710800000000000000
+      internalID: 1662145339588518447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4826215dd49b1d0800000000000000
+      internalID: -3334548471559322423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0374857eb389b4230800000000000000
+      internalID: 3624157708201510704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cb2ad64441616d0800000000000000
+      internalID: -3020204215975625659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4348af2ff4f58c0800000000000000
+      internalID: -4008397238332803854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bb8c876540b5230800000000000000
+      internalID: 3628498694217186193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_SpecialAttack_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e5754be003ed1e0800000000000000
+      internalID: -2171245130632700316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a208cd44d80dad04f9d27a6f4aa93085
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hyem_SpecialAttack_0: 469496234516902698
+      hyem_SpecialAttack_1: -1935581526032260582
+      hyem_SpecialAttack_10: 7786110764023222373
+      hyem_SpecialAttack_11: 5636408380614022746
+      hyem_SpecialAttack_12: -1810473742057859186
+      hyem_SpecialAttack_13: -2296876349217696575
+      hyem_SpecialAttack_14: 1947245069825777643
+      hyem_SpecialAttack_15: 8559661289426672803
+      hyem_SpecialAttack_16: 3478999796926531912
+      hyem_SpecialAttack_17: -3087718121804543302
+      hyem_SpecialAttack_18: 2993629996813363556
+      hyem_SpecialAttack_19: 6302066857957395953
+      hyem_SpecialAttack_2: 2260854041128694839
+      hyem_SpecialAttack_20: 7562494374358183036
+      hyem_SpecialAttack_21: -478590963299696829
+      hyem_SpecialAttack_22: 1662145339588518447
+      hyem_SpecialAttack_23: -3334548471559322423
+      hyem_SpecialAttack_24: 3624157708201510704
+      hyem_SpecialAttack_25: -3020204215975625659
+      hyem_SpecialAttack_26: -4008397238332803854
+      hyem_SpecialAttack_27: 3628498694217186193
+      hyem_SpecialAttack_28: -2171245130632700316
+      hyem_SpecialAttack_3: -3190210862877470053
+      hyem_SpecialAttack_4: -1515433841528570587
+      hyem_SpecialAttack_5: -6798072630197496003
+      hyem_SpecialAttack_6: 1355915783959572345
+      hyem_SpecialAttack_7: 5458389468781467842
+      hyem_SpecialAttack_8: 6232931747086361375
+      hyem_SpecialAttack_9: -2944226458613170337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
