@@ -198,7 +198,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skills_ShortBow_TightVolley_Target_02_0: 64632034497704323
+      Skills_ShortBow_TightVolley_Target_02_1: -4773379508861384605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
