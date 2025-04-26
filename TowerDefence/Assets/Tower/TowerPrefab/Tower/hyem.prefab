@@ -139,6 +139,7 @@ GameObject:
   - component: {fileID: 2380201855020756826}
   - component: {fileID: 2771663253632596254}
   - component: {fileID: -1560100797234309141}
+  - component: {fileID: 8722972008462866026}
   - component: {fileID: 3281271766032558383}
   - component: {fileID: 3573549989699291234}
   m_Layer: 0
@@ -331,12 +332,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4581d1f7785f3994aaa08cb56306321e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 1
-  skillCoolDown: 20
+  stats: {fileID: 0}
   timer: 20
-  meleeAttack: 1
-  rangedAttack: 5
-  detectRange: 2
   dir: {x: 0, y: 0}
   projectile: {fileID: 438383299216906353, guid: 78376f3d70c8b5f40b044ac521638fbd, type: 3}
   firePoints:
@@ -353,6 +350,46 @@ MonoBehaviour:
   spreadAngle: 60
   minScale: 0.5
   maxScale: 1.5
+--- !u!114 &8722972008462866026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9141126267972075348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab5541ab3203944298853853b8c8333, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp:
+    baseValue: 0
+    modifiers: 
+  melee:
+    baseValue: 0
+    modifiers: 
+  range:
+    baseValue: 0
+    modifiers: 
+  special:
+    baseValue: 0
+    modifiers: 
+  cooldown:
+    baseValue: 20
+    modifiers: 
+  speed:
+    baseValue: 1
+    modifiers: 
+  meleeDistance:
+    baseValue: 1
+    modifiers: 
+  moveDistance:
+    baseValue: 3
+    modifiers: 
+  rangeDistance:
+    baseValue: 5
+    modifiers: 
+  currentHealth: 0
 --- !u!114 &3281271766032558383
 MonoBehaviour:
   m_ObjectHideFlags: 0
