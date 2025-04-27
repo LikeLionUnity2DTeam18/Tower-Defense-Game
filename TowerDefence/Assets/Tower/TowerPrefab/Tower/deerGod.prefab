@@ -205,11 +205,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7d6f1f1dd3b964488fdc796942aca09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 20
+  timer: 3
   dir: {x: 0, y: 0}
   projectile: {fileID: 2549324250867126614, guid: d419ea8402ef4724a8b804f61974223f, type: 3}
-  interval: 0.1
-  distanceBetweenSpikes: 1
+  flowerPrefab: {fileID: 5334156068009748084, guid: 25069a2087c09e3429dd487ad5cb163a, type: 3}
+  interval: 0.05
+  distanceBetweenSpikes: 0.5
 --- !u!114 &4044900974222935795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -235,7 +236,7 @@ MonoBehaviour:
     baseValue: 0
     modifiers: 
   cooldown:
-    baseValue: 20
+    baseValue: 10
     modifiers: 
   speed:
     baseValue: 1
