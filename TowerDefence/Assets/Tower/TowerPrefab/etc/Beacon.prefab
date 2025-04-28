@@ -110,6 +110,7 @@ MonoBehaviour:
   - {fileID: 6132440690679419821, guid: a9aafa75156ea0f4eb1e0aed265d2313, type: 3}
   - {fileID: 9149709071479638485, guid: 19de247f3eb86144ebd8258146a33659, type: 3}
   - {fileID: 9141126267972075348, guid: 8a3eb9646ae4df14bb2807e732fff313, type: 3}
+  - {fileID: 9141126267972075348, guid: 609f0c4f48430da46a99c876beb32ac6, type: 3}
   isActive: 0
 --- !u!50 &1278579093230165570
 Rigidbody2D:
