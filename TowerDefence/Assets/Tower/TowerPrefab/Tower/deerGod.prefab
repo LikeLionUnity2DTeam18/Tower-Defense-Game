@@ -15,8 +15,10 @@ GameObject:
   - component: {fileID: 6446412641574995658}
   - component: {fileID: 6046250628829626744}
   - component: {fileID: 8165966710365864835}
+  - component: {fileID: 4044900974222935795}
   - component: {fileID: 3223798719187647412}
   - component: {fileID: 2813331052201124630}
+  - component: {fileID: 3831374737504927157}
   m_Layer: 0
   m_Name: deerGod
   m_TagString: Tower
@@ -80,8 +82,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1969109931
+  m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: -4799792746026620881, guid: 971e6706af7bd8b409c5b71392df2637, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -203,16 +205,52 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7d6f1f1dd3b964488fdc796942aca09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
-  skillCoolDown: 20
-  timer: 20
+  timer: 3
   dir: {x: 0, y: 0}
-  meleeAttack: 1.5
-  rangedAttack: 6
-  detectRange: 3
   projectile: {fileID: 2549324250867126614, guid: d419ea8402ef4724a8b804f61974223f, type: 3}
-  interval: 0.1
-  distanceBetweenSpikes: 1
+  flowerPrefab: {fileID: 5334156068009748084, guid: 25069a2087c09e3429dd487ad5cb163a, type: 3}
+  interval: 0.05
+  distanceBetweenSpikes: 0.5
+--- !u!114 &4044900974222935795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6132440690679419821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab5541ab3203944298853853b8c8333, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp:
+    baseValue: 0
+    modifiers: 
+  melee:
+    baseValue: 0
+    modifiers: 
+  range:
+    baseValue: 0
+    modifiers: 
+  special:
+    baseValue: 0
+    modifiers: 
+  cooldown:
+    baseValue: 10
+    modifiers: 
+  speed:
+    baseValue: 1
+    modifiers: 
+  meleeDistance:
+    baseValue: 1
+    modifiers: 
+  moveDistance:
+    baseValue: 3
+    modifiers: 
+  rangeDistance:
+    baseValue: 5
+    modifiers: 
+  currentHealth: 0
 --- !u!114 &3223798719187647412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -238,3 +276,58 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53d252054ad5c18419e45f76025b4e7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!331 &3831374737504927157
+SpriteMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6132440690679419821}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 15d0c3709176029428a0da2f8cecf0b5, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_MaskAlphaCutoff: 0.2
+  m_FrontSortingLayerID: 0
+  m_BackSortingLayerID: 0
+  m_FrontSortingLayer: 0
+  m_BackSortingLayer: 0
+  m_FrontSortingOrder: 0
+  m_BackSortingOrder: 0
+  m_IsCustomRangeActive: 0
+  m_SpriteSortPoint: 0
+  m_MaskSource: 1
