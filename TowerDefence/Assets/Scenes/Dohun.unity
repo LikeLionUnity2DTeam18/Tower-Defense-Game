@@ -277,8 +277,10 @@ MonoBehaviour:
   skillPrefab: {fileID: 9146608931446303564, guid: 3ef02eb638ab7f94eb3f3ae0f1ac00d2, type: 3}
   cooldown: 1
   skillPrefabN: {fileID: 102405982534705251, guid: 179610b5812f3224cba097e23e6a915d, type: 3}
+  casterPrefab: {fileID: 5008894992307918659, guid: 401ce8cb54c74274aa31638e09d04d4d, type: 3}
   damage: 5
   bindTime: 5
+  castingTime: 1.2
 --- !u!1 &785827151
 GameObject:
   m_ObjectHideFlags: 0
