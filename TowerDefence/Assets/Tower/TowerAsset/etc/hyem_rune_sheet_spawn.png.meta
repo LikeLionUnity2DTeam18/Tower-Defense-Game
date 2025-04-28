@@ -1,0 +1,1832 @@
+fileFormatVersion: 2
+guid: e908e626a049c8c4181aab871c5f59a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 383085924465838439
+    second: hyem_rune_sheet_spawn_0
+  - first:
+      213: 3578443058949302537
+    second: hyem_rune_sheet_spawn_1
+  - first:
+      213: 3846165119321855192
+    second: hyem_rune_sheet_spawn_2
+  - first:
+      213: 4587825222826631035
+    second: hyem_rune_sheet_spawn_3
+  - first:
+      213: 5157080204562512907
+    second: hyem_rune_sheet_spawn_4
+  - first:
+      213: 1945642056925251076
+    second: hyem_rune_sheet_spawn_5
+  - first:
+      213: -9082792096493974400
+    second: hyem_rune_sheet_spawn_6
+  - first:
+      213: 4254732205610628391
+    second: hyem_rune_sheet_spawn_7
+  - first:
+      213: -8037696370182395820
+    second: hyem_rune_sheet_spawn_8
+  - first:
+      213: -8027872790028449542
+    second: hyem_rune_sheet_spawn_9
+  - first:
+      213: -8207863373982459811
+    second: hyem_rune_sheet_spawn_10
+  - first:
+      213: -481280239068164878
+    second: hyem_rune_sheet_spawn_11
+  - first:
+      213: -6758845857092930344
+    second: hyem_rune_sheet_spawn_12
+  - first:
+      213: -4100774585991284472
+    second: hyem_rune_sheet_spawn_13
+  - first:
+      213: 8828491257941885491
+    second: hyem_rune_sheet_spawn_14
+  - first:
+      213: 8074899033609538341
+    second: hyem_rune_sheet_spawn_15
+  - first:
+      213: -70746757051309716
+    second: hyem_rune_sheet_spawn_16
+  - first:
+      213: -6750327137976886540
+    second: hyem_rune_sheet_spawn_17
+  - first:
+      213: 3534578446191791218
+    second: hyem_rune_sheet_spawn_18
+  - first:
+      213: 7753652136562086576
+    second: hyem_rune_sheet_spawn_19
+  - first:
+      213: 1132298985205977629
+    second: hyem_rune_sheet_spawn_20
+  - first:
+      213: 3754252513136072707
+    second: hyem_rune_sheet_spawn_21
+  - first:
+      213: 1474580086297668244
+    second: hyem_rune_sheet_spawn_22
+  - first:
+      213: 2932490411161752475
+    second: hyem_rune_sheet_spawn_23
+  - first:
+      213: -4189686167037138803
+    second: hyem_rune_sheet_spawn_24
+  - first:
+      213: 2841533896947864371
+    second: hyem_rune_sheet_spawn_25
+  - first:
+      213: 5727271743461895556
+    second: hyem_rune_sheet_spawn_26
+  - first:
+      213: 6967305282162006051
+    second: hyem_rune_sheet_spawn_27
+  - first:
+      213: 2814950537950297689
+    second: hyem_rune_sheet_spawn_28
+  - first:
+      213: -5020353744642346409
+    second: hyem_rune_sheet_spawn_29
+  - first:
+      213: 8971587985301074344
+    second: hyem_rune_sheet_spawn_30
+  - first:
+      213: 8410952467026005642
+    second: hyem_rune_sheet_spawn_31
+  - first:
+      213: 2161725867433777644
+    second: hyem_rune_sheet_spawn_32
+  - first:
+      213: 5169379965824373149
+    second: hyem_rune_sheet_spawn_33
+  - first:
+      213: -4231615746490320546
+    second: hyem_rune_sheet_spawn_34
+  - first:
+      213: -1253175804077195563
+    second: hyem_rune_sheet_spawn_35
+  - first:
+      213: -8807319739408786434
+    second: hyem_rune_sheet_spawn_36
+  - first:
+      213: -3710466697042571342
+    second: hyem_rune_sheet_spawn_37
+  - first:
+      213: -4841342966981266363
+    second: hyem_rune_sheet_spawn_38
+  - first:
+      213: -392773109060727989
+    second: hyem_rune_sheet_spawn_39
+  - first:
+      213: 2550107017399914818
+    second: hyem_rune_sheet_spawn_40
+  - first:
+      213: 7418439216642536645
+    second: hyem_rune_sheet_spawn_41
+  - first:
+      213: 1789615306357576252
+    second: hyem_rune_sheet_spawn_42
+  - first:
+      213: 5981778642566276384
+    second: hyem_rune_sheet_spawn_43
+  - first:
+      213: 1085997837524411608
+    second: hyem_rune_sheet_spawn_44
+  - first:
+      213: -3825908622773394840
+    second: hyem_rune_sheet_spawn_45
+  - first:
+      213: 244698903151750164
+    second: hyem_rune_sheet_spawn_46
+  - first:
+      213: -6823591470607048554
+    second: hyem_rune_sheet_spawn_47
+  - first:
+      213: 1632006390330852826
+    second: hyem_rune_sheet_spawn_48
+  - first:
+      213: 5937760970007568894
+    second: hyem_rune_sheet_spawn_49
+  - first:
+      213: -3049219508531624763
+    second: hyem_rune_sheet_spawn_50
+  - first:
+      213: 8159513828098873127
+    second: hyem_rune_sheet_spawn_51
+  - first:
+      213: 6929722910411984454
+    second: hyem_rune_sheet_spawn_52
+  - first:
+      213: -8885155758392820214
+    second: hyem_rune_sheet_spawn_53
+  - first:
+      213: -1147702358190858541
+    second: hyem_rune_sheet_spawn_54
+  - first:
+      213: 9190116807070513151
+    second: hyem_rune_sheet_spawn_55
+  - first:
+      213: -1716757897124479220
+    second: hyem_rune_sheet_spawn_56
+  - first:
+      213: 8760974763516528660
+    second: hyem_rune_sheet_spawn_57
+  - first:
+      213: 4162418532470768465
+    second: hyem_rune_sheet_spawn_58
+  - first:
+      213: 6444765147452432657
+    second: hyem_rune_sheet_spawn_59
+  - first:
+      213: 3052314058090186155
+    second: hyem_rune_sheet_spawn_60
+  - first:
+      213: 6778754891673826740
+    second: hyem_rune_sheet_spawn_61
+  - first:
+      213: 2249464825183166913
+    second: hyem_rune_sheet_spawn_62
+  - first:
+      213: 2352388946136860135
+    second: hyem_rune_sheet_spawn_63
+  - first:
+      213: -2609222379960893485
+    second: hyem_rune_sheet_spawn_64
+  - first:
+      213: -6799980036488284028
+    second: hyem_rune_sheet_spawn_65
+  - first:
+      213: -4912919330366115524
+    second: hyem_rune_sheet_spawn_66
+  - first:
+      213: 4832357142852893487
+    second: hyem_rune_sheet_spawn_67
+  - first:
+      213: 3652249965078247587
+    second: hyem_rune_sheet_spawn_68
+  - first:
+      213: 5002092256653878065
+    second: hyem_rune_sheet_spawn_69
+  - first:
+      213: 1391743474563655582
+    second: hyem_rune_sheet_spawn_70
+  - first:
+      213: -2388854775183026623
+    second: hyem_rune_sheet_spawn_71
+  - first:
+      213: 6380632331902696048
+    second: hyem_rune_sheet_spawn_72
+  - first:
+      213: 2187076590780599770
+    second: hyem_rune_sheet_spawn_73
+  - first:
+      213: -6564131537135705467
+    second: hyem_rune_sheet_spawn_74
+  - first:
+      213: -5588040957214165478
+    second: hyem_rune_sheet_spawn_75
+  - first:
+      213: -5580407987536886377
+    second: hyem_rune_sheet_spawn_76
+  - first:
+      213: -7556606043533725225
+    second: hyem_rune_sheet_spawn_77
+  - first:
+      213: 6121298931438065971
+    second: hyem_rune_sheet_spawn_78
+  - first:
+      213: -5360001948888544730
+    second: hyem_rune_sheet_spawn_79
+  - first:
+      213: -5431886351404940621
+    second: hyem_rune_sheet_spawn_80
+  - first:
+      213: 6919722012683733438
+    second: hyem_rune_sheet_spawn_81
+  - first:
+      213: -8317142570115527401
+    second: hyem_rune_sheet_spawn_82
+  - first:
+      213: 8452412776757860159
+    second: hyem_rune_sheet_spawn_83
+  - first:
+      213: 6613760556755783617
+    second: hyem_rune_sheet_spawn_84
+  - first:
+      213: 7903387843277998427
+    second: hyem_rune_sheet_spawn_85
+  - first:
+      213: -2064156055468334080
+    second: hyem_rune_sheet_spawn_86
+  - first:
+      213: 9073316006819422588
+    second: hyem_rune_sheet_spawn_87
+  - first:
+      213: 9093349176296103146
+    second: hyem_rune_sheet_spawn_88
+  - first:
+      213: -1789713654221602644
+    second: hyem_rune_sheet_spawn_89
+  - first:
+      213: 2496291764134472649
+    second: hyem_rune_sheet_spawn_90
+  - first:
+      213: 3037590917030432281
+    second: hyem_rune_sheet_spawn_91
+  - first:
+      213: 1114274811007404138
+    second: hyem_rune_sheet_spawn_92
+  - first:
+      213: -4643221777157132909
+    second: hyem_rune_sheet_spawn_93
+  - first:
+      213: -2975321963930241735
+    second: hyem_rune_sheet_spawn_94
+  - first:
+      213: 5290925298035870577
+    second: hyem_rune_sheet_spawn_95
+  - first:
+      213: -8110110360320240199
+    second: hyem_rune_sheet_spawn_96
+  - first:
+      213: 3681820926011836086
+    second: hyem_rune_sheet_spawn_97
+  - first:
+      213: -2739379474082462843
+    second: hyem_rune_sheet_spawn_98
+  - first:
+      213: -4130737226803665379
+    second: hyem_rune_sheet_spawn_99
+  - first:
+      213: -3451742886245536901
+    second: hyem_rune_sheet_spawn_100
+  - first:
+      213: -2228586542119711477
+    second: hyem_rune_sheet_spawn_101
+  - first:
+      213: -4638473986955402014
+    second: hyem_rune_sheet_spawn_102
+  - first:
+      213: -4186888941885797886
+    second: hyem_rune_sheet_spawn_103
+  - first:
+      213: 919173407645873347
+    second: hyem_rune_sheet_spawn_104
+  - first:
+      213: 5498882240379378042
+    second: hyem_rune_sheet_spawn_105
+  - first:
+      213: 1925628091928017630
+    second: hyem_rune_sheet_spawn_106
+  - first:
+      213: -3842208627559882350
+    second: hyem_rune_sheet_spawn_107
+  - first:
+      213: 3119919510473354106
+    second: hyem_rune_sheet_spawn_108
+  - first:
+      213: 3915985385473350240
+    second: hyem_rune_sheet_spawn_109
+  - first:
+      213: -6098447307447351216
+    second: hyem_rune_sheet_spawn_110
+  - first:
+      213: 6839845004070827042
+    second: hyem_rune_sheet_spawn_111
+  - first:
+      213: 4213741900708957828
+    second: hyem_rune_sheet_spawn_112
+  - first:
+      213: 5211081020234836779
+    second: hyem_rune_sheet_spawn_113
+  - first:
+      213: 4133551592268026572
+    second: hyem_rune_sheet_spawn_114
+  - first:
+      213: 2104662684659783067
+    second: hyem_rune_sheet_spawn_115
+  - first:
+      213: 2167385938838439288
+    second: hyem_rune_sheet_spawn_116
+  - first:
+      213: 877285917965091586
+    second: hyem_rune_sheet_spawn_117
+  - first:
+      213: 2078739654097321487
+    second: hyem_rune_sheet_spawn_118
+  - first:
+      213: 6218149289707373912
+    second: hyem_rune_sheet_spawn_119
+  - first:
+      213: 8678273538005225593
+    second: hyem_rune_sheet_spawn_120
+  - first:
+      213: -8932629458393089872
+    second: hyem_rune_sheet_spawn_121
+  - first:
+      213: -6541902396180915342
+    second: hyem_rune_sheet_spawn_122
+  - first:
+      213: 1513159599247230795
+    second: hyem_rune_sheet_spawn_123
+  - first:
+      213: -5759678795877581315
+    second: hyem_rune_sheet_spawn_124
+  - first:
+      213: -3672072870268670212
+    second: hyem_rune_sheet_spawn_125
+  - first:
+      213: 8752488885532261689
+    second: hyem_rune_sheet_spawn_126
+  - first:
+      213: 3816126331333772876
+    second: hyem_rune_sheet_spawn_127
+  - first:
+      213: -8532399828824514412
+    second: hyem_rune_sheet_spawn_128
+  - first:
+      213: -3304250138593553059
+    second: hyem_rune_sheet_spawn_129
+  - first:
+      213: -915192995883509854
+    second: hyem_rune_sheet_spawn_130
+  - first:
+      213: 341590962802403142
+    second: hyem_rune_sheet_spawn_131
+  - first:
+      213: -4299906441048438563
+    second: hyem_rune_sheet_spawn_132
+  - first:
+      213: 5579430884173664919
+    second: hyem_rune_sheet_spawn_133
+  - first:
+      213: 5257187900233834188
+    second: hyem_rune_sheet_spawn_134
+  - first:
+      213: 8197621134257991611
+    second: hyem_rune_sheet_spawn_135
+  - first:
+      213: -2709508468844255302
+    second: hyem_rune_sheet_spawn_136
+  - first:
+      213: -382047845585467379
+    second: hyem_rune_sheet_spawn_137
+  - first:
+      213: 5649348757045044505
+    second: hyem_rune_sheet_spawn_138
+  - first:
+      213: -3573536063573296492
+    second: hyem_rune_sheet_spawn_139
+  - first:
+      213: 510138926119020604
+    second: hyem_rune_sheet_spawn_140
+  - first:
+      213: -4951163003318634636
+    second: hyem_rune_sheet_spawn_141
+  - first:
+      213: 3356157818542419781
+    second: hyem_rune_sheet_spawn_142
+  - first:
+      213: 3441717922240550986
+    second: hyem_rune_sheet_spawn_143
+  - first:
+      213: 8924013875722697101
+    second: hyem_rune_sheet_spawn_144
+  - first:
+      213: -7782157990795847290
+    second: hyem_rune_sheet_spawn_145
+  - first:
+      213: -4497357663898483720
+    second: hyem_rune_sheet_spawn_146
+  - first:
+      213: 4489863278156270881
+    second: hyem_rune_sheet_spawn_147
+  - first:
+      213: 8176805765775890145
+    second: hyem_rune_sheet_spawn_148
+  - first:
+      213: -2115336906971921082
+    second: hyem_rune_sheet_spawn_149
+  - first:
+      213: -153830968700905582
+    second: hyem_rune_sheet_spawn_150
+  - first:
+      213: -8887995963761741639
+    second: hyem_rune_sheet_spawn_151
+  - first:
+      213: 7898793276427814838
+    second: hyem_rune_sheet_spawn_152
+  - first:
+      213: 2357615210940099864
+    second: hyem_rune_sheet_spawn_153
+  - first:
+      213: 4343415177877743211
+    second: hyem_rune_sheet_spawn_154
+  - first:
+      213: -2293535041454671000
+    second: hyem_rune_sheet_spawn_155
+  - first:
+      213: -2416426692237879622
+    second: hyem_rune_sheet_spawn_156
+  - first:
+      213: 4371879441722126815
+    second: hyem_rune_sheet_spawn_157
+  - first:
+      213: -9212606143405348272
+    second: hyem_rune_sheet_spawn_158
+  - first:
+      213: -1985373060726983689
+    second: hyem_rune_sheet_spawn_159
+  - first:
+      213: 1273243140368860880
+    second: hyem_rune_sheet_spawn_160
+  - first:
+      213: 6057054417658086337
+    second: hyem_rune_sheet_spawn_161
+  - first:
+      213: -2543822162694658460
+    second: hyem_rune_sheet_spawn_162
+  - first:
+      213: -7021367867880384261
+    second: hyem_rune_sheet_spawn_163
+  - first:
+      213: -1966703148388743406
+    second: hyem_rune_sheet_spawn_164
+  - first:
+      213: 4876580565263437748
+    second: hyem_rune_sheet_spawn_165
+  - first:
+      213: -6310266877285174093
+    second: hyem_rune_sheet_spawn_166
+  - first:
+      213: -7799043441562919014
+    second: hyem_rune_sheet_spawn_167
+  - first:
+      213: -6409291174106184024
+    second: hyem_rune_sheet_spawn_168
+  - first:
+      213: 7806699607135418465
+    second: hyem_rune_sheet_spawn_169
+  - first:
+      213: 4069356643468167109
+    second: hyem_rune_sheet_spawn_170
+  - first:
+      213: 835130841019318537
+    second: hyem_rune_sheet_spawn_171
+  - first:
+      213: -6346378113830076932
+    second: hyem_rune_sheet_spawn_172
+  - first:
+      213: -4972855876071106460
+    second: hyem_rune_sheet_spawn_173
+  - first:
+      213: -2576877784468795862
+    second: hyem_rune_sheet_spawn_174
+  - first:
+      213: -9011141171415091475
+    second: hyem_rune_sheet_spawn_175
+  - first:
+      213: -3931845950069398810
+    second: hyem_rune_sheet_spawn_176
+  - first:
+      213: 5764148737087313019
+    second: hyem_rune_sheet_spawn_177
+  - first:
+      213: 5751880932379785484
+    second: hyem_rune_sheet_spawn_178
+  - first:
+      213: -1200685510378862067
+    second: hyem_rune_sheet_spawn_179
+  - first:
+      213: -458962313117869650
+    second: hyem_rune_sheet_spawn_180
+  - first:
+      213: 6969246428873343245
+    second: hyem_rune_sheet_spawn_181
+  - first:
+      213: -3770745194519486507
+    second: hyem_rune_sheet_spawn_182
+  - first:
+      213: -1918798541866124922
+    second: hyem_rune_sheet_spawn_183
+  - first:
+      213: 346160498369297119
+    second: hyem_rune_sheet_spawn_184
+  - first:
+      213: -1107393078581927965
+    second: hyem_rune_sheet_spawn_185
+  - first:
+      213: 5347442331149746062
+    second: hyem_rune_sheet_spawn_186
+  - first:
+      213: 1755560086362834285
+    second: hyem_rune_sheet_spawn_187
+  - first:
+      213: 6255242750219359423
+    second: hyem_rune_sheet_spawn_188
+  - first:
+      213: 1212896894209638363
+    second: hyem_rune_sheet_spawn_189
+  - first:
+      213: -7613116344352515095
+    second: hyem_rune_sheet_spawn_190
+  - first:
+      213: -7470995653010016523
+    second: hyem_rune_sheet_spawn_191
+  - first:
+      213: 1105235122711188352
+    second: hyem_rune_sheet_spawn_192
+  - first:
+      213: 4233330285828649745
+    second: hyem_rune_sheet_spawn_193
+  - first:
+      213: 5434335190802858747
+    second: hyem_rune_sheet_spawn_194
+  - first:
+      213: 7602646393393862385
+    second: hyem_rune_sheet_spawn_195
+  - first:
+      213: 5737376761347887561
+    second: hyem_rune_sheet_spawn_196
+  - first:
+      213: -3859387302814413371
+    second: hyem_rune_sheet_spawn_197
+  - first:
+      213: -1480131655271794774
+    second: hyem_rune_sheet_spawn_198
+  - first:
+      213: -2507651632890139165
+    second: hyem_rune_sheet_spawn_199
+  - first:
+      213: 2052380046657509175
+    second: hyem_rune_sheet_spawn_200
+  - first:
+      213: 5895651385360402487
+    second: hyem_rune_sheet_spawn_201
+  - first:
+      213: -7686981151507244933
+    second: hyem_rune_sheet_spawn_202
+  - first:
+      213: 6701013955034161601
+    second: hyem_rune_sheet_spawn_203
+  - first:
+      213: -6569391828272477687
+    second: hyem_rune_sheet_spawn_204
+  - first:
+      213: -2242096053228070457
+    second: hyem_rune_sheet_spawn_205
+  - first:
+      213: -6864715435271526176
+    second: hyem_rune_sheet_spawn_206
+  - first:
+      213: 258365027905297148
+    second: hyem_rune_sheet_spawn_207
+  - first:
+      213: 4385293355668677694
+    second: hyem_rune_sheet_spawn_208
+  - first:
+      213: -1703000902768140925
+    second: hyem_rune_sheet_spawn_209
+  - first:
+      213: 8750258760819512147
+    second: hyem_rune_sheet_spawn_210
+  - first:
+      213: 5154316782820333731
+    second: hyem_rune_sheet_spawn_211
+  - first:
+      213: 1031985376955750534
+    second: hyem_rune_sheet_spawn_212
+  - first:
+      213: 369540628951187373
+    second: hyem_rune_sheet_spawn_213
+  - first:
+      213: -747900891207696586
+    second: hyem_rune_sheet_spawn_214
+  - first:
+      213: 482184425735910325
+    second: hyem_rune_sheet_spawn_215
+  - first:
+      213: 2441915325912963225
+    second: hyem_rune_sheet_spawn_216
+  - first:
+      213: -7532206684738830535
+    second: hyem_rune_sheet_spawn_217
+  - first:
+      213: 6125529678036901579
+    second: hyem_rune_sheet_spawn_218
+  - first:
+      213: -4434185275392294407
+    second: hyem_rune_sheet_spawn_219
+  - first:
+      213: -8237727626225205175
+    second: hyem_rune_sheet_spawn_220
+  - first:
+      213: -8389511357433606583
+    second: hyem_rune_sheet_spawn_221
+  - first:
+      213: 8721590715951180245
+    second: hyem_rune_sheet_spawn_222
+  - first:
+      213: 3123799559947796710
+    second: hyem_rune_sheet_spawn_223
+  - first:
+      213: 3847157720956601104
+    second: hyem_rune_sheet_spawn_224
+  - first:
+      213: -5889922423796901497
+    second: hyem_rune_sheet_spawn_225
+  - first:
+      213: 1374658558391056434
+    second: hyem_rune_sheet_spawn_226
+  - first:
+      213: 1555312481913878384
+    second: hyem_rune_sheet_spawn_227
+  - first:
+      213: 983328483082483825
+    second: hyem_rune_sheet_spawn_228
+  - first:
+      213: -495524475004473980
+    second: hyem_rune_sheet_spawn_229
+  - first:
+      213: 5632686397063365213
+    second: hyem_rune_sheet_spawn_230
+  - first:
+      213: -2688358180322121907
+    second: hyem_rune_sheet_spawn_231
+  - first:
+      213: -7666250002957392219
+    second: hyem_rune_sheet_spawn_232
+  - first:
+      213: 8113868393968053187
+    second: hyem_rune_sheet_spawn_233
+  - first:
+      213: 4433474578234134168
+    second: hyem_rune_sheet_spawn_234
+  - first:
+      213: -7173306972731073142
+    second: hyem_rune_sheet_spawn_235
+  - first:
+      213: 7397891437922676402
+    second: hyem_rune_sheet_spawn_236
+  - first:
+      213: -637427642150934371
+    second: hyem_rune_sheet_spawn_237
+  - first:
+      213: 5139409664791493569
+    second: hyem_rune_sheet_spawn_238
+  - first:
+      213: 5652989534414238490
+    second: hyem_rune_sheet_spawn_239
+  - first:
+      213: -4625219339259318956
+    second: hyem_rune_sheet_spawn_240
+  - first:
+      213: 2527536583748710084
+    second: hyem_rune_sheet_spawn_241
+  - first:
+      213: 3302030319685126569
+    second: hyem_rune_sheet_spawn_242
+  - first:
+      213: 2225346100084605169
+    second: hyem_rune_sheet_spawn_243
+  - first:
+      213: 7879230355061434531
+    second: hyem_rune_sheet_spawn_244
+  - first:
+      213: 1783716119554688360
+    second: hyem_rune_sheet_spawn_245
+  - first:
+      213: -5304444952225034351
+    second: hyem_rune_sheet_spawn_246
+  - first:
+      213: -1269130894323557798
+    second: hyem_rune_sheet_spawn_247
+  - first:
+      213: -8484589970558363601
+    second: hyem_rune_sheet_spawn_248
+  - first:
+      213: 8151207631509437142
+    second: hyem_rune_sheet_spawn_249
+  - first:
+      213: 4613130463341612102
+    second: hyem_rune_sheet_spawn_250
+  - first:
+      213: 1513067220029912011
+    second: hyem_rune_sheet_spawn_251
+  - first:
+      213: -6020597486320448354
+    second: hyem_rune_sheet_spawn_252
+  - first:
+      213: 7992617936035538647
+    second: hyem_rune_sheet_spawn_253
+  - first:
+      213: -8161061887999561504
+    second: hyem_rune_sheet_spawn_254
+  - first:
+      213: 8099409931386026744
+    second: hyem_rune_sheet_spawn_255
+  - first:
+      213: 3407872055248751849
+    second: hyem_rune_sheet_spawn_256
+  - first:
+      213: -5850812904954629589
+    second: hyem_rune_sheet_spawn_257
+  - first:
+      213: 3370891120681307649
+    second: hyem_rune_sheet_spawn_258
+  - first:
+      213: 8473767625506087329
+    second: hyem_rune_sheet_spawn_259
+  - first:
+      213: -4346192414017083967
+    second: hyem_rune_sheet_spawn_260
+  - first:
+      213: -4198763910065257014
+    second: hyem_rune_sheet_spawn_261
+  - first:
+      213: 8005052580374689706
+    second: hyem_rune_sheet_spawn_262
+  - first:
+      213: 2415236824987138192
+    second: hyem_rune_sheet_spawn_263
+  - first:
+      213: -1586263204977504537
+    second: hyem_rune_sheet_spawn_264
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7690d3e5e9ef05500800000000000000
+      internalID: 383085924465838439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a2a1b00f29a130800000000000000
+      internalID: 3578443058949302537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d45da45cc2506530800000000000000
+      internalID: 3846165119321855192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f982a9bba3baf30800000000000000
+      internalID: 4587825222826631035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cb5276f11a19740800000000000000
+      internalID: 5157080204562512907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406071f642f400b10800000000000000
+      internalID: 1945642056925251076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c40cff5b073f180800000000000000
+      internalID: -9082792096493974400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725f5d10668db0b30800000000000000
+      internalID: 4254732205610628391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458e4d2acbd547090800000000000000
+      internalID: -8037696370182395820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af884502b34479090800000000000000
+      internalID: -8027872790028449542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5816dc9fbfc71e80800000000000000
+      internalID: -8207863373982459811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc4de82c262259f0800000000000000
+      internalID: -481280239068164878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4fa5cb081c332a0800000000000000
+      internalID: -6758845857092930344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8093a0aad3f1717c0800000000000000
+      internalID: -4100774585991284472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3328444160a158a70800000000000000
+      internalID: 8828491257941885491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b017f63edcf0070800000000000000
+      internalID: 8074899033609538341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6122f40338a40ff0800000000000000
+      internalID: -70746757051309716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa55379b350252a0800000000000000
+      internalID: -6750327137976886540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c830cae585d0130800000000000000
+      internalID: 3534578446191791218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b25bbf99818a9b60800000000000000
+      internalID: 7753652136562086576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12dcb88debb6bf00800000000000000
+      internalID: 1132298985205977629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d79215c8c91430800000000000000
+      internalID: 3754252513136072707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a23ac96c2c67410800000000000000
+      internalID: 1474580086297668244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b931980fd7c42b820800000000000000
+      internalID: 2932490411161752475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88226501ae3bd5c0800000000000000
+      internalID: -4189686167037138803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3331fc036082f6720800000000000000
+      internalID: 2841533896947864371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dad296e4b5b7f40800000000000000
+      internalID: 5727271743461895556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32818f06d37d0b060800000000000000
+      internalID: 6967305282162006051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e72da9996b01720800000000000000
+      internalID: 2814950537950297689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7527ac34ede145ab0800000000000000
+      internalID: -5020353744642346409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a178073dbb718c70800000000000000
+      internalID: 8971587985301074344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ec7c3a4b4b9b470800000000000000
+      internalID: 8410952467026005642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d92e193efffd10800000000000000
+      internalID: 2161725867433777644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d919bfbb0b35db740800000000000000
+      internalID: 5169379965824373149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59be7c06e74645c0800000000000000
+      internalID: -4231615746490320546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de3ddcee33db9ee0800000000000000
+      internalID: -1253175804077195563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbd0453c5d16c580800000000000000
+      internalID: -8807319739408786434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf4cdba236c18cc0800000000000000
+      internalID: -3710466697042571342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d91ef9c50f667f46821fba7f27a1e05
+      internalID: 906939882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_rune_sheet_spawn_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cbcccc8ad898d4eb937ba091e62cac
+      internalID: -1754361481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 66327d78e71a36a4a9db65c109beeee1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hyem_rune_sheet_spawn_0: 383085924465838439
+      hyem_rune_sheet_spawn_1: 3578443058949302537
+      hyem_rune_sheet_spawn_10: -8207863373982459811
+      hyem_rune_sheet_spawn_11: -481280239068164878
+      hyem_rune_sheet_spawn_12: -6758845857092930344
+      hyem_rune_sheet_spawn_13: -4100774585991284472
+      hyem_rune_sheet_spawn_14: 8828491257941885491
+      hyem_rune_sheet_spawn_15: 8074899033609538341
+      hyem_rune_sheet_spawn_16: -70746757051309716
+      hyem_rune_sheet_spawn_17: -6750327137976886540
+      hyem_rune_sheet_spawn_18: 3534578446191791218
+      hyem_rune_sheet_spawn_19: 7753652136562086576
+      hyem_rune_sheet_spawn_2: 3846165119321855192
+      hyem_rune_sheet_spawn_20: 1132298985205977629
+      hyem_rune_sheet_spawn_21: 3754252513136072707
+      hyem_rune_sheet_spawn_22: 1474580086297668244
+      hyem_rune_sheet_spawn_23: 2932490411161752475
+      hyem_rune_sheet_spawn_24: -4189686167037138803
+      hyem_rune_sheet_spawn_25: 2841533896947864371
+      hyem_rune_sheet_spawn_26: 5727271743461895556
+      hyem_rune_sheet_spawn_27: 6967305282162006051
+      hyem_rune_sheet_spawn_28: 2814950537950297689
+      hyem_rune_sheet_spawn_29: -5020353744642346409
+      hyem_rune_sheet_spawn_3: 4587825222826631035
+      hyem_rune_sheet_spawn_30: 8971587985301074344
+      hyem_rune_sheet_spawn_31: 8410952467026005642
+      hyem_rune_sheet_spawn_32: 2161725867433777644
+      hyem_rune_sheet_spawn_33: 5169379965824373149
+      hyem_rune_sheet_spawn_34: -4231615746490320546
+      hyem_rune_sheet_spawn_35: -1253175804077195563
+      hyem_rune_sheet_spawn_36: -8807319739408786434
+      hyem_rune_sheet_spawn_37: -3710466697042571342
+      hyem_rune_sheet_spawn_38: 906939882
+      hyem_rune_sheet_spawn_39: -1754361481
+      hyem_rune_sheet_spawn_4: 5157080204562512907
+      hyem_rune_sheet_spawn_5: 1945642056925251076
+      hyem_rune_sheet_spawn_6: -9082792096493974400
+      hyem_rune_sheet_spawn_7: 4254732205610628391
+      hyem_rune_sheet_spawn_8: -8037696370182395820
+      hyem_rune_sheet_spawn_9: -8027872790028449542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
