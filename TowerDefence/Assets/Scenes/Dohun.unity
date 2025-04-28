@@ -208,6 +208,7 @@ GameObject:
   m_Component:
   - component: {fileID: 750915355}
   - component: {fileID: 750915357}
+  - component: {fileID: 750915359}
   - component: {fileID: 750915358}
   m_Layer: 0
   m_Name: SkillManager
@@ -260,6 +261,24 @@ MonoBehaviour:
   cooldown: 3
   HP: 100
   duration: 10
+--- !u!114 &750915359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750915354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69baabe3a475b2840853fe5cc7f97bb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  previewPrefab: {fileID: 3285418505639190318, guid: 378dc6ccb9258f44981d1e7ebc2be63e, type: 3}
+  skillPrefab: {fileID: 9146608931446303564, guid: 3ef02eb638ab7f94eb3f3ae0f1ac00d2, type: 3}
+  cooldown: 1
+  skillPrefabN: {fileID: 102405982534705251, guid: 179610b5812f3224cba097e23e6a915d, type: 3}
+  damage: 5
+  bindTime: 5
 --- !u!1 &785827151
 GameObject:
   m_ObjectHideFlags: 0
@@ -290,7 +309,7 @@ Transform:
   m_GameObject: {fileID: 785827151}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.43193516, y: 0.07046356, z: 0.01898412}
+  m_LocalPosition: {x: 5.95, y: 0.81, z: 0.01898412}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
