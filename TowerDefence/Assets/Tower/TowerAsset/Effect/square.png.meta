@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aefd15749073bab4086913db423ae27d
+guid: 9e15590d21763ed4aa566e890fc0078e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7772975122045239811
-    second: sharp_green_0
+      213: -6250645093078195670
+    second: triangle 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sharp_green_0
+      name: triangle 1_0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 121
-        width: 444
-        height: 270
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3028475c0b72fdb60800000000000000
-      internalID: 7772975122045239811
+      spriteID: a22290ab76f3149a0800000000000000
+      internalID: -6250645093078195670
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9c2bc12f407069946a3fd79dcbeeee6d
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sharp_green_0: 7772975122045239811
+      triangle 1_0: -6250645093078195670
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -237,7 +237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70fbe54528232994989ae4a7fd87ca3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 20
+  timer: 5
   dir: {x: 0, y: 0}
   wave: {fileID: 6926928042857649588, guid: 0ebe4ab968a5ba34ca9dbb2d40dc3955, type: 3}
   pos: {fileID: 1491642881296013159}
@@ -266,7 +266,7 @@ MonoBehaviour:
     baseValue: 50
     modifiers: 
   cooldown:
-    baseValue: 20
+    baseValue: 5
     modifiers: 
   speed:
     baseValue: 1
