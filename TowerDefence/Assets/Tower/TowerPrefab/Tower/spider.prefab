@@ -241,6 +241,8 @@ MonoBehaviour:
   dir: {x: 0, y: 0}
   proj: {fileID: 0}
   pos: {fileID: 0}
+  arcHeight: 2
+  duration: 2
 --- !u!114 &8722972008462866026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -266,7 +268,7 @@ MonoBehaviour:
     baseValue: 50
     modifiers: 
   cooldown:
-    baseValue: 5
+    baseValue: 60
     modifiers: 
   speed:
     baseValue: 1
