@@ -45,13 +45,13 @@ GameObject:
   - component: {fileID: 4192364767393432408}
   - component: {fileID: 2380201855020756826}
   - component: {fileID: 2771663253632596254}
-  - component: {fileID: 1388617881263712009}
+  - component: {fileID: 384072908715749392}
   - component: {fileID: 8722972008462866026}
   - component: {fileID: 3281271766032558383}
   - component: {fileID: 3573549989699291234}
   - component: {fileID: 2064666927534023141}
   m_Layer: 0
-  m_Name: watchDog
+  m_Name: spider
   m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -117,7 +117,7 @@ SpriteRenderer:
   m_SortingLayerID: 1969109931
   m_SortingLayer: 2
   m_SortingOrder: 1
-  m_Sprite: {fileID: -3573816769718828876, guid: 2bb3da7b0b15c7d4abc7f34b50630f30, type: 3}
+  m_Sprite: {fileID: 709077389309671039, guid: cb66bd1ad560b9b4ca33e6771c58e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -138,7 +138,7 @@ Animator:
   m_GameObject: {fileID: 9141126267972075348}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7e393c02d206465488ba2f559ec10bc6, type: 2}
+  m_Controller: {fileID: 9100000, guid: fc1d2b976e87e1145a22573e07dd13e0, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83a70774e3152124688392b5485aec3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1388617881263712009
+--- !u!114 &384072908715749392
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -234,13 +234,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 9141126267972075348}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70fbe54528232994989ae4a7fd87ca3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 5033ce4fbf1287848af36c10da68b7d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   timer: 5
   dir: {x: 0, y: 0}
-  wave: {fileID: 6926928042857649588, guid: 0ebe4ab968a5ba34ca9dbb2d40dc3955, type: 3}
-  pos: {fileID: 1491642881296013159}
+  proj: {fileID: 0}
+  pos: {fileID: 0}
 --- !u!114 &8722972008462866026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -293,7 +293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03181fda862bc5f45b8d514b69436b23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  swapPrefab: {fileID: 6121262684634561198, guid: c8d10641df7887e48adbdf2ed8f39a1a, type: 3}
+  swapPrefab: {fileID: 5764122845598796082, guid: 725e22fc6eb2341498aefc05c7df620a, type: 3}
 --- !u!114 &3573549989699291234
 MonoBehaviour:
   m_ObjectHideFlags: 0

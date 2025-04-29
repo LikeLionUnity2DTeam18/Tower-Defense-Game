@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 00cea4225cd8fc746b4606e3110d1c40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7103911211754345581
+    second: spider_MeleeF_0
+  - first:
+      213: -4077585007193079671
+    second: spider_MeleeF_1
+  - first:
+      213: 3798464268886292883
+    second: spider_MeleeF_2
+  - first:
+      213: -8958367203972308644
+    second: spider_MeleeF_3
+  - first:
+      213: 4555774198259227673
+    second: spider_MeleeF_4
+  - first:
+      213: 2105563241828932851
+    second: spider_MeleeF_5
+  - first:
+      213: 2461943491606586173
+    second: spider_MeleeF_6
+  - first:
+      213: 8995886642912677397
+    second: spider_MeleeF_7
+  - first:
+      213: 7886848643640153976
+    second: spider_MeleeF_8
+  - first:
+      213: 136113485200355565
+    second: spider_MeleeF_9
+  - first:
+      213: 2005408111661602651
+    second: spider_MeleeF_10
+  - first:
+      213: 8950784922341342787
+    second: spider_MeleeF_11
+  - first:
+      213: 3208849540113283787
+    second: spider_MeleeF_12
+  - first:
+      213: 5509028932055873352
+    second: spider_MeleeF_13
+  - first:
+      213: 7523871457500591040
+    second: spider_MeleeF_14
+  - first:
+      213: 1268603300761462089
+    second: spider_MeleeF_15
+  - first:
+      213: -8426584661924917519
+    second: spider_MeleeF_16
+  - first:
+      213: -1172472457795548083
+    second: spider_MeleeF_17
+  - first:
+      213: 7353397173506218219
+    second: spider_MeleeF_18
+  - first:
+      213: 4187289337152860672
+    second: spider_MeleeF_19
+  - first:
+      213: -5637195766543673159
+    second: spider_MeleeF_20
+  - first:
+      213: 6085549755428690249
+    second: spider_MeleeF_21
+  - first:
+      213: 7707930554269916778
+    second: spider_MeleeF_22
+  - first:
+      213: 8433943606501847832
+    second: spider_MeleeF_23
+  - first:
+      213: 8336752922785851542
+    second: spider_MeleeF_24
+  - first:
+      213: -1654871387764361015
+    second: spider_MeleeF_25
+  - first:
+      213: -1233641540777266918
+    second: spider_MeleeF_26
+  - first:
+      213: -5912167261989205486
+    second: spider_MeleeF_27
+  - first:
+      213: 2384337501105059536
+    second: spider_MeleeF_28
+  - first:
+      213: -5576102223190554919
+    second: spider_MeleeF_29
+  - first:
+      213: 237402185499096403
+    second: spider_MeleeF_30
+  - first:
+      213: 6297283597165766555
+    second: spider_MeleeF_31
+  - first:
+      213: 8232017695045502205
+    second: spider_MeleeF_32
+  - first:
+      213: 262115570645009296
+    second: spider_MeleeF_33
+  - first:
+      213: -7884994061270721809
+    second: spider_MeleeF_34
+  - first:
+      213: -7606431734003658619
+    second: spider_MeleeF_35
+  - first:
+      213: 4746825629162535391
+    second: spider_MeleeF_36
+  - first:
+      213: -7559844185349961191
+    second: spider_MeleeF_37
+  - first:
+      213: 4501174571210346243
+    second: spider_MeleeF_38
+  - first:
+      213: 4630707010338496595
+    second: spider_MeleeF_39
+  - first:
+      213: -7671649084850186644
+    second: spider_MeleeF_40
+  - first:
+      213: -1802485690057372901
+    second: spider_MeleeF_41
+  - first:
+      213: 4745942543438911708
+    second: spider_MeleeF_42
+  - first:
+      213: 4127213707922813128
+    second: spider_MeleeF_43
+  - first:
+      213: -4384989957200116832
+    second: spider_MeleeF_44
+  - first:
+      213: -6921159691181712930
+    second: spider_MeleeF_45
+  - first:
+      213: 5427814116707543668
+    second: spider_MeleeF_46
+  - first:
+      213: -64689793140128801
+    second: spider_MeleeF_47
+  - first:
+      213: 8920367259050090256
+    second: spider_MeleeF_48
+  - first:
+      213: 2062984693087875890
+    second: spider_MeleeF_49
+  - first:
+      213: -5334082334544927862
+    second: spider_MeleeF_50
+  - first:
+      213: 2981670972107556837
+    second: spider_MeleeF_51
+  - first:
+      213: 2212889075680630168
+    second: spider_MeleeF_52
+  - first:
+      213: 4628511092002368195
+    second: spider_MeleeF_53
+  - first:
+      213: -7922198278796230887
+    second: spider_MeleeF_54
+  - first:
+      213: -4423598683750850031
+    second: spider_MeleeF_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider_MeleeF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba77b1466d96d90800000000000000
+      internalID: -7103911211754345581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9804cc83a028967c0800000000000000
+      internalID: -4077585007193079671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3993bfe902bd6b430800000000000000
+      internalID: 3798464268886292883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51a8bfcd7c7da380800000000000000
+      internalID: -8958367203972308644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c912cee7c593f30800000000000000
+      internalID: 4555774198259227673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc5559dc96783d10800000000000000
+      internalID: 2105563241828932851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33ab4acf849a2220800000000000000
+      internalID: 2461943491606586173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecd7e4d3fc7dc70800000000000000
+      internalID: 8995886642912677397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87751791e07b37d60800000000000000
+      internalID: 7886848643640153976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f18e5e7293e100800000000000000
+      internalID: 136113485200355565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d64d6d04a4db10800000000000000
+      internalID: 2005408111661602651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ef31da673973c70800000000000000
+      internalID: 8950784922341342787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcab020d7af188c20800000000000000
+      internalID: 3208849540113283787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8473a8820a0047c40800000000000000
+      internalID: 5509028932055873352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3f5083a392a6860800000000000000
+      internalID: 7523871457500591040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94566ce0bfbfa9110800000000000000
+      internalID: 1268603300761462089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fec53c55e1ce0b80800000000000000
+      internalID: -8426584661924917519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cca2cf28a8abfe0800000000000000
+      internalID: -1172472457795548083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be81333f4c38c0660800000000000000
+      internalID: 7353397173506218219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002f6c8877d3c1a30800000000000000
+      internalID: 4187289337152860672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_MeleeF_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b814d54158a4c1b0800000000000000
+      internalID: -5637195766543673159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 05fb3e3aba96d884cb56743fa5219bed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spider_MeleeF_0: -7103911211754345581
+      spider_MeleeF_1: -4077585007193079671
+      spider_MeleeF_10: 2005408111661602651
+      spider_MeleeF_11: 8950784922341342787
+      spider_MeleeF_12: 3208849540113283787
+      spider_MeleeF_13: 5509028932055873352
+      spider_MeleeF_14: 7523871457500591040
+      spider_MeleeF_15: 1268603300761462089
+      spider_MeleeF_16: -8426584661924917519
+      spider_MeleeF_17: -1172472457795548083
+      spider_MeleeF_18: 7353397173506218219
+      spider_MeleeF_19: 4187289337152860672
+      spider_MeleeF_2: 3798464268886292883
+      spider_MeleeF_20: -5637195766543673159
+      spider_MeleeF_3: -8958367203972308644
+      spider_MeleeF_4: 4555774198259227673
+      spider_MeleeF_5: 2105563241828932851
+      spider_MeleeF_6: 2461943491606586173
+      spider_MeleeF_7: 8995886642912677397
+      spider_MeleeF_8: 7886848643640153976
+      spider_MeleeF_9: 136113485200355565
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

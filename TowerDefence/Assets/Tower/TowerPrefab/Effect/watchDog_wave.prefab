@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6787891587135035677}
   - component: {fileID: 2477938372294968159}
-  - component: {fileID: 7097348493423556282}
+  - component: {fileID: 7368232639193375832}
   m_Layer: 0
   m_Name: watchDog_wave
   m_TagString: Untagged
@@ -28,8 +28,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.1015, y: 1.05, z: 0}
-  m_LocalScale: {x: 4, y: 2.92, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.67, y: 1.2191, z: 0.4175}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -56,7 +56,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: fbe85400c9dc2f645bfa3676258c9e2d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 9164359298635338950, guid: 1fd29287351ad49438e16f59aa14a946, type: 3}
+  m_Sprite: {fileID: -6250645093078195670, guid: 9e15590d21763ed4aa566e890fc0078e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -88,7 +88,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7097348493423556282
+--- !u!114 &7368232639193375832
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -97,8 +97,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 6926928042857649588}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f28f97ecb9ac2ac4b898f8a7aee1954b, type: 3}
+  m_Script: {fileID: 11500000, guid: 1e94a8309ef45c8438b0cbe0d4e21f09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duration: 1
-  timer: 1
+  duration: 0.15
+  timer: 0.15
