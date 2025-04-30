@@ -224,7 +224,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp:
-    baseValue: 0
+    baseValue: 100
     modifiers: 
   melee:
     baseValue: 0
