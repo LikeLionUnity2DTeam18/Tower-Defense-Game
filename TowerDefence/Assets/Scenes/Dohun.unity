@@ -395,19 +395,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 750915354}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 69baabe3a475b2840853fe5cc7f97bb3, type: 3}
+  m_Script: {fileID: 11500000, guid: f42b2fb84b241a8418afd89f78e452f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   previewPrefab: {fileID: 3285418505639190318, guid: 378dc6ccb9258f44981d1e7ebc2be63e, type: 3}
   skillPrefab: {fileID: 9146608931446303564, guid: 3ef02eb638ab7f94eb3f3ae0f1ac00d2, type: 3}
   rangePrefab: {fileID: 1989163829555034771, guid: b5077979d71dc37419e8c9ca294678c7, type: 3}
   cooldown: 1
-  skillRange: 3
+  skillRange: 5
   skillPrefabN: {fileID: 102405982534705251, guid: 179610b5812f3224cba097e23e6a915d, type: 3}
   casterPrefab: {fileID: 4941022124819604385, guid: 401ce8cb54c74274aa31638e09d04d4d, type: 3}
-  damage: 5
-  bindTime: 5
-  castingTime: 1.2
+  damage: 3
+  bindTime: 3
+  castingTime: 1.5
 --- !u!1 &785827151
 GameObject:
   m_ObjectHideFlags: 0
@@ -669,7 +669,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1394971649
 Transform:
   m_ObjectHideFlags: 0
@@ -756,7 +756,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8566166899873808963, guid: f547c3224a0eb4e48b9a868286bf2896, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
