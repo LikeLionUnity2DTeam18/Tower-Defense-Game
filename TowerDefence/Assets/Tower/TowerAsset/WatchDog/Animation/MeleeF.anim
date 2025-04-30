@@ -140,7 +140,7 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 1.15
-    functionName: AnimationTriggerEndwt
+    functionName: AnimationTrigger1wt
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
