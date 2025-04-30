@@ -298,7 +298,7 @@ MonoBehaviour:
     baseValue: 10
     modifiers: 
   special:
-    baseValue: 50
+    baseValue: 2
     modifiers: 
   cooldown:
     baseValue: 20
