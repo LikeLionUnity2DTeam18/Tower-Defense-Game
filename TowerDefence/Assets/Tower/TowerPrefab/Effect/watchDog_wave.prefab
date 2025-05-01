@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6787891587135035677}
   - component: {fileID: 2477938372294968159}
   - component: {fileID: 7368232639193375832}
+  - component: {fileID: -3870641561535877514}
   m_Layer: 0
   m_Name: watchDog_wave
   m_TagString: Untagged
@@ -74,8 +75,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1969109931
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -6250645093078195670, guid: 9e15590d21763ed4aa566e890fc0078e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -102,3 +103,52 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   duration: 0.15
   timer: 0.15
+--- !u!68 &-3870641561535877514
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6926928042857649588}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: 0.14552613, y: 0.3206948}
+  - {x: 0.1523211, y: -0.14899841}
+  - {x: 2.0455933, y: -1.17877}
+  - {x: 2.3861754, y: -0.47052538}
+  - {x: 2.4129217, y: -0.010652486}
+  - {x: 2.3256629, y: 0.71220464}
+  - {x: 2.0959952, y: 1.2083983}
+  - {x: 0.1453291, y: 0.31990948}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
