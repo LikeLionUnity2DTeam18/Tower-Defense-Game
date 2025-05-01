@@ -459,7 +459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   baseAttack: {fileID: 3413302608936224468, guid: 2c87c8a7302a06945a5f2dc5407ff93f, type: 3}
-  baseStats: {fileID: 11400000, guid: 66342e961c25075409ed7927c7eb70db, type: 2}
+  levelTable: {fileID: 11400000, guid: c0887c7fac9539546a67eecccd5a70a8, type: 2}
 --- !u!114 &785827154
 MonoBehaviour:
   m_ObjectHideFlags: 0
