@@ -150,6 +150,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -298,7 +311,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost_Lvl1_01_Death_Front_06_0: -630300316892650409
+      Ghost_Lvl1_01_Death_Front_06_1: -7415110869316809861
+      Ghost_Lvl1_01_Death_Front_06_2: -6409065685621175585
+      Ghost_Lvl1_01_Death_Front_06_3: -5634076457697337431
+      Ghost_Lvl1_01_Death_Front_06_4: -4853588931921178574
+      Ghost_Lvl1_01_Death_Front_06_5: -3999386435718259378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
