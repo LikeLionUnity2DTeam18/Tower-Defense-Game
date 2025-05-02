@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: tst
+  m_Name: watchDogFX
   m_Shader: {fileID: -6465566751694194690, guid: f6bcc5f34dc2ed1468e7dfc3e3c4da75, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
