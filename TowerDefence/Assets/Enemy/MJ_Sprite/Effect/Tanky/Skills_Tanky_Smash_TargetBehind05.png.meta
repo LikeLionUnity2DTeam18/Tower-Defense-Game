@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 9cd0f67eaf5417b428d1359e000b848a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8566197553297041937
+    second: Skills_Tanky_Smash_TargetBehind05_0
+  - first:
+      213: 1352737924881909922
+    second: Skills_Tanky_Smash_TargetBehind05_1
+  - first:
+      213: 1485355835817559573
+    second: Skills_Tanky_Smash_TargetBehind05_2
+  - first:
+      213: 6448146431984276796
+    second: Skills_Tanky_Smash_TargetBehind05_3
+  - first:
+      213: -4763314258345542661
+    second: Skills_Tanky_Smash_TargetBehind05_4
+  - first:
+      213: -306349981861502889
+    second: Skills_Tanky_Smash_TargetBehind05_5
+  - first:
+      213: 3931726843023072977
+    second: Skills_Tanky_Smash_TargetBehind05_6
+  - first:
+      213: 8371712218626626452
+    second: Skills_Tanky_Smash_TargetBehind05_7
+  - first:
+      213: 928625496316160010
+    second: Skills_Tanky_Smash_TargetBehind05_8
+  - first:
+      213: -4794306328067059238
+    second: Skills_Tanky_Smash_TargetBehind05_9
+  - first:
+      213: 3068282769431537500
+    second: Skills_Tanky_Smash_TargetBehind05_10
+  - first:
+      213: -1765704452443521021
+    second: Skills_Tanky_Smash_TargetBehind05_11
+  - first:
+      213: 5840908885118215964
+    second: Skills_Tanky_Smash_TargetBehind05_12
+  - first:
+      213: 1165388707425001018
+    second: Skills_Tanky_Smash_TargetBehind05_13
+  - first:
+      213: 9062176087712520080
+    second: Skills_Tanky_Smash_TargetBehind05_14
+  - first:
+      213: 908839627185919892
+    second: Skills_Tanky_Smash_TargetBehind05_15
+  - first:
+      213: 1228307583166483617
+    second: Skills_Tanky_Smash_TargetBehind05_16
+  - first:
+      213: 796198170118617702
+    second: Skills_Tanky_Smash_TargetBehind05_17
+  - first:
+      213: -6153540151663117247
+    second: Skills_Tanky_Smash_TargetBehind05_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skills_Tanky_Smash_TargetBehind05_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 155
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a27100a4f31e670800000000000000
+      internalID: 8566197553297041937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 896940a7e4742534390b97c813ea1d51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skills_Tanky_Smash_TargetBehind05_0: 8566197553297041937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: c27f2df151559f34d957978d6a37e575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6842694548192058075
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_0
+  - first:
+      213: -1895754849189735630
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_1
+  - first:
+      213: -7602788254485622415
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_2
+  - first:
+      213: 7014564899751770853
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_3
+  - first:
+      213: -918626094413899426
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_4
+  - first:
+      213: 544582292834105226
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_5
+  - first:
+      213: 7674924332027652255
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_6
+  - first:
+      213: 6815636471267504582
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_7
+  - first:
+      213: -3275730180472045818
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_8
+  - first:
+      213: -6895490453816269163
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_9
+  - first:
+      213: 5392623412585701719
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_10
+  - first:
+      213: -1312256927547328093
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_11
+  - first:
+      213: 4063489346499479015
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_12
+  - first:
+      213: -2416577509905673256
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_13
+  - first:
+      213: 4821044319040765448
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_14
+  - first:
+      213: 9183989500755859617
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_15
+  - first:
+      213: 4515973031386883199
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_16
+  - first:
+      213: 2495728219347586988
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_17
+  - first:
+      213: -6062572697392430422
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_18
+  - first:
+      213: -2889646815670254473
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_19
+  - first:
+      213: 6659585301717181416
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_20
+  - first:
+      213: 2208492447490874929
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_21
+  - first:
+      213: 1625739461727943067
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_22
+  - first:
+      213: -1908160967312844912
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_23
+  - first:
+      213: -3021814063762390203
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_24
+  - first:
+      213: 1501030372882095901
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_25
+  - first:
+      213: -6140216204897342547
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_26
+  - first:
+      213: -9083986543938401664
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_27
+  - first:
+      213: 659160038030207441
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_28
+  - first:
+      213: 4050794895193655804
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_29
+  - first:
+      213: -3377492385711204381
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_30
+  - first:
+      213: 4799726524041917657
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_31
+  - first:
+      213: -1204629113286565039
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_32
+  - first:
+      213: 2503949344970041793
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_33
+  - first:
+      213: -6292049329704812356
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_34
+  - first:
+      213: 1791503950199618523
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_35
+  - first:
+      213: 8995187637775125889
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_36
+  - first:
+      213: -703026305683759935
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_37
+  - first:
+      213: -2787894810115687392
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_38
+  - first:
+      213: -4737667318429228798
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_39
+  - first:
+      213: -7804881849215018612
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_40
+  - first:
+      213: 823549989073628495
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_41
+  - first:
+      213: 8315722556350939168
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_42
+  - first:
+      213: -5247467142903619095
+    second: Boomer_01_Lvl1_Death_Front_Explosion_05_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boomer_01_Lvl1_Death_Front_Explosion_05_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 310
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d74a3e81f82ab546ae5a6be964deade
+      internalID: 1257348968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35780758b80e1264ab7cce6002a5d526
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boomer_01_Lvl1_Death_Front_Explosion_05_0: 1257348968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
