@@ -92,14 +92,21 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0.28333333
-    functionName: AnimationTriggerSpawnwt
+    functionName: AnimationTrigger3wt
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.43333334
+    functionName: AnimationTrigger5wt
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
   - time: 0.6666667
-    functionName: AnimationTriggerEndwt
+    functionName: AnimationTrigger1wt
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

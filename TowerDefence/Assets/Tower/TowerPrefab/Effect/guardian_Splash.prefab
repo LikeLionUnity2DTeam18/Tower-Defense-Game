@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1310430939037839468}
   - component: {fileID: 8568679831625943028}
   - component: {fileID: 5693560732913823230}
+  - component: {fileID: 6528632316610405224}
   m_Layer: 0
   m_Name: guardian_Splash
   m_TagString: Untagged
@@ -101,6 +102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c9c7ad560e2054409132018461b4aeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timer: 10
 --- !u!95 &5693560732913823230
 Animator:
   serializedVersion: 7
@@ -123,3 +125,55 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!68 &6528632316610405224
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 418384852751196884}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.67453396, y: -0.10077667}
+  - {x: -0.4417032, y: -0.27035236}
+  - {x: -0.10657847, y: -0.38967085}
+  - {x: 0.27542257, y: -0.33252478}
+  - {x: 0.5931407, y: -0.16540241}
+  - {x: 0.7029207, y: 0.055694103}
+  - {x: 0.5298197, y: 0.24440908}
+  - {x: 0.116178155, y: 0.40092134}
+  - {x: -0.47825348, y: 0.29404736}
+  - {x: -0.6443639, y: 0.12038088}
+  - {x: -0.6691588, y: -0.08062124}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0

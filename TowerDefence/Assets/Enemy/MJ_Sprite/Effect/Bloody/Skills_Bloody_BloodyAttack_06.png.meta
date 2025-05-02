@@ -154,10 +154,10 @@ TextureImporter:
       name: Skills_Bloody_BloodyAttack_06_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 29
-        width: 15
-        height: 11
+        x: 0
+        y: 0
+        width: 73
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,99 +172,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Skills_Bloody_BloodyAttack_06_1
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 1
-        width: 56
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a106ae400a4330170800000000000000
-      internalID: 8143410413097869338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skills_Bloody_BloodyAttack_06_2
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 32
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97e4d80d4a94637b0800000000000000
-      internalID: -5244923743803978119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skills_Bloody_BloodyAttack_06_3
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 22
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb1946f76546888a0800000000000000
-      internalID: -6302677355837746753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skills_Bloody_BloodyAttack_06_4
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 8
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba0005b9fdf7b1320800000000000000
-      internalID: 2529756214058811563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ddcb5f33b2e35f748b0813a509dc690a
     internalID: 0
     vertices: []
     indices: 
@@ -275,10 +187,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Skills_Bloody_BloodyAttack_06_0: -3522882375393695957
-      Skills_Bloody_BloodyAttack_06_1: 8143410413097869338
-      Skills_Bloody_BloodyAttack_06_2: -5244923743803978119
-      Skills_Bloody_BloodyAttack_06_3: -6302677355837746753
-      Skills_Bloody_BloodyAttack_06_4: 2529756214058811563
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

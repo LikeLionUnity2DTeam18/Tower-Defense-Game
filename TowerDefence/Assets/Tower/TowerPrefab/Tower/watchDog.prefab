@@ -260,7 +260,7 @@ MonoBehaviour:
     baseValue: 30
     modifiers: 
   range:
-    baseValue: 10
+    baseValue: 50
     modifiers: 
   special:
     baseValue: 50
@@ -272,7 +272,7 @@ MonoBehaviour:
     baseValue: 1
     modifiers: 
   meleeDistance:
-    baseValue: 1
+    baseValue: 0.84
     modifiers: 
   moveDistance:
     baseValue: 3
