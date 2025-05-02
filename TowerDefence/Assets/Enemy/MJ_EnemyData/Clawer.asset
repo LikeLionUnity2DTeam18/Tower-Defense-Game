@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e482ffc55d17d8248a4f1893e76b12ed, type: 3}
+  m_Name: Clawer
+  m_EditorClassIdentifier: 
+  enemyType: 4
+  enemyName: Clawer
+  maxHealth: 100
+  attackPower: 10
+  moveSpeed: 0.5
+  targetRange: 0.8
+  explosionRadius: 1.5
+  enemyPrefab: {fileID: 3812971944739813538, guid: 5f5b38b53d7e7c24d892b380c89d9dd0, type: 3}
+  attackEffectPrefab: {fileID: 3757258932562042025, guid: 511e76a0b42c65f4ea553f57a66e2a28, type: 3}
+  attackEffectFront: {fileID: 0}
+  attackEffectBack: {fileID: 0}
+  enemyAnim: {fileID: 9100000, guid: 46315e8712153fc4b9a5e53274ca7c5a, type: 2}

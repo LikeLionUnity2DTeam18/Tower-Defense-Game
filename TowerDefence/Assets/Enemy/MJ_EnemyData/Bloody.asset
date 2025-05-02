@@ -12,9 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e482ffc55d17d8248a4f1893e76b12ed, type: 3}
   m_Name: Bloody
   m_EditorClassIdentifier: 
+  enemyType: 1
   enemyName: Bloody
   maxHealth: 100
   attackPower: 10
   moveSpeed: 0.5
+  targetRange: 1
+  explosionRadius: 0
   enemyPrefab: {fileID: 1534550865553590947, guid: 68b330ca099503a449b4b523c9702dd4, type: 3}
+  attackEffectPrefab: {fileID: 8001746992448539035, guid: 55149ca3bdb4f0545a2f2f8d436058d7, type: 3}
+  attackEffectFront: {fileID: 0}
+  attackEffectBack: {fileID: 0}
   enemyAnim: {fileID: 9100000, guid: 8ea60facd6d46354ea35f0d6ace846c6, type: 2}
