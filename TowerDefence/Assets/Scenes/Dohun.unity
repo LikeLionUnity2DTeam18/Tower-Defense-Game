@@ -333,6 +333,7 @@ GameObject:
   - component: {fileID: 750915357}
   - component: {fileID: 750915359}
   - component: {fileID: 750915358}
+  - component: {fileID: 750915360}
   m_Layer: 0
   m_Name: SkillManager
   m_TagString: Untagged
@@ -382,10 +383,10 @@ MonoBehaviour:
   previewPrefab: {fileID: 8415756369325733888, guid: 493d262b5a0b2de4e8ee32c68900ffc8, type: 3}
   skillPrefab: {fileID: 4684014606261782793, guid: a03838bd862d565469c018fc58825cc8, type: 3}
   rangePrefab: {fileID: 1989163829555034771, guid: b5077979d71dc37419e8c9ca294678c7, type: 3}
-  cooldown: 3
-  skillRange: 3
-  HP: 100
-  duration: 10
+  cooldown: 15
+  skillRange: 5
+  initial_maxHP: 50
+  initial_duration: 10
 --- !u!114 &750915359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -401,13 +402,34 @@ MonoBehaviour:
   previewPrefab: {fileID: 3285418505639190318, guid: 378dc6ccb9258f44981d1e7ebc2be63e, type: 3}
   skillPrefab: {fileID: 9146608931446303564, guid: 3ef02eb638ab7f94eb3f3ae0f1ac00d2, type: 3}
   rangePrefab: {fileID: 1989163829555034771, guid: b5077979d71dc37419e8c9ca294678c7, type: 3}
-  cooldown: 1
+  cooldown: 7
   skillRange: 5
   skillPrefabN: {fileID: 102405982534705251, guid: 179610b5812f3224cba097e23e6a915d, type: 3}
   casterPrefab: {fileID: 4941022124819604385, guid: 401ce8cb54c74274aa31638e09d04d4d, type: 3}
-  damage: 3
-  bindTime: 3
-  castingTime: 1.5
+  initial_damage: 10
+  initial_bindTime: 3
+  initial_castingTime: 1.2
+--- !u!114 &750915360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750915354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77faeaf063303924485b561660bd7367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  previewPrefab: {fileID: 0}
+  skillPrefab: {fileID: 3494035550658119819, guid: 412e65a6898ae65418c126b3954b09e9, type: 3}
+  rangePrefab: {fileID: 0}
+  cooldown: 30
+  skillRange: 0
+  initial_duration: 5
+  initial_damage: 5
+  initial_damageInterval: 0.1
+  initial_length: 2
 --- !u!1 &785827151
 GameObject:
   m_ObjectHideFlags: 0
