@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b25e8e8c5ff359241b0742bc2055f839
+guid: f93446e938f722c46aa6eeff7c3d54c8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5455093074121042058
-    second: Skill_CorruptedMage_DeathRay_S_Behind_02_0
+      213: 9176725687739932407
+    second: "ChatGPT Image 2025\uB144 5\uC6D4 2\uC77C \uC624\uD6C4 02_38_29_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -135,30 +135,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skill_CorruptedMage_DeathRay_S_Behind_02_0
+      name: "ChatGPT Image 2025\uB144 5\uC6D4 2\uC77C \uC624\uD6C4 02_38_29_0"
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 216
-        height: 190
+        x: 0
+        y: 8
+        width: 1024
+        height: 1503
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 677525c50cd9b44b0800000000000000
-      internalID: -5455093074121042058
+      spriteID: 7fed0f284674a5f70800000000000000
+      internalID: 9176725687739932407
       vertices: []
       indices: 
       edges: []
@@ -186,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Skill_CorruptedMage_DeathRay_S_Behind_02_0: -5455093074121042058
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
