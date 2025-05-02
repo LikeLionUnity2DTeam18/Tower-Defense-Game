@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6787891587135035677}
   - component: {fileID: 2477938372294968159}
   - component: {fileID: 7368232639193375832}
-  - component: {fileID: -3870641561535877514}
+  - component: {fileID: 2933967441783935462}
   m_Layer: 0
   m_Name: watchDog_wave
   m_TagString: Untagged
@@ -103,8 +103,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   duration: 0.15
   timer: 0.15
---- !u!68 &-3870641561535877514
-EdgeCollider2D:
+--- !u!60 &2933967441783935462
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -138,17 +138,20 @@ EdgeCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_EdgeRadius: 0
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0.5}
+    oldSize: {x: 2.56, y: 2.56}
+    newSize: {x: 1.25, y: 1.26}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   m_Points:
-  - {x: 0.14552613, y: 0.3206948}
-  - {x: 0.1523211, y: -0.14899841}
-  - {x: 2.0455933, y: -1.17877}
-  - {x: 2.3861754, y: -0.47052538}
-  - {x: 2.4129217, y: -0.010652486}
-  - {x: 2.3256629, y: 0.71220464}
-  - {x: 2.0959952, y: 1.2083983}
-  - {x: 0.1453291, y: 0.31990948}
-  m_AdjacentStartPoint: {x: 0, y: 0}
-  m_AdjacentEndPoint: {x: 0, y: 0}
-  m_UseAdjacentStartPoint: 0
-  m_UseAdjacentEndPoint: 0
+    m_Paths:
+    - - {x: 0.18867789, y: 0.32776845}
+      - {x: 0.18867789, y: -0.25975192}
+      - {x: 2.0833397, y: -1.1575706}
+      - {x: 2.4153564, y: -0.09210255}
+      - {x: 2.1131315, y: 1.1847768}
+  m_UseDelaunayMesh: 0

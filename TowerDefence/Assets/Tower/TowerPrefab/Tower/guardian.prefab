@@ -273,7 +273,7 @@ MonoBehaviour:
   dir: {x: 0, y: 0}
   projectile: {fileID: 3157875176317522960, guid: 18b01d5d2e87295418a5d5e0c186efd9, type: 3}
   firePoint: {fileID: 3737457073281349340}
-  SplashNum: 6
+  SplashNum: 4
   Splash: {fileID: 418384852751196884, guid: 6d510cfa4fc80184d8b81e1e98ef38be, type: 3}
   firePoint1: {fileID: 3536728286103994513}
 --- !u!114 &2341816456453350406
