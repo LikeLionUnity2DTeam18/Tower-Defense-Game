@@ -50,12 +50,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c048a53affb2f524fb55c513073d6cb6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 20
+  timer: 30
   dir: {x: 0, y: 0}
-  orbitCenter: {x: 0, y: 0, z: 0}
   element: {fileID: 2418861260556389056}
   fire: {fileID: 5424424841021745698}
   water: {fileID: 4450233882738227132}
+  bomb: {fileID: 0}
   firebreath: {fileID: 8058549807267511937}
 --- !u!114 &4887123030824468408
 MonoBehaviour:
@@ -258,12 +258,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4454fe068a1113f4e976e1e464136537, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 20
+  timer: 30
   dir: {x: 0, y: 0}
-  orbitCenter: {x: 0, y: 0, z: 0}
   element: {fileID: 2418861260556389056}
   fire: {fileID: 5424424841021745698}
   water: {fileID: 4450233882738227132}
+  bomb: {fileID: 0}
   proj: {fileID: 3593508931566244545, guid: d721a077c1ed01847bea4ed93a28a208, type: 3}
 --- !u!114 &4285959807058033774
 MonoBehaviour:
@@ -458,6 +458,7 @@ Transform:
   m_Children:
   - {fileID: 4065432356000726154}
   - {fileID: 3944324331748859237}
+  - {fileID: 7245901205874131175}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &6096437090790895075
@@ -626,10 +627,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timer: 30
   dir: {x: 0, y: 0}
-  orbitCenter: {x: 0, y: 0, z: 0}
   element: {fileID: 2418861260556389056}
   fire: {fileID: 5424424841021745698}
   water: {fileID: 4450233882738227132}
+  bomb: {fileID: 8456937249046740997}
 --- !u!114 &8722972008462866026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -652,10 +653,10 @@ MonoBehaviour:
     baseValue: 10
     modifiers: 
   special:
-    baseValue: 50
+    baseValue: 500
     modifiers: 
   cooldown:
-    baseValue: 1000
+    baseValue: 30
     modifiers: 
   speed:
     baseValue: 1
@@ -920,3 +921,108 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7829443485412053667, guid: e14348d8e78993a44bb00e5ee3ad4c82, type: 3}
   m_PrefabInstance: {fileID: 1915337558055698155}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8315006322962469194
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5685147159680176847}
+    m_Modifications:
+    - target: {fileID: 448606985265172815, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_Name
+      value: element_Bomb
+      objectReference: {fileID: 0}
+    - target: {fileID: 448606985265172815, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3956434097516512228, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      propertyPath: fadeDuration
+      value: 0.2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 448606985265172815, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7103722827099957160}
+  m_SourcePrefab: {fileID: 100100000, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+--- !u!4 &7245901205874131175 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1723272217996677549, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+  m_PrefabInstance: {fileID: 8315006322962469194}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8456937249046740997 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 448606985265172815, guid: 4f49c5f7d8f27ee4398f979a456750c5, type: 3}
+  m_PrefabInstance: {fileID: 8315006322962469194}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &7103722827099957160
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8456937249046740997}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
