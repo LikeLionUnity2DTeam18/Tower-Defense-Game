@@ -198,7 +198,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skill_CorruptedMage_DeathRay_N_Behind_15_0: -3334843040684776787
+      Skill_CorruptedMage_DeathRay_N_Behind_15_1: 8854426630403100096
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -298,7 +298,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost_Lvl1_01_Death_Front_05_0: -3446521007549846907
+      Ghost_Lvl1_01_Death_Front_05_1: 9115583116480030824
+      Ghost_Lvl1_01_Death_Front_05_2: 8294382237829245574
+      Ghost_Lvl1_01_Death_Front_05_3: -4104443315750972508
+      Ghost_Lvl1_01_Death_Front_05_4: -3829200238093468817
+      Ghost_Lvl1_01_Death_Front_05_5: -5645914932776490534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
