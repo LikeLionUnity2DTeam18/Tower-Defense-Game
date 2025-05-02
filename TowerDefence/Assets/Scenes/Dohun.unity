@@ -333,6 +333,7 @@ GameObject:
   - component: {fileID: 750915357}
   - component: {fileID: 750915359}
   - component: {fileID: 750915358}
+  - component: {fileID: 750915361}
   - component: {fileID: 750915360}
   m_Layer: 0
   m_Name: SkillManager
@@ -430,6 +431,26 @@ MonoBehaviour:
   initial_damage: 5
   initial_damageInterval: 0.1
   initial_length: 2
+--- !u!114 &750915361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750915354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2d5d0244d45aa4fa56f16e7e0674ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  previewPrefab: {fileID: 0}
+  skillPrefab: {fileID: 4328486194448017957, guid: 09dc38c827c89b341819e6b6b7e25d3c, type: 3}
+  rangePrefab: {fileID: 8504906469167638812, guid: 7f371df2172ce1f44abe1979ff1428ca, type: 3}
+  cooldown: 30
+  skillRange: 2
+  initial_damageUpAmount: 5
+  initial_duration: 10
+  initial_Aoe: 2
 --- !u!1 &785827151
 GameObject:
   m_ObjectHideFlags: 0
@@ -460,7 +481,7 @@ Transform:
   m_GameObject: {fileID: 785827151}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.2, y: 0, z: 0}
+  m_LocalPosition: {x: -0.72, y: -3.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -558,7 +579,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.30443233, y: -0.043973565}
+  m_Offset: {x: -0.10302049, y: -0.043973565}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -568,7 +589,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.89175725, y: 1.7644632}
+  m_Size: {x: 0.9829875, y: 1.7644632}
   m_EdgeRadius: 0
 --- !u!50 &785827157
 Rigidbody2D:
@@ -818,8 +839,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1941621766}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43193516, y: -0.07046356, z: -0.01898412}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
