@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 1a82f71f3e14ec74b833cc13e3c0f50d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1887485691021411799
+    second: water_Range_0
+  - first:
+      213: 2800190087859657771
+    second: water_Range_1
+  - first:
+      213: 9049089837761626412
+    second: water_Range_2
+  - first:
+      213: 6852341476887021851
+    second: water_Range_3
+  - first:
+      213: 2618600667540848
+    second: water_Range_4
+  - first:
+      213: 7357557706458766493
+    second: water_Range_5
+  - first:
+      213: -1215659167324110926
+    second: water_Range_6
+  - first:
+      213: -4797864941969894174
+    second: water_Range_7
+  - first:
+      213: -6536843563499730044
+    second: water_Range_8
+  - first:
+      213: -1228136207648796486
+    second: water_Range_9
+  - first:
+      213: 4561089318637296260
+    second: water_Range_10
+  - first:
+      213: -4009873416701244418
+    second: water_Range_11
+  - first:
+      213: 5195566337344641385
+    second: water_Range_12
+  - first:
+      213: 4451524097586230398
+    second: water_Range_13
+  - first:
+      213: 773099722622630937
+    second: water_Range_14
+  - first:
+      213: -803782427466308648
+    second: water_Range_15
+  - first:
+      213: -1657428216354476749
+    second: water_Range_16
+  - first:
+      213: -1198521312019844929
+    second: water_Range_17
+  - first:
+      213: -1983812598290163109
+    second: water_Range_18
+  - first:
+      213: -8480808459144804533
+    second: water_Range_19
+  - first:
+      213: 7953100979877770954
+    second: water_Range_20
+  - first:
+      213: -1405655998728552355
+    second: water_Range_21
+  - first:
+      213: 7295554704704817932
+    second: water_Range_22
+  - first:
+      213: -8258864039485109839
+    second: water_Range_23
+  - first:
+      213: -2858686248812724156
+    second: water_Range_24
+  - first:
+      213: 6643450113308653102
+    second: water_Range_25
+  - first:
+      213: 305860978129639252
+    second: water_Range_26
+  - first:
+      213: -2486546953624411821
+    second: water_Range_27
+  - first:
+      213: -884301162470659719
+    second: water_Range_28
+  - first:
+      213: 594064248012940729
+    second: water_Range_29
+  - first:
+      213: -6353855196568360146
+    second: water_Range_30
+  - first:
+      213: 2138231815474952843
+    second: water_Range_31
+  - first:
+      213: -6774702332567672493
+    second: water_Range_32
+  - first:
+      213: -1076471777512297095
+    second: water_Range_33
+  - first:
+      213: 2478821427526571988
+    second: water_Range_34
+  - first:
+      213: -8394918495799496062
+    second: water_Range_35
+  - first:
+      213: -8456203272264090011
+    second: water_Range_36
+  - first:
+      213: -6774138470781974160
+    second: water_Range_37
+  - first:
+      213: -5213694994317071731
+    second: water_Range_38
+  - first:
+      213: -1832310221953788264
+    second: water_Range_39
+  - first:
+      213: -6158576723899360500
+    second: water_Range_40
+  - first:
+      213: -1210312589813114344
+    second: water_Range_41
+  - first:
+      213: -2157919222559570988
+    second: water_Range_42
+  - first:
+      213: -1003415405429352477
+    second: water_Range_43
+  - first:
+      213: 8655328456851134706
+    second: water_Range_44
+  - first:
+      213: -7954270425568617545
+    second: water_Range_45
+  - first:
+      213: 6112945884807354201
+    second: water_Range_46
+  - first:
+      213: 4667262821975725066
+    second: water_Range_47
+  - first:
+      213: 3048808762286378878
+    second: water_Range_48
+  - first:
+      213: -4636285747819264441
+    second: water_Range_49
+  - first:
+      213: 3411602253691180293
+    second: water_Range_50
+  - first:
+      213: -5339624986068933567
+    second: water_Range_51
+  - first:
+      213: -100777426958859280
+    second: water_Range_52
+  - first:
+      213: 5981267882493140998
+    second: water_Range_53
+  - first:
+      213: 2507251411228960041
+    second: water_Range_54
+  - first:
+      213: 9118514207349977489
+    second: water_Range_55
+  - first:
+      213: 5506167620157412218
+    second: water_Range_56
+  - first:
+      213: -2189955921971996277
+    second: water_Range_57
+  - first:
+      213: -5439707965413911558
+    second: water_Range_58
+  - first:
+      213: -7024312374405696191
+    second: water_Range_59
+  - first:
+      213: 5083942014877848241
+    second: water_Range_60
+  - first:
+      213: -390794615011077435
+    second: water_Range_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water_Range_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c417e96b7f2ae0499bec990359525d6
+      internalID: 645831873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0fe1906b9882b47b1ec2f107ce8515
+      internalID: 1341720095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b59d72094751a499109a8886905d56
+      internalID: 1874666686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd3ce024637d524ba32a2601bcb03fe
+      internalID: -715970264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3294a79bdd9f042a2d5a8ea53ada86
+      internalID: -1255411473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb982ac2b9551d41b5bc14d4e260012
+      internalID: -1907291455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e673e8be73994a9e3afae803e0a7b
+      internalID: 276595166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781c21c15f05191449984e818c83c028
+      internalID: -1142992750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ea23c0be73df4f863e03c70c476ba
+      internalID: -233685838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf016fffd3e15fb469bf502de5f15248
+      internalID: 1765536066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4fc0dde418cbc41b3b2276a60b81a4
+      internalID: 356199532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8cc5a8f9d6dc640bbbef6c47f86a09
+      internalID: 823579053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc3964bbacf2440b84e9ecc41836ba
+      internalID: 90100200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac542ebab3c2134ca5fff87066b5e1a
+      internalID: -316567204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfae90ac7e400c459c4be61bb171408
+      internalID: 1497707004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaee06f29f1484409649aa63fbeb0e7
+      internalID: 1667223593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0c17164dcb3e44e8c3fd1c142228fe
+      internalID: 808686832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e1b7e7ff278240997dad49c63d267
+      internalID: -1969400181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5056a49b8fc84bbaf897633271470
+      internalID: -778501617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f0e2a10a8336498d66f5e792db99d
+      internalID: 797612169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f4b7a496cd254991ee7e922164ce0
+      internalID: -1468317931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_Range_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d1d2174fff4e4584e345495d51b2c
+      internalID: 181076671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d3b509e8b67f3004d9cb97506fbf639a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      water_Range_0: 645831873
+      water_Range_1: 1341720095
+      water_Range_10: 356199532
+      water_Range_11: 823579053
+      water_Range_12: 90100200
+      water_Range_13: -316567204
+      water_Range_14: 1497707004
+      water_Range_15: 1667223593
+      water_Range_16: 808686832
+      water_Range_17: -1969400181
+      water_Range_18: -778501617
+      water_Range_19: 797612169
+      water_Range_2: 1874666686
+      water_Range_20: -1468317931
+      water_Range_21: 181076671
+      water_Range_3: -715970264
+      water_Range_4: -1255411473
+      water_Range_5: -1907291455
+      water_Range_6: 276595166
+      water_Range_7: -1142992750
+      water_Range_8: -233685838
+      water_Range_9: 1765536066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

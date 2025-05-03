@@ -1,0 +1,966 @@
+fileFormatVersion: 2
+guid: dc0cc2cf66033d04c8f904f9cb4820a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4209144935587756527
+    second: one_Spawn_0
+  - first:
+      213: 3732222176939360852
+    second: one_Spawn_1
+  - first:
+      213: -3018751492587958317
+    second: one_Spawn_2
+  - first:
+      213: -8589544830779030855
+    second: one_Spawn_3
+  - first:
+      213: 2962180738959816758
+    second: one_Spawn_4
+  - first:
+      213: -8146451906368806594
+    second: one_Spawn_5
+  - first:
+      213: 6563559016310520211
+    second: one_Spawn_6
+  - first:
+      213: 1843530478379864244
+    second: one_Spawn_7
+  - first:
+      213: 7288062657267097443
+    second: one_Spawn_8
+  - first:
+      213: 1485879647956068374
+    second: one_Spawn_9
+  - first:
+      213: -2861147962461857069
+    second: one_Spawn_10
+  - first:
+      213: 8290442508502130
+    second: one_Spawn_11
+  - first:
+      213: -4490798509376008802
+    second: one_Spawn_12
+  - first:
+      213: 8442546299264016534
+    second: one_Spawn_13
+  - first:
+      213: -913816631651253643
+    second: one_Spawn_14
+  - first:
+      213: -3387120954991639825
+    second: one_Spawn_15
+  - first:
+      213: -8606771700459557460
+    second: one_Spawn_16
+  - first:
+      213: -1944378234413545335
+    second: one_Spawn_17
+  - first:
+      213: -6775008888800546081
+    second: one_Spawn_18
+  - first:
+      213: 16643822171185078
+    second: one_Spawn_19
+  - first:
+      213: 7892503194793109806
+    second: one_Spawn_20
+  - first:
+      213: -8898957919126538301
+    second: one_Spawn_21
+  - first:
+      213: 5778883721199983252
+    second: one_Spawn_22
+  - first:
+      213: 3146995946592827202
+    second: one_Spawn_23
+  - first:
+      213: -5474349301482421415
+    second: one_Spawn_24
+  - first:
+      213: -6285945485172703339
+    second: one_Spawn_25
+  - first:
+      213: 4810636604960789462
+    second: one_Spawn_26
+  - first:
+      213: -2551114768819921572
+    second: one_Spawn_27
+  - first:
+      213: 3510215992206085450
+    second: one_Spawn_28
+  - first:
+      213: 7601074774674692468
+    second: one_Spawn_29
+  - first:
+      213: -7650000884134841816
+    second: one_Spawn_30
+  - first:
+      213: -561948504517311202
+    second: one_Spawn_31
+  - first:
+      213: -6714624042553726567
+    second: one_Spawn_32
+  - first:
+      213: 6842459144122232268
+    second: one_Spawn_33
+  - first:
+      213: 7246240414336287452
+    second: one_Spawn_34
+  - first:
+      213: 5497178820683973010
+    second: one_Spawn_35
+  - first:
+      213: 3440000417681098270
+    second: one_Spawn_36
+  - first:
+      213: 6794594632602759736
+    second: one_Spawn_37
+  - first:
+      213: 1277729131886200355
+    second: one_Spawn_38
+  - first:
+      213: 7071379899340574078
+    second: one_Spawn_39
+  - first:
+      213: 7392183185253374708
+    second: one_Spawn_40
+  - first:
+      213: -7308251519355077482
+    second: one_Spawn_41
+  - first:
+      213: 7968249089439469705
+    second: one_Spawn_42
+  - first:
+      213: -6823059212241318173
+    second: one_Spawn_43
+  - first:
+      213: 9155287854275888030
+    second: one_Spawn_44
+  - first:
+      213: -4049092454979484341
+    second: one_Spawn_45
+  - first:
+      213: 7105584858259667481
+    second: one_Spawn_46
+  - first:
+      213: 3664940412810092148
+    second: one_Spawn_47
+  - first:
+      213: -5112829300263350422
+    second: one_Spawn_48
+  - first:
+      213: 1041539611744462684
+    second: one_Spawn_49
+  - first:
+      213: 8469781850834347969
+    second: one_Spawn_50
+  - first:
+      213: -4097718143808691344
+    second: one_Spawn_51
+  - first:
+      213: 1164520003784458207
+    second: one_Spawn_52
+  - first:
+      213: -8609451588758049628
+    second: one_Spawn_53
+  - first:
+      213: -5255917005744399089
+    second: one_Spawn_54
+  - first:
+      213: -682986474238067067
+    second: one_Spawn_55
+  - first:
+      213: -8999309509210884123
+    second: one_Spawn_56
+  - first:
+      213: -4227807323901985845
+    second: one_Spawn_57
+  - first:
+      213: 3482364406955508676
+    second: one_Spawn_58
+  - first:
+      213: 1169660972534289710
+    second: one_Spawn_59
+  - first:
+      213: 7327577209155559408
+    second: one_Spawn_60
+  - first:
+      213: -7268227744612385939
+    second: one_Spawn_61
+  - first:
+      213: -1036848032509524507
+    second: one_Spawn_62
+  - first:
+      213: -9136886729642947456
+    second: one_Spawn_63
+  - first:
+      213: 2266468702834138716
+    second: one_Spawn_64
+  - first:
+      213: 6803573300410522542
+    second: one_Spawn_65
+  - first:
+      213: -5948367750377333617
+    second: one_Spawn_66
+  - first:
+      213: -7965932666304516291
+    second: one_Spawn_67
+  - first:
+      213: -2319813693200619785
+    second: one_Spawn_68
+  - first:
+      213: 609667440959296168
+    second: one_Spawn_69
+  - first:
+      213: -4909911230206509576
+    second: one_Spawn_70
+  - first:
+      213: -2638729857265539814
+    second: one_Spawn_71
+  - first:
+      213: 2458406724655969013
+    second: one_Spawn_72
+  - first:
+      213: 2298155777607853390
+    second: one_Spawn_73
+  - first:
+      213: -8137855004672672600
+    second: one_Spawn_74
+  - first:
+      213: 517552095433694904
+    second: one_Spawn_75
+  - first:
+      213: -1762529762331109133
+    second: one_Spawn_76
+  - first:
+      213: -7286099752639351834
+    second: one_Spawn_77
+  - first:
+      213: 553633861381942160
+    second: one_Spawn_78
+  - first:
+      213: -2183665742978980654
+    second: one_Spawn_79
+  - first:
+      213: -2519543271067385699
+    second: one_Spawn_80
+  - first:
+      213: -9190037132728810007
+    second: one_Spawn_81
+  - first:
+      213: 5552735539570883507
+    second: one_Spawn_82
+  - first:
+      213: -568107717213367598
+    second: one_Spawn_83
+  - first:
+      213: 4274698292249991564
+    second: one_Spawn_84
+  - first:
+      213: 7099650752101563900
+    second: one_Spawn_85
+  - first:
+      213: -8770338614036921702
+    second: one_Spawn_86
+  - first:
+      213: -6716351182729468366
+    second: one_Spawn_87
+  - first:
+      213: -6003991696802607155
+    second: one_Spawn_88
+  - first:
+      213: -7249804369206890898
+    second: one_Spawn_89
+  - first:
+      213: -237187714375267005
+    second: one_Spawn_90
+  - first:
+      213: 5641033326597421983
+    second: one_Spawn_91
+  - first:
+      213: -946194429650753587
+    second: one_Spawn_92
+  - first:
+      213: -2389385041888199269
+    second: one_Spawn_93
+  - first:
+      213: 8789509577787230113
+    second: one_Spawn_94
+  - first:
+      213: 1684279196495541059
+    second: one_Spawn_95
+  - first:
+      213: -6398007043892151243
+    second: one_Spawn_96
+  - first:
+      213: -2593445861675606729
+    second: one_Spawn_97
+  - first:
+      213: 6350262665974721119
+    second: one_Spawn_98
+  - first:
+      213: -3485517097932010124
+    second: one_Spawn_99
+  - first:
+      213: 3278697438226084266
+    second: one_Spawn_100
+  - first:
+      213: -5351314650075382714
+    second: one_Spawn_101
+  - first:
+      213: -2272353791907200828
+    second: one_Spawn_102
+  - first:
+      213: -4949350659718545347
+    second: one_Spawn_103
+  - first:
+      213: 5680867496345503970
+    second: one_Spawn_104
+  - first:
+      213: -2289513956132999861
+    second: one_Spawn_105
+  - first:
+      213: 4111726258121979897
+    second: one_Spawn_106
+  - first:
+      213: 1361822017998376146
+    second: one_Spawn_107
+  - first:
+      213: 4674427435844358913
+    second: one_Spawn_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: one_Spawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182c51a573a45140886cc4efc315683
+      internalID: -1420953190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961731c91e49abe4384b49da7feb4a6a
+      internalID: -285059700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb0e6a5e5af384c81426b17e2d82a2
+      internalID: 1321229119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2321c78d031368438ab8266a38986dc
+      internalID: 224079964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951636db06ac0034c8f0e1fb24c7e6ab
+      internalID: 1552305035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63fad2d2f518f142a01eb9945d89dca
+      internalID: -933796021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10560335e8d2184f898b2f4415df87a
+      internalID: -1763350944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b57aff505fc3c46a6121d876eaafd2
+      internalID: -1181754219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804b204416e11964489f0574375c7422
+      internalID: 2038252622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506aff3c226e7f489727fc8cc1a8694
+      internalID: -839101917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43810f0f4a7a32c4cab96d8cd72c5471
+      internalID: -1135681343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1406bd94e76e147a1f50243b7f661b
+      internalID: -1073725915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f11e3be729004f876e9f0c7226b77
+      internalID: 1310011347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6c1028469e254aaaaec77ea17d53a
+      internalID: 564135057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf22ca3d1e4f9014fac9ab6df6152e15
+      internalID: 781901377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b292e740c86dbc041ab6d4f94863efd8
+      internalID: -1192633814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f144fd08d62561488d656ff2dd657e0
+      internalID: 120641999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf9115ced86a5440b57ed8dc9369d4f
+      internalID: 793476654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517bad9638914e4eb83a0255c7fc67d
+      internalID: -472218286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df12c70c2e2b1408cbf9be527a99d6
+      internalID: 803472469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_Spawn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff2d21124b89f94ea87839971292e95
+      internalID: 1889614492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8017928e4ab25d443990302adb8c7419
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      one_Spawn_0: -1420953190
+      one_Spawn_1: -285059700
+      one_Spawn_10: -1135681343
+      one_Spawn_11: -1073725915
+      one_Spawn_12: 1310011347
+      one_Spawn_13: 564135057
+      one_Spawn_14: 781901377
+      one_Spawn_15: -1192633814
+      one_Spawn_16: 120641999
+      one_Spawn_17: 793476654
+      one_Spawn_18: -472218286
+      one_Spawn_19: 803472469
+      one_Spawn_2: 1321229119
+      one_Spawn_20: 1889614492
+      one_Spawn_3: 224079964
+      one_Spawn_4: 1552305035
+      one_Spawn_5: -933796021
+      one_Spawn_6: -1763350944
+      one_Spawn_7: -1181754219
+      one_Spawn_8: 2038252622
+      one_Spawn_9: -839101917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
