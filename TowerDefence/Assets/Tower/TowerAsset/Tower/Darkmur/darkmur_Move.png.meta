@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 8415c8ed7058c9c40b8d8fe56c50b20e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7325317004720378467
+    second: darkmur_Move_0
+  - first:
+      213: 7651235522095134187
+    second: darkmur_Move_1
+  - first:
+      213: 7288325824451114709
+    second: darkmur_Move_2
+  - first:
+      213: 8709975256690614990
+    second: darkmur_Move_3
+  - first:
+      213: -4666705472989039413
+    second: darkmur_Move_4
+  - first:
+      213: -5622767302469122087
+    second: darkmur_Move_5
+  - first:
+      213: -3681991487532167862
+    second: darkmur_Move_6
+  - first:
+      213: -1659018871977764184
+    second: darkmur_Move_7
+  - first:
+      213: -6073348654191636358
+    second: darkmur_Move_8
+  - first:
+      213: -7343350571540399157
+    second: darkmur_Move_9
+  - first:
+      213: -1222094634331149000
+    second: darkmur_Move_10
+  - first:
+      213: -6285392781566890647
+    second: darkmur_Move_11
+  - first:
+      213: -7105019221854271565
+    second: darkmur_Move_12
+  - first:
+      213: 3503581576019931317
+    second: darkmur_Move_13
+  - first:
+      213: -4966516417184682710
+    second: darkmur_Move_14
+  - first:
+      213: -144173865306134630
+    second: darkmur_Move_15
+  - first:
+      213: -6135729732322536211
+    second: darkmur_Move_16
+  - first:
+      213: -4887515243713820363
+    second: darkmur_Move_17
+  - first:
+      213: 7287481194643982332
+    second: darkmur_Move_18
+  - first:
+      213: -6142641529075000379
+    second: darkmur_Move_19
+  - first:
+      213: -1373472708903742952
+    second: darkmur_Move_20
+  - first:
+      213: 5241470209378314183
+    second: darkmur_Move_21
+  - first:
+      213: 7219221434813741293
+    second: darkmur_Move_22
+  - first:
+      213: -1132419399105755076
+    second: darkmur_Move_23
+  - first:
+      213: 2064101557974888513
+    second: darkmur_Move_24
+  - first:
+      213: -4225539780582901720
+    second: darkmur_Move_25
+  - first:
+      213: 6061971002474933345
+    second: darkmur_Move_26
+  - first:
+      213: 7175812316314827099
+    second: darkmur_Move_27
+  - first:
+      213: -1450406827593038375
+    second: darkmur_Move_28
+  - first:
+      213: -6071464243544104011
+    second: darkmur_Move_29
+  - first:
+      213: -1561930393289663238
+    second: darkmur_Move_30
+  - first:
+      213: -1103385059908081238
+    second: darkmur_Move_31
+  - first:
+      213: 5984008490303781640
+    second: darkmur_Move_32
+  - first:
+      213: 1339127445263989930
+    second: darkmur_Move_33
+  - first:
+      213: -2183901863507224691
+    second: darkmur_Move_34
+  - first:
+      213: -5154172156030404350
+    second: darkmur_Move_35
+  - first:
+      213: -8199707561923726407
+    second: darkmur_Move_36
+  - first:
+      213: -568940506874490822
+    second: darkmur_Move_37
+  - first:
+      213: -6233600110421169482
+    second: darkmur_Move_38
+  - first:
+      213: 3542922520254741398
+    second: darkmur_Move_39
+  - first:
+      213: -5656589607072241364
+    second: darkmur_Move_40
+  - first:
+      213: -6198434966136388722
+    second: darkmur_Move_41
+  - first:
+      213: -3981544839950609062
+    second: darkmur_Move_42
+  - first:
+      213: -8562804648727013692
+    second: darkmur_Move_43
+  - first:
+      213: 7249586699309386640
+    second: darkmur_Move_44
+  - first:
+      213: 7811527724703225583
+    second: darkmur_Move_45
+  - first:
+      213: 7977051584221572706
+    second: darkmur_Move_46
+  - first:
+      213: 6598425373165627352
+    second: darkmur_Move_47
+  - first:
+      213: 5215538419471196003
+    second: darkmur_Move_48
+  - first:
+      213: -2003363339155819481
+    second: darkmur_Move_49
+  - first:
+      213: 3528640666147693331
+    second: darkmur_Move_50
+  - first:
+      213: -7611967643300926486
+    second: darkmur_Move_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkmur_Move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3629c7d2101c8a560800000000000000
+      internalID: 7325317004720378467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b45b5b26ae2a60800000000000000
+      internalID: 7651235522095134187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6f6bdd8b5552560800000000000000
+      internalID: 7288325824451114709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec26c79395c00e870800000000000000
+      internalID: 8709975256690614990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4fd1bf8188c3fb0800000000000000
+      internalID: -4666705472989039413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d785a9ddeae7f1b0800000000000000
+      internalID: -5622767302469122087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d02a70040f6ecc0800000000000000
+      internalID: -3681991487532167862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa9814302bf9f8e0800000000000000
+      internalID: -1659018871977764184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a709fc5b39127bba0800000000000000
+      internalID: -6073348654191636358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb3c2adf8d271a90800000000000000
+      internalID: -7343350571540399157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83de7cea76f3a0fe0800000000000000
+      internalID: -1222094634331149000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_Move_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96da6ec019cc5c8a0800000000000000
+      internalID: -6285392781566890647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44a84006dc153ad4fa6d2f055ef4c819
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkmur_Move_0: 7325317004720378467
+      darkmur_Move_1: 7651235522095134187
+      darkmur_Move_10: -1222094634331149000
+      darkmur_Move_11: -6285392781566890647
+      darkmur_Move_2: 7288325824451114709
+      darkmur_Move_3: 8709975256690614990
+      darkmur_Move_4: -4666705472989039413
+      darkmur_Move_5: -5622767302469122087
+      darkmur_Move_6: -3681991487532167862
+      darkmur_Move_7: -1659018871977764184
+      darkmur_Move_8: -6073348654191636358
+      darkmur_Move_9: -7343350571540399157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

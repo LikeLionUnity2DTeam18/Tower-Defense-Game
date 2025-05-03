@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 142574467662042062}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.512, y: 0.349, z: 0}
+  m_LocalPosition: {x: -0.318, y: 0.094, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -56,7 +56,7 @@ Transform:
   m_GameObject: {fileID: 4776760383375852780}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.836, y: 0.341, z: 0}
+  m_LocalPosition: {x: 0.373, y: 0.101, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -87,7 +87,7 @@ Transform:
   m_GameObject: {fileID: 6343224832535029943}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.79, y: -0.675, z: 0}
+  m_LocalPosition: {x: 0.358, y: -0.598, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -118,7 +118,7 @@ Transform:
   m_GameObject: {fileID: 7369565974309850384}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.495, y: -0.767, z: 0}
+  m_LocalPosition: {x: -0.31, y: -0.575, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -344,12 +344,6 @@ MonoBehaviour:
   delayBetweenShots: 1
   icePillarPrefab: {fileID: 5603872960999044764, guid: 194dac81157a91040b086e8488ae098f, type: 3}
   firePoint: {fileID: 5685147159680176847}
-  waveCount: 3
-  pillarsPerLine: 3
-  maxDistance: 6
-  spreadAngle: 45
-  minScale: 1
-  maxScale: 3
 --- !u!114 &8722972008462866026
 MonoBehaviour:
   m_ObjectHideFlags: 0

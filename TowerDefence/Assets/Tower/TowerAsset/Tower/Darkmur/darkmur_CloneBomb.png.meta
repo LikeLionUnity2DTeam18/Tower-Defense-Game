@@ -1,0 +1,917 @@
+fileFormatVersion: 2
+guid: f6f8e12c5cee0cb45bd9e083dfd82685
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8875828517176654152
+    second: darkmur_CloneBomb_0
+  - first:
+      213: -3821715158494573048
+    second: darkmur_CloneBomb_1
+  - first:
+      213: 5136568176997877833
+    second: darkmur_CloneBomb_2
+  - first:
+      213: 284115199763687462
+    second: darkmur_CloneBomb_3
+  - first:
+      213: 2572575894934761652
+    second: darkmur_CloneBomb_4
+  - first:
+      213: -8547307930329138871
+    second: darkmur_CloneBomb_5
+  - first:
+      213: 7156239419221886987
+    second: darkmur_CloneBomb_6
+  - first:
+      213: 4747745813071256034
+    second: darkmur_CloneBomb_7
+  - first:
+      213: 5486762944385046980
+    second: darkmur_CloneBomb_8
+  - first:
+      213: 7842230862813112586
+    second: darkmur_CloneBomb_9
+  - first:
+      213: 4005412107512864751
+    second: darkmur_CloneBomb_10
+  - first:
+      213: -1729445351169114709
+    second: darkmur_CloneBomb_11
+  - first:
+      213: 1116506344255684359
+    second: darkmur_CloneBomb_12
+  - first:
+      213: 7459926687834887952
+    second: darkmur_CloneBomb_13
+  - first:
+      213: 4650716300376361885
+    second: darkmur_CloneBomb_14
+  - first:
+      213: 3744327853073628582
+    second: darkmur_CloneBomb_15
+  - first:
+      213: 4447191407632372908
+    second: darkmur_CloneBomb_16
+  - first:
+      213: -3143906669198092113
+    second: darkmur_CloneBomb_17
+  - first:
+      213: -4861897895703879329
+    second: darkmur_CloneBomb_18
+  - first:
+      213: 8577314811880002729
+    second: darkmur_CloneBomb_19
+  - first:
+      213: -1380785924955279455
+    second: darkmur_CloneBomb_20
+  - first:
+      213: -4620327183646742089
+    second: darkmur_CloneBomb_21
+  - first:
+      213: -7773345540575442555
+    second: darkmur_CloneBomb_22
+  - first:
+      213: 6257410608283944153
+    second: darkmur_CloneBomb_23
+  - first:
+      213: 5230152627295396983
+    second: darkmur_CloneBomb_24
+  - first:
+      213: -2289792310792695078
+    second: darkmur_CloneBomb_25
+  - first:
+      213: 2361055763575808289
+    second: darkmur_CloneBomb_26
+  - first:
+      213: 9144814211005500819
+    second: darkmur_CloneBomb_27
+  - first:
+      213: -7965793805300003471
+    second: darkmur_CloneBomb_28
+  - first:
+      213: -6771189538295416350
+    second: darkmur_CloneBomb_29
+  - first:
+      213: -1910089843414679292
+    second: darkmur_CloneBomb_30
+  - first:
+      213: -1130802940015343315
+    second: darkmur_CloneBomb_31
+  - first:
+      213: 9008660256818784949
+    second: darkmur_CloneBomb_32
+  - first:
+      213: -6153593211541494072
+    second: darkmur_CloneBomb_33
+  - first:
+      213: -5101541235488261944
+    second: darkmur_CloneBomb_34
+  - first:
+      213: 5598632899801991793
+    second: darkmur_CloneBomb_35
+  - first:
+      213: -8380239747591767404
+    second: darkmur_CloneBomb_36
+  - first:
+      213: -373433711738506047
+    second: darkmur_CloneBomb_37
+  - first:
+      213: -6087143644443014006
+    second: darkmur_CloneBomb_38
+  - first:
+      213: -2160343390396697441
+    second: darkmur_CloneBomb_39
+  - first:
+      213: -4501017647556672974
+    second: darkmur_CloneBomb_40
+  - first:
+      213: -2813210163864944361
+    second: darkmur_CloneBomb_41
+  - first:
+      213: 7259503464173483887
+    second: darkmur_CloneBomb_42
+  - first:
+      213: -2826597544601622193
+    second: darkmur_CloneBomb_43
+  - first:
+      213: -1621438399368158035
+    second: darkmur_CloneBomb_44
+  - first:
+      213: 3960308610084237220
+    second: darkmur_CloneBomb_45
+  - first:
+      213: 6517586266205622335
+    second: darkmur_CloneBomb_46
+  - first:
+      213: 2748177164351942439
+    second: darkmur_CloneBomb_47
+  - first:
+      213: 4006887214656205251
+    second: darkmur_CloneBomb_48
+  - first:
+      213: -4598673688038801209
+    second: darkmur_CloneBomb_49
+  - first:
+      213: -4115863406605268601
+    second: darkmur_CloneBomb_50
+  - first:
+      213: -5320892009506084330
+    second: darkmur_CloneBomb_51
+  - first:
+      213: -4305528171873388003
+    second: darkmur_CloneBomb_52
+  - first:
+      213: -1944316949839471216
+    second: darkmur_CloneBomb_53
+  - first:
+      213: -5268855621169112414
+    second: darkmur_CloneBomb_54
+  - first:
+      213: 8211856281260050059
+    second: darkmur_CloneBomb_55
+  - first:
+      213: -4778620488758195495
+    second: darkmur_CloneBomb_56
+  - first:
+      213: 7496277515740556820
+    second: darkmur_CloneBomb_57
+  - first:
+      213: -2148730742157459772
+    second: darkmur_CloneBomb_58
+  - first:
+      213: -8008702741791364819
+    second: darkmur_CloneBomb_59
+  - first:
+      213: -6851507032477539813
+    second: darkmur_CloneBomb_60
+  - first:
+      213: 4527458780875018379
+    second: darkmur_CloneBomb_61
+  - first:
+      213: -158289098045418134
+    second: darkmur_CloneBomb_62
+  - first:
+      213: 1146004434222604356
+    second: darkmur_CloneBomb_63
+  - first:
+      213: 4092427023655946067
+    second: darkmur_CloneBomb_64
+  - first:
+      213: 514806515659246354
+    second: darkmur_CloneBomb_65
+  - first:
+      213: -1644796034358157847
+    second: darkmur_CloneBomb_66
+  - first:
+      213: -8111968213570170966
+    second: darkmur_CloneBomb_67
+  - first:
+      213: 952568101213536276
+    second: darkmur_CloneBomb_68
+  - first:
+      213: 6939705321413231452
+    second: darkmur_CloneBomb_69
+  - first:
+      213: -5493475079599521484
+    second: darkmur_CloneBomb_70
+  - first:
+      213: -4069370197631324402
+    second: darkmur_CloneBomb_71
+  - first:
+      213: -1814683437207551773
+    second: darkmur_CloneBomb_72
+  - first:
+      213: 1487618099844118730
+    second: darkmur_CloneBomb_73
+  - first:
+      213: -7369623346225651878
+    second: darkmur_CloneBomb_74
+  - first:
+      213: 6575494274518374598
+    second: darkmur_CloneBomb_75
+  - first:
+      213: -7920723249536551101
+    second: darkmur_CloneBomb_76
+  - first:
+      213: 9116707546080921669
+    second: darkmur_CloneBomb_77
+  - first:
+      213: -4190929092324491020
+    second: darkmur_CloneBomb_78
+  - first:
+      213: -4072998245715133691
+    second: darkmur_CloneBomb_79
+  - first:
+      213: -5549914189267745484
+    second: darkmur_CloneBomb_80
+  - first:
+      213: 1452499784966315099
+    second: darkmur_CloneBomb_81
+  - first:
+      213: -3346272002765776148
+    second: darkmur_CloneBomb_82
+  - first:
+      213: -4243599212736534164
+    second: darkmur_CloneBomb_83
+  - first:
+      213: 2568354675170353355
+    second: darkmur_CloneBomb_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b89d92074d2b70800000000000000
+      internalID: 8875828517176654152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8439cf4a86fac0800000000000000
+      internalID: -3821715158494573048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c882da81c84740800000000000000
+      internalID: 5136568176997877833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6282435d44161f300800000000000000
+      internalID: 284115199763687462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0b1577520a3b320800000000000000
+      internalID: 2572575894934761652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9493ad219bcd16980800000000000000
+      internalID: -8547307930329138871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b084e5e16d1105360800000000000000
+      internalID: 7156239419221886987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d5ff89a163e140800000000000000
+      internalID: 4747745813071256034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9d8dae3d5e42c40800000000000000
+      internalID: 5486762944385046980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a4987b6335dc60800000000000000
+      internalID: 7842230862813112586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef5a571715169730800000000000000
+      internalID: 4005412107512864751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad3d19bd96cff7e0800000000000000
+      internalID: -1729445351169114709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f74d6ca90ae7f00800000000000000
+      internalID: 1116506344255684359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017dad65ccbf68760800000000000000
+      internalID: 7459926687834887952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b4d0ba5d9aa8040800000000000000
+      internalID: 4650716300376361885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adfd05185686f330800000000000000
+      internalID: 3744327853073628582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d814e50997bd30800000000000000
+      internalID: 4447191407632372908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8577f9a899e54d0800000000000000
+      internalID: -3143906669198092113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51e9509f91178cb0800000000000000
+      internalID: -4861897895703879329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4ddc8706eb80770800000000000000
+      internalID: 8577314811880002729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af6e28548676dce0800000000000000
+      internalID: -1380785924955279455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkmur_CloneBomb_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9a7a0f7ec41efb0800000000000000
+      internalID: -4620327183646742089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d260f27b4ff3acf49acb0df3fe8bbb61
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkmur_CloneBomb_0: 8875828517176654152
+      darkmur_CloneBomb_1: -3821715158494573048
+      darkmur_CloneBomb_10: 4005412107512864751
+      darkmur_CloneBomb_11: -1729445351169114709
+      darkmur_CloneBomb_12: 1116506344255684359
+      darkmur_CloneBomb_13: 7459926687834887952
+      darkmur_CloneBomb_14: 4650716300376361885
+      darkmur_CloneBomb_15: 3744327853073628582
+      darkmur_CloneBomb_16: 4447191407632372908
+      darkmur_CloneBomb_17: -3143906669198092113
+      darkmur_CloneBomb_18: -4861897895703879329
+      darkmur_CloneBomb_19: 8577314811880002729
+      darkmur_CloneBomb_2: 5136568176997877833
+      darkmur_CloneBomb_20: -1380785924955279455
+      darkmur_CloneBomb_21: -4620327183646742089
+      darkmur_CloneBomb_3: 284115199763687462
+      darkmur_CloneBomb_4: 2572575894934761652
+      darkmur_CloneBomb_5: -8547307930329138871
+      darkmur_CloneBomb_6: 7156239419221886987
+      darkmur_CloneBomb_7: 4747745813071256034
+      darkmur_CloneBomb_8: 5486762944385046980
+      darkmur_CloneBomb_9: 7842230862813112586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
