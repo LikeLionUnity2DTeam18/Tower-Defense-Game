@@ -1,0 +1,1587 @@
+fileFormatVersion: 2
+guid: 72b0fe10a9a5a9d4bb01d63418939f81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1260081076622606791
+    second: hyem_Spawn_0
+  - first:
+      213: 1531423234715609413
+    second: hyem_Spawn_1
+  - first:
+      213: -1416397432609146784
+    second: hyem_Spawn_2
+  - first:
+      213: -8629886294057839
+    second: hyem_Spawn_3
+  - first:
+      213: 5559746526953776227
+    second: hyem_Spawn_4
+  - first:
+      213: -4564214134606531589
+    second: hyem_Spawn_5
+  - first:
+      213: 6879306977816105034
+    second: hyem_Spawn_6
+  - first:
+      213: 5343490375701436031
+    second: hyem_Spawn_7
+  - first:
+      213: 6984454116287622663
+    second: hyem_Spawn_8
+  - first:
+      213: 3390864642812751305
+    second: hyem_Spawn_9
+  - first:
+      213: -6942957557121637805
+    second: hyem_Spawn_10
+  - first:
+      213: -3182710243799055901
+    second: hyem_Spawn_11
+  - first:
+      213: -7575341776811252105
+    second: hyem_Spawn_12
+  - first:
+      213: -8225648098534492274
+    second: hyem_Spawn_13
+  - first:
+      213: 7183339439457401673
+    second: hyem_Spawn_14
+  - first:
+      213: -602592378331135425
+    second: hyem_Spawn_15
+  - first:
+      213: -4317020036498634537
+    second: hyem_Spawn_16
+  - first:
+      213: 1405693356515816931
+    second: hyem_Spawn_17
+  - first:
+      213: -164179148405581781
+    second: hyem_Spawn_18
+  - first:
+      213: 3662132320326578530
+    second: hyem_Spawn_19
+  - first:
+      213: -2119590012649823050
+    second: hyem_Spawn_20
+  - first:
+      213: -8838122035285065333
+    second: hyem_Spawn_21
+  - first:
+      213: 3981172277693380589
+    second: hyem_Spawn_22
+  - first:
+      213: 5624602448039475247
+    second: hyem_Spawn_23
+  - first:
+      213: 5541169392529826558
+    second: hyem_Spawn_24
+  - first:
+      213: -9158804793864951251
+    second: hyem_Spawn_25
+  - first:
+      213: 7213329332578586070
+    second: hyem_Spawn_26
+  - first:
+      213: -8905873863628468223
+    second: hyem_Spawn_27
+  - first:
+      213: 3547569330377206127
+    second: hyem_Spawn_28
+  - first:
+      213: 694596766110744671
+    second: hyem_Spawn_29
+  - first:
+      213: -5922461606982696624
+    second: hyem_Spawn_30
+  - first:
+      213: -1987401311508244435
+    second: hyem_Spawn_31
+  - first:
+      213: 6833858312253179492
+    second: hyem_Spawn_32
+  - first:
+      213: 2511958796804230684
+    second: hyem_Spawn_33
+  - first:
+      213: -3654580670325299493
+    second: hyem_Spawn_34
+  - first:
+      213: -6424185593325477546
+    second: hyem_Spawn_35
+  - first:
+      213: -7418351515282000717
+    second: hyem_Spawn_36
+  - first:
+      213: -741784531215283904
+    second: hyem_Spawn_37
+  - first:
+      213: -7899678632321443838
+    second: hyem_Spawn_38
+  - first:
+      213: 6299603656463079319
+    second: hyem_Spawn_39
+  - first:
+      213: 7200606288302763650
+    second: hyem_Spawn_40
+  - first:
+      213: 5215271251731825480
+    second: hyem_Spawn_41
+  - first:
+      213: 6623281968689362582
+    second: hyem_Spawn_42
+  - first:
+      213: -4530863573563954565
+    second: hyem_Spawn_43
+  - first:
+      213: -5448464285808556943
+    second: hyem_Spawn_44
+  - first:
+      213: 4471826290395660889
+    second: hyem_Spawn_45
+  - first:
+      213: -4519959531403416339
+    second: hyem_Spawn_46
+  - first:
+      213: -7606506111525900365
+    second: hyem_Spawn_47
+  - first:
+      213: -9079087490831181726
+    second: hyem_Spawn_48
+  - first:
+      213: 6082641705836048286
+    second: hyem_Spawn_49
+  - first:
+      213: -4104013936651947746
+    second: hyem_Spawn_50
+  - first:
+      213: -5511818401061342143
+    second: hyem_Spawn_51
+  - first:
+      213: 3709402831278848690
+    second: hyem_Spawn_52
+  - first:
+      213: 6765739243681588257
+    second: hyem_Spawn_53
+  - first:
+      213: 4535664600049124595
+    second: hyem_Spawn_54
+  - first:
+      213: -8263556999367588099
+    second: hyem_Spawn_55
+  - first:
+      213: 5185947907285327303
+    second: hyem_Spawn_56
+  - first:
+      213: -3290299912689112320
+    second: hyem_Spawn_57
+  - first:
+      213: 1212440985477428638
+    second: hyem_Spawn_58
+  - first:
+      213: -1655551893839465877
+    second: hyem_Spawn_59
+  - first:
+      213: -3309829933336964042
+    second: hyem_Spawn_60
+  - first:
+      213: 6066993841039822506
+    second: hyem_Spawn_61
+  - first:
+      213: -8059335203280840414
+    second: hyem_Spawn_62
+  - first:
+      213: -3173064602145751506
+    second: hyem_Spawn_63
+  - first:
+      213: -7587460206566895810
+    second: hyem_Spawn_64
+  - first:
+      213: 1698481532226807039
+    second: hyem_Spawn_65
+  - first:
+      213: -3041579551117704988
+    second: hyem_Spawn_66
+  - first:
+      213: 5334010878077469164
+    second: hyem_Spawn_67
+  - first:
+      213: -2726676317927524408
+    second: hyem_Spawn_68
+  - first:
+      213: 1894494064361585183
+    second: hyem_Spawn_69
+  - first:
+      213: -8088851224783790924
+    second: hyem_Spawn_70
+  - first:
+      213: -9210083634854889401
+    second: hyem_Spawn_71
+  - first:
+      213: -8623506940547225712
+    second: hyem_Spawn_72
+  - first:
+      213: -7209597687606699321
+    second: hyem_Spawn_73
+  - first:
+      213: 2315448222704925522
+    second: hyem_Spawn_74
+  - first:
+      213: -6260355903119666389
+    second: hyem_Spawn_75
+  - first:
+      213: 418374637593263280
+    second: hyem_Spawn_76
+  - first:
+      213: 5012511326788654219
+    second: hyem_Spawn_77
+  - first:
+      213: -2421312477536627320
+    second: hyem_Spawn_78
+  - first:
+      213: 8621962077120205504
+    second: hyem_Spawn_79
+  - first:
+      213: -8532403153311312622
+    second: hyem_Spawn_80
+  - first:
+      213: 2270790065389791580
+    second: hyem_Spawn_81
+  - first:
+      213: -1008010038013449993
+    second: hyem_Spawn_82
+  - first:
+      213: -2480128718027392098
+    second: hyem_Spawn_83
+  - first:
+      213: -7866383838087113717
+    second: hyem_Spawn_84
+  - first:
+      213: -398543692967633679
+    second: hyem_Spawn_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hyem_Spawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c148402015bc7110800000000000000
+      internalID: 1260081076622606791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549e0027155b04510800000000000000
+      internalID: 1531423234715609413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0687e881a02f75ce0800000000000000
+      internalID: -1416397432609146784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c9df40a2751eff0800000000000000
+      internalID: -8629886294057839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364aa4c6200382d40800000000000000
+      internalID: 5559746526953776227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3f5f34d67a8a0c0800000000000000
+      internalID: -4564214134606531589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4058998f35387f50800000000000000
+      internalID: 6879306977816105034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7617688f24e72a40800000000000000
+      internalID: 5343490375701436031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ea6577304cde060800000000000000
+      internalID: 6984454116287622663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd29445d65ce0f20800000000000000
+      internalID: 3390864642812751305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a62d13e8a5af90800000000000000
+      internalID: -6942957557121637805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e14c5f55edb4d3d0800000000000000
+      internalID: -3182710243799055901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7762df43acafed690800000000000000
+      internalID: -7575341776811252105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87fb7fb2a0a8dd80800000000000000
+      internalID: -8225648098534492274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b79e5492950b360800000000000000
+      internalID: 7183339439457401673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f320731bc6923a7f0800000000000000
+      internalID: -602592378331135425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8414c362dd614c0800000000000000
+      internalID: -4317020036498634537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5704af8a6028310800000000000000
+      internalID: 1405693356515816931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2852c33fe7b8bdf0800000000000000
+      internalID: -164179148405581781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261fa8941f182d230800000000000000
+      internalID: 3662132320326578530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4aa821d14b592e0800000000000000
+      internalID: -2119590012649823050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b810845d5dea85580800000000000000
+      internalID: -8838122035285065333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7fb89e717ff3730800000000000000
+      internalID: 3981172277693380589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f287f26402a9e0e40800000000000000
+      internalID: 5624602448039475247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2e102443036ec40800000000000000
+      internalID: 5541169392529826558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ae88eb09365e080800000000000000
+      internalID: -9158804793864951251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd80446fc4ea1460800000000000000
+      internalID: 7213329332578586070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1005df708eaf76480800000000000000
+      internalID: -8905873863628468223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f692439928f7b3130800000000000000
+      internalID: 3547569330377206127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508a222414b3a900800000000000000
+      internalID: 694596766110744671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05148e70c803fcda0800000000000000
+      internalID: -5922461606982696624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28d76179055b64e0800000000000000
+      internalID: -1987401311508244435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466833b7dedb6de50800000000000000
+      internalID: 6833858312253179492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e0fed77354cd220800000000000000
+      internalID: 2511958796804230684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6604e3e32584dc0800000000000000
+      internalID: -3654580670325299493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65127aa5d35b8d6a0800000000000000
+      internalID: -6424185593325477546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4b2a8d998bc0990800000000000000
+      internalID: -7418351515282000717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049880526e6a4b5f0800000000000000
+      internalID: -741784531215283904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2089cb06324be5290800000000000000
+      internalID: -7899678632321443838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797db391620bc6750800000000000000
+      internalID: 6299603656463079319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eeabdc441bde360800000000000000
+      internalID: 7200606288302763650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84348ce529d506840800000000000000
+      internalID: 5215271251731825480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696bafedbdf9aeb50800000000000000
+      internalID: 6623281968689362582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aa6fbd5932f11c0800000000000000
+      internalID: -4530863573563954565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748af8699a2364b0800000000000000
+      internalID: -5448464285808556943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9524940815e1f0e30800000000000000
+      internalID: 4471826290395660889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decee8301c0e541c0800000000000000
+      internalID: -4519959531403416339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf29a81ef2407690800000000000000
+      internalID: -7606506111525900365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2689058b70a900280800000000000000
+      internalID: -9079087490831181726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f655c7762e96450800000000000000
+      internalID: 6082641705836048286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyem_Spawn_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11bb90911d9b07c0800000000000000
+      internalID: -4104013936651947746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5f588a66b0879044eabe4834a3d7fa5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hyem_Spawn_0: 1260081076622606791
+      hyem_Spawn_1: 1531423234715609413
+      hyem_Spawn_10: -6942957557121637805
+      hyem_Spawn_11: -3182710243799055901
+      hyem_Spawn_12: -7575341776811252105
+      hyem_Spawn_13: -8225648098534492274
+      hyem_Spawn_14: 7183339439457401673
+      hyem_Spawn_15: -602592378331135425
+      hyem_Spawn_16: -4317020036498634537
+      hyem_Spawn_17: 1405693356515816931
+      hyem_Spawn_18: -164179148405581781
+      hyem_Spawn_19: 3662132320326578530
+      hyem_Spawn_2: -1416397432609146784
+      hyem_Spawn_20: -2119590012649823050
+      hyem_Spawn_21: -8838122035285065333
+      hyem_Spawn_22: 3981172277693380589
+      hyem_Spawn_23: 5624602448039475247
+      hyem_Spawn_24: 5541169392529826558
+      hyem_Spawn_25: -9158804793864951251
+      hyem_Spawn_26: 7213329332578586070
+      hyem_Spawn_27: -8905873863628468223
+      hyem_Spawn_28: 3547569330377206127
+      hyem_Spawn_29: 694596766110744671
+      hyem_Spawn_3: -8629886294057839
+      hyem_Spawn_30: -5922461606982696624
+      hyem_Spawn_31: -1987401311508244435
+      hyem_Spawn_32: 6833858312253179492
+      hyem_Spawn_33: 2511958796804230684
+      hyem_Spawn_34: -3654580670325299493
+      hyem_Spawn_35: -6424185593325477546
+      hyem_Spawn_36: -7418351515282000717
+      hyem_Spawn_37: -741784531215283904
+      hyem_Spawn_38: -7899678632321443838
+      hyem_Spawn_39: 6299603656463079319
+      hyem_Spawn_4: 5559746526953776227
+      hyem_Spawn_40: 7200606288302763650
+      hyem_Spawn_41: 5215271251731825480
+      hyem_Spawn_42: 6623281968689362582
+      hyem_Spawn_43: -4530863573563954565
+      hyem_Spawn_44: -5448464285808556943
+      hyem_Spawn_45: 4471826290395660889
+      hyem_Spawn_46: -4519959531403416339
+      hyem_Spawn_47: -7606506111525900365
+      hyem_Spawn_48: -9079087490831181726
+      hyem_Spawn_49: 6082641705836048286
+      hyem_Spawn_5: -4564214134606531589
+      hyem_Spawn_50: -4104013936651947746
+      hyem_Spawn_6: 6879306977816105034
+      hyem_Spawn_7: 5343490375701436031
+      hyem_Spawn_8: 6984454116287622663
+      hyem_Spawn_9: 3390864642812751305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

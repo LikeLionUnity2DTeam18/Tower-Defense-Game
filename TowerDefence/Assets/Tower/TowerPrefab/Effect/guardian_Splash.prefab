@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1310430939037839468}
   - component: {fileID: 8568679831625943028}
   - component: {fileID: 5693560732913823230}
-  - component: {fileID: 6528632316610405224}
+  - component: {fileID: -3922322432387061522}
   m_Layer: 0
   m_Name: guardian_Splash
   m_TagString: Untagged
@@ -125,8 +125,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!68 &6528632316610405224
-EdgeCollider2D:
+--- !u!70 &-3922322432387061522
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -160,20 +160,5 @@ EdgeCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_EdgeRadius: 0
-  m_Points:
-  - {x: -0.67453396, y: -0.10077667}
-  - {x: -0.4417032, y: -0.27035236}
-  - {x: -0.10657847, y: -0.38967085}
-  - {x: 0.27542257, y: -0.33252478}
-  - {x: 0.5931407, y: -0.16540241}
-  - {x: 0.7029207, y: 0.055694103}
-  - {x: 0.5298197, y: 0.24440908}
-  - {x: 0.116178155, y: 0.40092134}
-  - {x: -0.47825348, y: 0.29404736}
-  - {x: -0.6443639, y: 0.12038088}
-  - {x: -0.6691588, y: -0.08062124}
-  m_AdjacentStartPoint: {x: 0, y: 0}
-  m_AdjacentEndPoint: {x: 0, y: 0}
-  m_UseAdjacentStartPoint: 0
-  m_UseAdjacentEndPoint: 0
+  m_Size: {x: 1.47, y: 0.86}
+  m_Direction: 1
