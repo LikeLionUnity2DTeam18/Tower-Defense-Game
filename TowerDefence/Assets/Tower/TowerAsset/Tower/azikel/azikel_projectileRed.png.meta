@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 438465858227206418d69ec624aa48f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4701507301664717929
+    second: azikel_projectileRed_0
+  - first:
+      213: 465689662369067065
+    second: azikel_projectileRed_1
+  - first:
+      213: 7353661590446856354
+    second: azikel_projectileRed_2
+  - first:
+      213: -4171894322685154828
+    second: azikel_projectileRed_3
+  - first:
+      213: -6082891750509635762
+    second: azikel_projectileRed_4
+  - first:
+      213: 3807947848339411393
+    second: azikel_projectileRed_5
+  - first:
+      213: -3410514027675874522
+    second: azikel_projectileRed_6
+  - first:
+      213: -9158689240077633922
+    second: azikel_projectileRed_7
+  - first:
+      213: -6005661416616429922
+    second: azikel_projectileRed_8
+  - first:
+      213: -432044946198641465
+    second: azikel_projectileRed_9
+  - first:
+      213: 2349306570908592844
+    second: azikel_projectileRed_10
+  - first:
+      213: -182505213306631189
+    second: azikel_projectileRed_11
+  - first:
+      213: -5679808374873168624
+    second: azikel_projectileRed_12
+  - first:
+      213: -5623227608038531010
+    second: azikel_projectileRed_13
+  - first:
+      213: -3110487993427689991
+    second: azikel_projectileRed_14
+  - first:
+      213: 8769042415824004139
+    second: azikel_projectileRed_15
+  - first:
+      213: -8680256712588225441
+    second: azikel_projectileRed_16
+  - first:
+      213: 2311788182738848242
+    second: azikel_projectileRed_17
+  - first:
+      213: 2445338726780562623
+    second: azikel_projectileRed_18
+  - first:
+      213: 5802536473903412747
+    second: azikel_projectileRed_19
+  - first:
+      213: 3919908209213315252
+    second: azikel_projectileRed_20
+  - first:
+      213: -6678981803973741860
+    second: azikel_projectileRed_21
+  - first:
+      213: -3875921673967163759
+    second: azikel_projectileRed_22
+  - first:
+      213: 8022018091168029827
+    second: azikel_projectileRed_23
+  - first:
+      213: 2182156565706108695
+    second: azikel_projectileRed_24
+  - first:
+      213: -2323659949688402275
+    second: azikel_projectileRed_25
+  - first:
+      213: 5890538534096347084
+    second: azikel_projectileRed_26
+  - first:
+      213: 1401854204150449622
+    second: azikel_projectileRed_27
+  - first:
+      213: -5681212159977126555
+    second: azikel_projectileRed_28
+  - first:
+      213: 2493180490057388855
+    second: azikel_projectileRed_29
+  - first:
+      213: 6115252487714159487
+    second: azikel_projectileRed_30
+  - first:
+      213: 1325160503232876464
+    second: azikel_projectileRed_31
+  - first:
+      213: 113906763896735160
+    second: azikel_projectileRed_32
+  - first:
+      213: 8386522646236836929
+    second: azikel_projectileRed_33
+  - first:
+      213: -6421337276614365817
+    second: azikel_projectileRed_34
+  - first:
+      213: 599344023917605391
+    second: azikel_projectileRed_35
+  - first:
+      213: -2011812469511807575
+    second: azikel_projectileRed_36
+  - first:
+      213: 8332242514333927915
+    second: azikel_projectileRed_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: azikel_projectileRed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1716
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1efd13153a94d45aedaa18c0c8ec56
+      internalID: 642776128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1573
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15468bd0dd83c4fb1dde1fa6b954c8
+      internalID: -2075055631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1430
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98d59f6b48c37945944d83be914bd61
+      internalID: 809075085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1287
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16ebbc02678271409d310e463db12c5
+      internalID: 128072831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536de3041d47b3b4a92ebeb10f5a015a
+      internalID: -113514174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1001
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25278fc01b55a2f45ac44830e31ffe68
+      internalID: -1819630964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7583239fd20cadd4881b615ca44d02fb
+      internalID: 1668965252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840ac71aff38d4419a4a19dca67e72a
+      internalID: -1730594215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec917f8a6ebec7449676be21fe99e40
+      internalID: -603687547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a57b4ac969f62441b3aa686415223f1
+      internalID: -2073130731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a051c96914c54398d4d5409e8e96a
+      internalID: -1102542929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511107846f457544b57c550363658ac
+      internalID: -405143263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_projectileRed_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f6f2cd176f1d24484074d476f1861a
+      internalID: 693922697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 68daecfd2a5d1764ab7d8a91bba415b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      azikel_projectileRed_0: 642776128
+      azikel_projectileRed_1: -2075055631
+      azikel_projectileRed_10: -1102542929
+      azikel_projectileRed_11: -405143263
+      azikel_projectileRed_12: 693922697
+      azikel_projectileRed_2: 809075085
+      azikel_projectileRed_3: 128072831
+      azikel_projectileRed_4: -113514174
+      azikel_projectileRed_5: -1819630964
+      azikel_projectileRed_6: 1668965252
+      azikel_projectileRed_7: -1730594215
+      azikel_projectileRed_8: -603687547
+      azikel_projectileRed_9: -2073130731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

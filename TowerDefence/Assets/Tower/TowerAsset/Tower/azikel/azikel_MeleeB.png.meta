@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 533f55caab7b1394db94dcd2c0085760
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6034237154344293140
+    second: azikel_MeleeB_0
+  - first:
+      213: -3017286566058899530
+    second: azikel_MeleeB_1
+  - first:
+      213: -3507087301550573686
+    second: azikel_MeleeB_2
+  - first:
+      213: 8369888446840588403
+    second: azikel_MeleeB_3
+  - first:
+      213: 5670921511817823635
+    second: azikel_MeleeB_4
+  - first:
+      213: 3571448021200969949
+    second: azikel_MeleeB_5
+  - first:
+      213: 416065249437303626
+    second: azikel_MeleeB_6
+  - first:
+      213: 8288629391097626910
+    second: azikel_MeleeB_7
+  - first:
+      213: 6166342406284360934
+    second: azikel_MeleeB_8
+  - first:
+      213: -2080931905689808371
+    second: azikel_MeleeB_9
+  - first:
+      213: 2621751161500215080
+    second: azikel_MeleeB_10
+  - first:
+      213: 6762162787381031810
+    second: azikel_MeleeB_11
+  - first:
+      213: 2543936930790476123
+    second: azikel_MeleeB_12
+  - first:
+      213: 4538781565240608311
+    second: azikel_MeleeB_13
+  - first:
+      213: 7884613534366490595
+    second: azikel_MeleeB_14
+  - first:
+      213: -6113795217972826874
+    second: azikel_MeleeB_15
+  - first:
+      213: -8383794799818306881
+    second: azikel_MeleeB_16
+  - first:
+      213: 7629874508444067550
+    second: azikel_MeleeB_17
+  - first:
+      213: -8863891885266983647
+    second: azikel_MeleeB_18
+  - first:
+      213: 1300278595295813921
+    second: azikel_MeleeB_19
+  - first:
+      213: 3903255128191980735
+    second: azikel_MeleeB_20
+  - first:
+      213: -8473308855316583599
+    second: azikel_MeleeB_21
+  - first:
+      213: -2996927560849899393
+    second: azikel_MeleeB_22
+  - first:
+      213: -6931295315047345626
+    second: azikel_MeleeB_23
+  - first:
+      213: 2167808291679846291
+    second: azikel_MeleeB_24
+  - first:
+      213: -6225764936757971664
+    second: azikel_MeleeB_25
+  - first:
+      213: 4547905575817720942
+    second: azikel_MeleeB_26
+  - first:
+      213: -8626017698560276713
+    second: azikel_MeleeB_27
+  - first:
+      213: 6050633255227303823
+    second: azikel_MeleeB_28
+  - first:
+      213: -2374259777034606531
+    second: azikel_MeleeB_29
+  - first:
+      213: 667716562500795237
+    second: azikel_MeleeB_30
+  - first:
+      213: -1011344393635289467
+    second: azikel_MeleeB_31
+  - first:
+      213: -6384578790723022420
+    second: azikel_MeleeB_32
+  - first:
+      213: -8295943967633237150
+    second: azikel_MeleeB_33
+  - first:
+      213: -7343166234427501746
+    second: azikel_MeleeB_34
+  - first:
+      213: -8906964965382639608
+    second: azikel_MeleeB_35
+  - first:
+      213: -8223984305706308798
+    second: azikel_MeleeB_36
+  - first:
+      213: -3883423752975668862
+    second: azikel_MeleeB_37
+  - first:
+      213: 7235966342894513435
+    second: azikel_MeleeB_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: azikel_MeleeB_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec28d46745124ca0800000000000000
+      internalID: -6034237154344293140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7408cbad17026d0800000000000000
+      internalID: -3017286566058899530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a877bca3ea2545fc0800000000000000
+      internalID: -3507087301550573686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37844936231d72470800000000000000
+      internalID: 8369888446840588403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395c505b11923be40800000000000000
+      internalID: 5670921511817823635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a47d8d05509130800000000000000
+      internalID: 3571448021200969949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a434814d32926c500800000000000000
+      internalID: 416065249437303626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e118c332480270370800000000000000
+      internalID: 8288629391097626910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb1027fbf339550800000000000000
+      internalID: 6166342406284360934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02159ff47b0f13e0800000000000000
+      internalID: -2080931905689808371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82720be6ac4526420800000000000000
+      internalID: 2621751161500215080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28336374a3708dd50800000000000000
+      internalID: 6762162787381031810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_MeleeB_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5983c20921ed4320800000000000000
+      internalID: 2543936930790476123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fea7e4db30cd5884388c2bd5fa8feee9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      azikel_MeleeB_0: -6034237154344293140
+      azikel_MeleeB_1: -3017286566058899530
+      azikel_MeleeB_10: 2621751161500215080
+      azikel_MeleeB_11: 6762162787381031810
+      azikel_MeleeB_12: 2543936930790476123
+      azikel_MeleeB_2: -3507087301550573686
+      azikel_MeleeB_3: 8369888446840588403
+      azikel_MeleeB_4: 5670921511817823635
+      azikel_MeleeB_5: 3571448021200969949
+      azikel_MeleeB_6: 416065249437303626
+      azikel_MeleeB_7: 8288629391097626910
+      azikel_MeleeB_8: 6166342406284360934
+      azikel_MeleeB_9: -2080931905689808371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

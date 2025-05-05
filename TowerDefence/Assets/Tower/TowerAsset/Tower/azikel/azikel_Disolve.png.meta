@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d7d87adaea03349438df4b93b42a27d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2280740808708378352
+    second: azikel_Disolve_0
+  - first:
+      213: -758596790987732246
+    second: azikel_Disolve_1
+  - first:
+      213: -8752271473012476205
+    second: azikel_Disolve_2
+  - first:
+      213: 1704669527234618864
+    second: azikel_Disolve_3
+  - first:
+      213: -1604561829388540711
+    second: azikel_Disolve_4
+  - first:
+      213: 6083428025089597776
+    second: azikel_Disolve_5
+  - first:
+      213: 7507875609139250992
+    second: azikel_Disolve_6
+  - first:
+      213: -7787970262324398025
+    second: azikel_Disolve_7
+  - first:
+      213: -201581946106642444
+    second: azikel_Disolve_8
+  - first:
+      213: 5622192324326240954
+    second: azikel_Disolve_9
+  - first:
+      213: -796757051209716216
+    second: azikel_Disolve_10
+  - first:
+      213: -6994542822014791345
+    second: azikel_Disolve_11
+  - first:
+      213: 5324284773895724759
+    second: azikel_Disolve_12
+  - first:
+      213: 1087827516262108846
+    second: azikel_Disolve_13
+  - first:
+      213: 7025321391738878913
+    second: azikel_Disolve_14
+  - first:
+      213: 3633964379868044329
+    second: azikel_Disolve_15
+  - first:
+      213: -5662718412929133449
+    second: azikel_Disolve_16
+  - first:
+      213: -7357282774389845727
+    second: azikel_Disolve_17
+  - first:
+      213: 6720690035665474652
+    second: azikel_Disolve_18
+  - first:
+      213: 2148245119288300801
+    second: azikel_Disolve_19
+  - first:
+      213: -248440707699753819
+    second: azikel_Disolve_20
+  - first:
+      213: 4362471161737100758
+    second: azikel_Disolve_21
+  - first:
+      213: 4413913205874039454
+    second: azikel_Disolve_22
+  - first:
+      213: -6963677283366478390
+    second: azikel_Disolve_23
+  - first:
+      213: -5441641231947246160
+    second: azikel_Disolve_24
+  - first:
+      213: 3820897703907461864
+    second: azikel_Disolve_25
+  - first:
+      213: -8455620872563677818
+    second: azikel_Disolve_26
+  - first:
+      213: 5386986348268809908
+    second: azikel_Disolve_27
+  - first:
+      213: -224678217488930571
+    second: azikel_Disolve_28
+  - first:
+      213: -6548116185331231267
+    second: azikel_Disolve_29
+  - first:
+      213: 1155549184472398250
+    second: azikel_Disolve_30
+  - first:
+      213: 4044222378191446657
+    second: azikel_Disolve_31
+  - first:
+      213: 2413759844924142691
+    second: azikel_Disolve_32
+  - first:
+      213: 8931736075744857333
+    second: azikel_Disolve_33
+  - first:
+      213: -2752829402152258612
+    second: azikel_Disolve_34
+  - first:
+      213: 3025726346301361157
+    second: azikel_Disolve_35
+  - first:
+      213: -7227044076651289283
+    second: azikel_Disolve_36
+  - first:
+      213: -2070071468766205735
+    second: azikel_Disolve_37
+  - first:
+      213: 1396484698513385660
+    second: azikel_Disolve_38
+  - first:
+      213: -8741836781588604983
+    second: azikel_Disolve_39
+  - first:
+      213: -3991544778412184119
+    second: azikel_Disolve_40
+  - first:
+      213: 448576583867810001
+    second: azikel_Disolve_41
+  - first:
+      213: 3147287938514590514
+    second: azikel_Disolve_42
+  - first:
+      213: 5755171413471134917
+    second: azikel_Disolve_43
+  - first:
+      213: 6237776695876621028
+    second: azikel_Disolve_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: azikel_Disolve_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fecccf7ea1d6af10800000000000000
+      internalID: 2280740808708378352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_Disolve_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeacc61ec3ce875f0800000000000000
+      internalID: -758596790987732246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_Disolve_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d67e41877fa98680800000000000000
+      internalID: -8752271473012476205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_Disolve_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a04e37e338a710800000000000000
+      internalID: 1704669527234618864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_Disolve_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4252b74837bb9e0800000000000000
+      internalID: -1604561829388540711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azikel_Disolve_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0512f14be8dac6450800000000000000
+      internalID: 6083428025089597776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f4aeb10801d6ac46938e2bb8e89a16a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      azikel_Disolve_0: 2280740808708378352
+      azikel_Disolve_1: -758596790987732246
+      azikel_Disolve_2: -8752271473012476205
+      azikel_Disolve_3: 1704669527234618864
+      azikel_Disolve_4: -1604561829388540711
+      azikel_Disolve_5: 6083428025089597776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
