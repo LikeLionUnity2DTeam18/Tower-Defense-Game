@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 993f95257e3cb8842a9505e023a64254
+guid: d3992c7b40eb24a11be45d0ec3a14898
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8845275706495392906
-    second: BloodyElite_01_Idle_Back_06_0
+      213: -7478510487088323595
+    second: UIIconBackPannel_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 26
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,32 +110,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -152,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BloodyElite_01_Idle_Back_06_0
+      name: UIIconBackPannel_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 66
-        height: 73
-      alignment: 9
-      pivot: {x: 0.5119316, y: 0.62705255}
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8cdc0a046bb0ca70800000000000000
-      internalID: 8845275706495392906
+      spriteID: 5f32118b55ef63890800000000000000
+      internalID: -7478510487088323595
       vertices: []
       indices: 
       edges: []
@@ -177,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1f4c5318941e48d41af798f07d672448
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -187,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BloodyElite_01_Idle_Back_06_0: 8845275706495392906
+      UIIconBackPannel_0: -7478510487088323595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
