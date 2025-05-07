@@ -272,6 +272,9 @@ MonoBehaviour:
   timer: 20
   dir: {x: 0, y: 0}
   count: 0
+  shotSword: {fileID: 2220048949568996361, guid: 6f8dbdbd26f23b4408ff83dec471c999, type: 3}
+  greatSword: {fileID: 8902710811814394132, guid: 6dda6384901ba3d46827b8cfe04d2b68, type: 3}
+  spear: {fileID: 3342170643337973881, guid: 476dc6d3fd72f2146b3fe687fde54091, type: 3}
 --- !u!114 &8722972008462866026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -288,7 +291,7 @@ MonoBehaviour:
     baseValue: 100
     modifiers: 
   melee:
-    baseValue: 0
+    baseValue: 10
     modifiers: 
   range:
     baseValue: 50
