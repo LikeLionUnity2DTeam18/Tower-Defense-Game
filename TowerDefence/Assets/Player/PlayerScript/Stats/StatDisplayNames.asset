@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99629e61ea8235a41be9db82c21a5deb, type: 3}
+  m_Name: StatDisplayNames
+  m_EditorClassIdentifier: 
+  pairs:
+  - statType: 0
+    displayName: "\uACF5\uACA9 \uB370\uBBF8\uC9C0"
+  - statType: 1
+    displayName: "\uACF5\uACA9 \uC18D\uB3C4"
+  - statType: 2
+    displayName: "\uC0AC\uC815\uAC70\uB9AC"
+  - statType: 3
+    displayName: "\uC8FC\uBB38\uB825"
+  - statType: 4
+    displayName: "\uC774\uB3D9 \uC18D\uB3C4"
+  - statType: 5
+    displayName: "\uAD6C\uC18D\uC758 \uC0AC\uACA9 \uB370\uBBF8\uC9C0"
+  - statType: 6
+    displayName: "\uAD6C\uC18D\uC758 \uC0AC\uACA9 \uC9C0\uC18D\uC2DC\uAC04"
+  - statType: 7
+    displayName: "\uAD6C\uC18D\uC758 \uC0AC\uACA9 \uC2DC\uC804\uC2DC\uAC04"
+  - statType: 8
+    displayName: "\uBCBD \uCCB4\uB825"
+  - statType: 9
+    displayName: "\uBCBD \uC9C0\uC18D\uC2DC\uAC04"
+  - statType: 10
+    displayName: "\uD0C0\uC6CC \uAC15\uD654 \uACF5\uACA9\uB825 \uC0C1\uC2B9\uCE58"
+  - statType: 11
+    displayName: "\uD0C0\uC6CC \uAC15\uD654 \uC9C0\uC18D\uC2DC\uAC04"
+  - statType: 12
+    displayName: "\uD0C0\uC6CC \uAC15\uD654 \uBC94\uC704"
+  - statType: 13
+    displayName: "\uD654\uC5FC \uC228\uACB0 \uC9C0\uC18D\uC2DC\uAC04"
+  - statType: 14
+    displayName: "\uD654\uC5FC \uC228\uACB0 \uB300\uBBF8\uC9C0"
+  - statType: 15
+    displayName: "\uD654\uC5FC \uC228\uACB0 \uB300\uBBF8\uC9C0 \uAC04\uACA9"
+  - statType: 16
+    displayName: "\uD654\uC5FC \uC228\uACB0 \uAE38\uC774"
+  - statType: 17
+    displayName: "\uC2A4\uD0AC \uCFE8\uD0C0\uC784"
+  - statType: 18
+    displayName: "\uC2A4\uD0AC \uC0AC\uC815\uAC70\uB9AC"
+  - statType: 19
+    displayName: "\uACF5\uACA9\uB825 \uC99D\uAC00(%)"
+  - statType: 20
+    displayName: "\uACF5\uACA9 \uC18D\uB3C4 \uC99D\uAC00(%)"
