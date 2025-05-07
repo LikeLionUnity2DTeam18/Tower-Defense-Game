@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 2c8f94ca0779f9f42a0ccf86ef3c9c25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3889230994391048831
+    second: re_eos_fire_effect_0-Sheet_0
+  - first:
+      213: 3825035366241737409
+    second: re_eos_fire_effect_0-Sheet_1
+  - first:
+      213: -4788851786340781806
+    second: re_eos_fire_effect_0-Sheet_2
+  - first:
+      213: 7490920504993495358
+    second: re_eos_fire_effect_0-Sheet_3
+  - first:
+      213: 5725038165238760220
+    second: re_eos_fire_effect_0-Sheet_4
+  - first:
+      213: 4982262926510497927
+    second: re_eos_fire_effect_0-Sheet_5
+  - first:
+      213: -7565978333408159716
+    second: re_eos_fire_effect_0-Sheet_6
+  - first:
+      213: -2014260646742638973
+    second: re_eos_fire_effect_0-Sheet_7
+  - first:
+      213: -6221636347921553441
+    second: re_eos_fire_effect_0-Sheet_8
+  - first:
+      213: -3181106885858266310
+    second: re_eos_fire_effect_0-Sheet_9
+  - first:
+      213: -1105630252866246476
+    second: re_eos_fire_effect_0-Sheet_10
+  - first:
+      213: -6911016271114953221
+    second: re_eos_fire_effect_0-Sheet_11
+  - first:
+      213: -1541232551377980936
+    second: re_eos_fire_effect_0-Sheet_12
+  - first:
+      213: 4311998760455130188
+    second: re_eos_fire_effect_0-Sheet_13
+  - first:
+      213: -6244019817072360452
+    second: re_eos_fire_effect_0-Sheet_14
+  - first:
+      213: 4331944842494275366
+    second: re_eos_fire_effect_0-Sheet_15
+  - first:
+      213: 7203913939137096846
+    second: re_eos_fire_effect_0-Sheet_16
+  - first:
+      213: 625992729259009769
+    second: re_eos_fire_effect_0-Sheet_17
+  - first:
+      213: 409286749408326694
+    second: re_eos_fire_effect_0-Sheet_18
+  - first:
+      213: -5676373970788732184
+    second: re_eos_fire_effect_0-Sheet_19
+  - first:
+      213: 8464278013771974446
+    second: re_eos_fire_effect_0-Sheet_20
+  - first:
+      213: -3186523930576517001
+    second: re_eos_fire_effect_0-Sheet_21
+  - first:
+      213: 133301651896646325
+    second: re_eos_fire_effect_0-Sheet_22
+  - first:
+      213: -8938055628209146886
+    second: re_eos_fire_effect_0-Sheet_23
+  - first:
+      213: 7922514641699523159
+    second: re_eos_fire_effect_0-Sheet_24
+  - first:
+      213: 1399619851335337163
+    second: re_eos_fire_effect_0-Sheet_25
+  - first:
+      213: -8175634265797302299
+    second: re_eos_fire_effect_0-Sheet_26
+  - first:
+      213: 3340656011757219547
+    second: re_eos_fire_effect_0-Sheet_27
+  - first:
+      213: -5717788903514382350
+    second: re_eos_fire_effect_0-Sheet_28
+  - first:
+      213: -986642234885844308
+    second: re_eos_fire_effect_0-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9a14e57ecd0c448db74cdc35d10ee
+      internalID: -820110629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af177db4635fcb40a37aa452ed4ea38
+      internalID: -1249921714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8d9d0e7f516649811bc88ac0cb311
+      internalID: -30577197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b8dd03ac44ed428b205a46c5513c8
+      internalID: 1388475592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299293130028d8448a0f6b7cdce3d55b
+      internalID: -663034737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36bb25062b99fd448c35a3a493ba6fe
+      internalID: -1736873478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33375a67fd403643bcdb778f726157b
+      internalID: 1431215797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd19ffd0261df94b8930bd00cc4b63b
+      internalID: 571405098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f8282c909aa354eb58edf76845899c
+      internalID: 1758060345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aa05de21285ba4fb1b17eab760ba6a
+      internalID: 336459912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ec729236ef7943a44ea51285eedde
+      internalID: -737766417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac987d9b2b20e4a925499a3e8e2b11
+      internalID: 1731417118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1c7df16edf9994787892e14ce4a670
+      internalID: 2082398895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639fbdc66a732294c8f2003c20d0a5a4
+      internalID: -744128730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8148cea401d05d343aa24a362af41497
+      internalID: 1806458509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb331611f0d3d644eadc187439783b35
+      internalID: -1156969835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8411066207f4f34e85528e500742c16
+      internalID: -1941665176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff77d92c564ce543a6ca7dcd56db116
+      internalID: 2045958931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90112d9822ae3444d862a1f68d9c62a2
+      internalID: -379381130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9fc58eb07f3f140bf3b556fcc0af07
+      internalID: 1798925129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd3a6f671c07b64a90eecaf7f655351
+      internalID: -2141024469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ccbb520f34eed46aaa11b7569e889b
+      internalID: -1564253913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8089d2d3ca5050248b6d56a4e91c1831
+      internalID: 1491457602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39df7b404425ba4caa6121efdf3ad77
+      internalID: 965247665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38c67b74a8a74849868df9e7c1879bb
+      internalID: 1791050160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04766c7336598e841a6ddc183ed7b85f
+      internalID: 1395500621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9a79ce4e57b1440a59de4867919f62
+      internalID: 982027249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45971864f6f0a5645b3530b663c4df61
+      internalID: 806986084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4078317505d34183a2ccfa335c840
+      internalID: 1256122333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re_eos_fire_effect_0-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f8bf353f173548a016c6b422ec264
+      internalID: -478912359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c08967a63585774458e741a1afbc6ba7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      re_eos_fire_effect_0-Sheet_0: -820110629
+      re_eos_fire_effect_0-Sheet_1: -1249921714
+      re_eos_fire_effect_0-Sheet_10: -737766417
+      re_eos_fire_effect_0-Sheet_11: 1731417118
+      re_eos_fire_effect_0-Sheet_12: 2082398895
+      re_eos_fire_effect_0-Sheet_13: -744128730
+      re_eos_fire_effect_0-Sheet_14: 1806458509
+      re_eos_fire_effect_0-Sheet_15: -1156969835
+      re_eos_fire_effect_0-Sheet_16: -1941665176
+      re_eos_fire_effect_0-Sheet_17: 2045958931
+      re_eos_fire_effect_0-Sheet_18: -379381130
+      re_eos_fire_effect_0-Sheet_19: 1798925129
+      re_eos_fire_effect_0-Sheet_2: -30577197
+      re_eos_fire_effect_0-Sheet_20: -2141024469
+      re_eos_fire_effect_0-Sheet_21: -1564253913
+      re_eos_fire_effect_0-Sheet_22: 1491457602
+      re_eos_fire_effect_0-Sheet_23: 965247665
+      re_eos_fire_effect_0-Sheet_24: 1791050160
+      re_eos_fire_effect_0-Sheet_25: 1395500621
+      re_eos_fire_effect_0-Sheet_26: 982027249
+      re_eos_fire_effect_0-Sheet_27: 806986084
+      re_eos_fire_effect_0-Sheet_28: 1256122333
+      re_eos_fire_effect_0-Sheet_29: -478912359
+      re_eos_fire_effect_0-Sheet_3: 1388475592
+      re_eos_fire_effect_0-Sheet_4: -663034737
+      re_eos_fire_effect_0-Sheet_5: -1736873478
+      re_eos_fire_effect_0-Sheet_6: 1431215797
+      re_eos_fire_effect_0-Sheet_7: 571405098
+      re_eos_fire_effect_0-Sheet_8: 1758060345
+      re_eos_fire_effect_0-Sheet_9: 336459912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
