@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 403f72075a1da2e4fa75794c0132de88
+guid: 4c3482314bcd4334286a9a9c9d995497
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5123071791887417134
-    second: Debris2_0
-  - first:
-      213: -6592948055763798449
-    second: Debris2_1
-  - first:
-      213: -5596229565330998636
-    second: Debris2_2
-  - first:
-      213: 8183693888205703186
-    second: Debris2_3
+      213: -8801717477150857849
+    second: arrow-4_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 150
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -148,89 +139,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Debris2_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2ff54ac6aec81740800000000000000
-      internalID: 5123071791887417134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Debris2_1
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 256
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f46b8999ca42184a0800000000000000
-      internalID: -6592948055763798449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Debris2_2
+      name: arrow-4_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 256
-        height: 256
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 49a38e44cd23652b0800000000000000
-      internalID: -5596229565330998636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Debris2_3
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21849057b32529170800000000000000
-      internalID: 8183693888205703186
+      spriteID: f37445d7b16ea2643a82b02494003245
+      internalID: 1399138534
       vertices: []
       indices: 
       edges: []
@@ -239,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 31468796844763844bccdd7315ecfa08
+    spriteID: 2f2e70d3e45d4e244b57c2e66ccc2585
     internalID: 0
     vertices: []
     indices: 
@@ -249,10 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Debris2_0: 5123071791887417134
-      Debris2_1: -6592948055763798449
-      Debris2_2: -5596229565330998636
-      Debris2_3: 8183693888205703186
+      arrow-4_0: 1399138534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
