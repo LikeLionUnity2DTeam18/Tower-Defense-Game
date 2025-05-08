@@ -101,3 +101,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spear: {fileID: 3342170643337973881, guid: b1104c44d5142de45920b8c26621b397, type: 3}
+  splashEffectPrefab: {fileID: 7912060960776713269, guid: a5d98aa3eaebe5a4fa0c4d7957bb6aac, type: 3}

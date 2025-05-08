@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8724487733262179574}
   - component: {fileID: 2886029657811091421}
   - component: {fileID: 3512463880284504647}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: GuardianIcon
   m_TagString: TowerIcon
   m_Icon: {fileID: 0}

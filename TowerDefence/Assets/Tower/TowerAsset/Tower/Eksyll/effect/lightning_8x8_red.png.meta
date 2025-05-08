@@ -1,0 +1,1931 @@
+fileFormatVersion: 2
+guid: 0fc7b926543c3b6468437d76d7616283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -876595524690441732
+    second: lightning_8x8_red_0
+  - first:
+      213: -7934540067613454163
+    second: lightning_8x8_red_1
+  - first:
+      213: -2849007015216023885
+    second: lightning_8x8_red_2
+  - first:
+      213: -2120305852657457166
+    second: lightning_8x8_red_3
+  - first:
+      213: -3494975461557053469
+    second: lightning_8x8_red_4
+  - first:
+      213: -59566966467770772
+    second: lightning_8x8_red_5
+  - first:
+      213: -4479814621087330417
+    second: lightning_8x8_red_6
+  - first:
+      213: 9035522859466653867
+    second: lightning_8x8_red_7
+  - first:
+      213: -8134566318378490993
+    second: lightning_8x8_red_8
+  - first:
+      213: 2514627867633842834
+    second: lightning_8x8_red_9
+  - first:
+      213: 7457271474534517362
+    second: lightning_8x8_red_10
+  - first:
+      213: 5214295063336749532
+    second: lightning_8x8_red_11
+  - first:
+      213: -3809747862072014459
+    second: lightning_8x8_red_12
+  - first:
+      213: 5058160458666583253
+    second: lightning_8x8_red_13
+  - first:
+      213: 2802858489220149331
+    second: lightning_8x8_red_14
+  - first:
+      213: -3809449370190406930
+    second: lightning_8x8_red_15
+  - first:
+      213: -2814922858184833515
+    second: lightning_8x8_red_16
+  - first:
+      213: -7531974306676530026
+    second: lightning_8x8_red_17
+  - first:
+      213: 8251227001722720594
+    second: lightning_8x8_red_18
+  - first:
+      213: 7105582107422087159
+    second: lightning_8x8_red_19
+  - first:
+      213: 51963419706737800
+    second: lightning_8x8_red_20
+  - first:
+      213: -2948526030301332356
+    second: lightning_8x8_red_21
+  - first:
+      213: -8550002622156864204
+    second: lightning_8x8_red_22
+  - first:
+      213: 6060939440111450464
+    second: lightning_8x8_red_23
+  - first:
+      213: 6446847569329648505
+    second: lightning_8x8_red_24
+  - first:
+      213: -8146283191615001878
+    second: lightning_8x8_red_25
+  - first:
+      213: -1168550677639223223
+    second: lightning_8x8_red_26
+  - first:
+      213: 6512222082787731018
+    second: lightning_8x8_red_27
+  - first:
+      213: 3870608242277485792
+    second: lightning_8x8_red_28
+  - first:
+      213: 6615799080290800820
+    second: lightning_8x8_red_29
+  - first:
+      213: -8173372915218928503
+    second: lightning_8x8_red_30
+  - first:
+      213: -456060444792834254
+    second: lightning_8x8_red_31
+  - first:
+      213: 2433820967531882164
+    second: lightning_8x8_red_32
+  - first:
+      213: -5135815661601462175
+    second: lightning_8x8_red_33
+  - first:
+      213: 6218948844641665993
+    second: lightning_8x8_red_34
+  - first:
+      213: -8286218152381969962
+    second: lightning_8x8_red_35
+  - first:
+      213: 6735543783800263164
+    second: lightning_8x8_red_36
+  - first:
+      213: -1771206175688077990
+    second: lightning_8x8_red_37
+  - first:
+      213: -4945641797108243920
+    second: lightning_8x8_red_38
+  - first:
+      213: 5011883396952350929
+    second: lightning_8x8_red_39
+  - first:
+      213: 6507061719817320451
+    second: lightning_8x8_red_40
+  - first:
+      213: 3180654650240021968
+    second: lightning_8x8_red_41
+  - first:
+      213: 852336402621864568
+    second: lightning_8x8_red_42
+  - first:
+      213: -8340741987956567977
+    second: lightning_8x8_red_43
+  - first:
+      213: 445023826376502670
+    second: lightning_8x8_red_44
+  - first:
+      213: 4829002983685741436
+    second: lightning_8x8_red_45
+  - first:
+      213: -1810440224719670584
+    second: lightning_8x8_red_46
+  - first:
+      213: 1221698447930110164
+    second: lightning_8x8_red_47
+  - first:
+      213: 6848251238898063145
+    second: lightning_8x8_red_48
+  - first:
+      213: -1505328857191885908
+    second: lightning_8x8_red_49
+  - first:
+      213: -3197305872404378781
+    second: lightning_8x8_red_50
+  - first:
+      213: 3073475341344517898
+    second: lightning_8x8_red_51
+  - first:
+      213: 1353046017719437968
+    second: lightning_8x8_red_52
+  - first:
+      213: -4702671139814195189
+    second: lightning_8x8_red_53
+  - first:
+      213: 8042650053159234356
+    second: lightning_8x8_red_54
+  - first:
+      213: 6538675698644812652
+    second: lightning_8x8_red_55
+  - first:
+      213: -2682171651652847202
+    second: lightning_8x8_red_56
+  - first:
+      213: 2306047376298433162
+    second: lightning_8x8_red_57
+  - first:
+      213: 7210420875240839412
+    second: lightning_8x8_red_58
+  - first:
+      213: -6619872416237958007
+    second: lightning_8x8_red_59
+  - first:
+      213: -8095794514465098682
+    second: lightning_8x8_red_60
+  - first:
+      213: 8338660976088334079
+    second: lightning_8x8_red_61
+  - first:
+      213: -4464273220758457789
+    second: lightning_8x8_red_62
+  - first:
+      213: 7396799913416206597
+    second: lightning_8x8_red_63
+  - first:
+      213: -8128649601726996524
+    second: lightning_8x8_red_64
+  - first:
+      213: 539213150231277910
+    second: lightning_8x8_red_65
+  - first:
+      213: -1472140176454477042
+    second: lightning_8x8_red_66
+  - first:
+      213: 8267383520060114528
+    second: lightning_8x8_red_67
+  - first:
+      213: 5271703843899357851
+    second: lightning_8x8_red_68
+  - first:
+      213: 6382847585292493937
+    second: lightning_8x8_red_69
+  - first:
+      213: 3167230469518152268
+    second: lightning_8x8_red_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightning_8x8_red_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1861
+        width: 224
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90123c305b5d3f0800000000000000
+      internalID: -876595524690441732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1861
+        width: 229
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0dbc5f8d9d2e190800000000000000
+      internalID: -7934540067613454163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1862
+        width: 233
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f37fd63b4678d0800000000000000
+      internalID: -2849007015216023885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1863
+        width: 238
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7ab259f092392e0800000000000000
+      internalID: -2120305852657457166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1864
+        width: 244
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e75f2bb55a5f7fc0800000000000000
+      internalID: -3494975461557053469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_5
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1866
+        width: 248
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66475bd8206c2ff0800000000000000
+      internalID: -59566966467770772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_6
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1866
+        width: 251
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f0d72565084d1c0800000000000000
+      internalID: -4479814621087330417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_7
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1867
+        width: 251
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba08e6e1b20a46d70800000000000000
+      internalID: 9035522859466653867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1611
+        width: 252
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83613f38073c1f80800000000000000
+      internalID: -8134566318378490993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1610
+        width: 252
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29afc98f8b0c5e220800000000000000
+      internalID: 2514627867633842834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1609
+        width: 250
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a884155ec8d7760800000000000000
+      internalID: 7457271474534517362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_11
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1609
+        width: 249
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9824ccbb5ec5840800000000000000
+      internalID: 5214295063336749532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_12
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1609
+        width: 246
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589c46d118e012bc0800000000000000
+      internalID: -3809747862072014459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_13
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1607
+        width: 245
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4afbb4322323640800000000000000
+      internalID: 5058160458666583253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_14
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1607
+        width: 245
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350b7ad12f0c5e620800000000000000
+      internalID: 2802858489220149331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_15
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1606
+        width: 246
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea17fb2bfd122bc0800000000000000
+      internalID: -3809449370190406930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1349
+        width: 246
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51604c713926fe8d0800000000000000
+      internalID: -2814922858184833515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1350
+        width: 246
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6942d21364d097790800000000000000
+      internalID: -7531974306676530026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_18
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1351
+        width: 246
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2515bcebd3f328270800000000000000
+      internalID: 8251227001722720594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_19
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1353
+        width: 245
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7d34b97491c9260800000000000000
+      internalID: 7105582107422087159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_20
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1357
+        width: 243
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8844fe4747c98b000800000000000000
+      internalID: 51963419706737800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_21
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1356
+        width: 212
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c75e8823bb417d0800000000000000
+      internalID: -2948526030301332356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_22
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1348
+        width: 230
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4358ead3ae9485980800000000000000
+      internalID: -8550002622156864204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_23
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1346
+        width: 237
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0697ffcfe48cc1450800000000000000
+      internalID: 6060939440111450464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1090
+        width: 237
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973fbfa15bdc77950800000000000000
+      internalID: 6446847569329648505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1090
+        width: 233
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea6d0c199692fe80800000000000000
+      internalID: -8146283191615001878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1092
+        width: 232
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948a545995978cfe0800000000000000
+      internalID: -1168550677639223223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1094
+        width: 226
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4664072b7f006a50800000000000000
+      internalID: 6512222082787731018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_28
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1092
+        width: 223
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec06a160b927b530800000000000000
+      internalID: 3870608242277485792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_29
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1089
+        width: 223
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4d616263a00db50800000000000000
+      internalID: 6615799080290800820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_30
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1088
+        width: 221
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ca39353a8529e80800000000000000
+      internalID: -8173372915218928503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_31
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1087
+        width: 221
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2373408117fbba9f0800000000000000
+      internalID: -456060444792834254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 218
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6a2a8664ba6c120800000000000000
+      internalID: 2433820967531882164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 832
+        width: 217
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1686b52dddae9b8b0800000000000000
+      internalID: -5135815661601462175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 833
+        width: 213
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3413956052e4650800000000000000
+      internalID: 6218948844641665993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_35
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 835
+        width: 210
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d901ef1e70710d80800000000000000
+      internalID: -8286218152381969962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_36
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 834
+        width: 208
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1518a8265797d50800000000000000
+      internalID: 6735543783800263164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_37
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 834
+        width: 202
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d42221e596b67e0800000000000000
+      internalID: -1771206175688077990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_38
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 842
+        width: 201
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032e9091dfc8d5bb0800000000000000
+      internalID: -4945641797108243920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_39
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 842
+        width: 197
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0e50b3569cd8540800000000000000
+      internalID: 5011883396952350929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 585
+        width: 221
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f045882abd4a50800000000000000
+      internalID: 6507061719817320451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_41
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 584
+        width: 222
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d530c47d84f32c20800000000000000
+      internalID: 3180654650240021968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_42
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 583
+        width: 215
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a196b317b14db00800000000000000
+      internalID: 852336402621864568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_43
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 581
+        width: 211
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d9a46a5bbf3c80800000000000000
+      internalID: -8340741987956567977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_44
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 580
+        width: 213
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da1cfefca0d2600800000000000000
+      internalID: 445023826376502670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_45
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 580
+        width: 212
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd3e5e0a0140340800000000000000
+      internalID: 4829002983685741436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_46
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 581
+        width: 212
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2718e253600e6e0800000000000000
+      internalID: -1810440224719670584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_47
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 582
+        width: 209
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0358bf34854f010800000000000000
+      internalID: 1221698447930110164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 327
+        width: 209
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927d52bd730e90f50800000000000000
+      internalID: 6848251238898063145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 76
+        width: 203
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3dee4416ffb1be0800000000000000
+      internalID: -1505328857191885908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_50
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 328
+        width: 214
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b0115cf33e0a3d0800000000000000
+      internalID: -3197305872404378781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 79
+        width: 194
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f23caf98d27aa20800000000000000
+      internalID: 3073475341344517898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_52
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 329
+        width: 215
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a8ce23f2cf6c210800000000000000
+      internalID: 1353046017719437968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_53
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 81
+        width: 192
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c4ef9381ccbeb0800000000000000
+      internalID: -4702671139814195189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_54
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 329
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b255f8c9b3d9f60800000000000000
+      internalID: 8042650053159234356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_55
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 101
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63043f87ea0eba50800000000000000
+      internalID: 6538675698644812652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_56
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 86
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99fb94f71307cad0800000000000000
+      internalID: -2682171651652847202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_57
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 330
+        width: 215
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a5d7beed9b00020800000000000000
+      internalID: 2306047376298433162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_58
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 115
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f89ac5659f801460800000000000000
+      internalID: 7210420875240839412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_59
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 142
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ccabb6c1d7124a0800000000000000
+      internalID: -6619872416237958007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_60
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 126
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64470ce48c5f5af80800000000000000
+      internalID: -8095794514465098682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_61
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 94
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe38264affd8b370800000000000000
+      internalID: 8338660976088334079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_62
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 330
+        width: 214
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34237609827bb02c0800000000000000
+      internalID: -4464273220758457789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_63
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50920d1d456b6a660800000000000000
+      internalID: 7396799913416206597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_64
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 126
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df1171314c313f80800000000000000
+      internalID: -8128649601726996524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_65
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 117
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65131c5d08bab7700800000000000000
+      internalID: 539213150231277910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_66
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 330
+        width: 215
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b99da2f48e19be0800000000000000
+      internalID: -1472140176454477042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_67
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0660a1f4285abb270800000000000000
+      internalID: 8267383520060114528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_68
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 126
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9abea027bad82940800000000000000
+      internalID: 5271703843899357851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_69
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 117
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174a1d0af0e649850800000000000000
+      internalID: 6382847585292493937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_8x8_red_70
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 127
+        width: 212
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c425c61d45344fb20800000000000000
+      internalID: 3167230469518152268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

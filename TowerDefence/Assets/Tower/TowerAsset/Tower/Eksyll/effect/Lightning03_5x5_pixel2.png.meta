@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 42b20f612f0a91348a74349b7a45d4e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3772962730500331864
+    second: Lightning03_5x5_pixel2_0
+  - first:
+      213: 8312448412883769131
+    second: Lightning03_5x5_pixel2_1
+  - first:
+      213: 6541061514075815415
+    second: Lightning03_5x5_pixel2_2
+  - first:
+      213: 4156204428996378288
+    second: Lightning03_5x5_pixel2_3
+  - first:
+      213: -2693990211256236847
+    second: Lightning03_5x5_pixel2_4
+  - first:
+      213: -7469605033354729634
+    second: Lightning03_5x5_pixel2_5
+  - first:
+      213: -5309401335656678702
+    second: Lightning03_5x5_pixel2_6
+  - first:
+      213: -5525654801262131660
+    second: Lightning03_5x5_pixel2_7
+  - first:
+      213: -8210502957899803501
+    second: Lightning03_5x5_pixel2_8
+  - first:
+      213: 5523599984614419091
+    second: Lightning03_5x5_pixel2_9
+  - first:
+      213: -6310269852504336749
+    second: Lightning03_5x5_pixel2_10
+  - first:
+      213: 327419109612109656
+    second: Lightning03_5x5_pixel2_11
+  - first:
+      213: -3578058881437451377
+    second: Lightning03_5x5_pixel2_12
+  - first:
+      213: 2688547248958792118
+    second: Lightning03_5x5_pixel2_13
+  - first:
+      213: 4296562482092411858
+    second: Lightning03_5x5_pixel2_14
+  - first:
+      213: -2024881958530625586
+    second: Lightning03_5x5_pixel2_15
+  - first:
+      213: -171152193497608873
+    second: Lightning03_5x5_pixel2_16
+  - first:
+      213: -178545546432903706
+    second: Lightning03_5x5_pixel2_17
+  - first:
+      213: 4845721395406971608
+    second: Lightning03_5x5_pixel2_18
+  - first:
+      213: -4258089799472443049
+    second: Lightning03_5x5_pixel2_19
+  - first:
+      213: 3614127427959044774
+    second: Lightning03_5x5_pixel2_20
+  - first:
+      213: 9193111828362005349
+    second: Lightning03_5x5_pixel2_21
+  - first:
+      213: -6119363851770102392
+    second: Lightning03_5x5_pixel2_22
+  - first:
+      213: 6699531597863968484
+    second: Lightning03_5x5_pixel2_23
+  - first:
+      213: 3202728944563556189
+    second: Lightning03_5x5_pixel2_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 828
+        width: 48
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85992460d914c5430800000000000000
+      internalID: 3772962730500331864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 826
+        width: 49
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2752bf4acfbb5370800000000000000
+      internalID: 8312448412883769131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 822
+        width: 52
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdb7708ac486ca50800000000000000
+      internalID: 6541061514075815415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 828
+        width: 55
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0befb3c58edcda930800000000000000
+      internalID: 4156204428996378288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 829
+        width: 63
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d441bd1d260d9ad0800000000000000
+      internalID: -2693990211256236847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 626
+        width: 67
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57eb6e3cc1a65890800000000000000
+      internalID: -7469605033354729634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 627
+        width: 62
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daf23a9d973156b0800000000000000
+      internalID: -5309401335656678702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 627
+        width: 61
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436c6530c3ee053b0800000000000000
+      internalID: -5525654801262131660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 627
+        width: 62
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39496179f0f6e0e80800000000000000
+      internalID: -8210502957899803501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 627
+        width: 63
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aab44bbe4c7ac40800000000000000
+      internalID: 5523599984614419091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 422
+        width: 73
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3965f9c900b6d68a0800000000000000
+      internalID: -6310269852504336749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 420
+        width: 75
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fba1902f93b8400800000000000000
+      internalID: 327419109612109656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 419
+        width: 74
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b3d7a976e285ec0800000000000000
+      internalID: -3578058881437451377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 416
+        width: 71
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1ea087a73af4520800000000000000
+      internalID: 2688547248958792118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_14
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 419
+        width: 70
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db836430d470ab30800000000000000
+      internalID: 4296562482092411858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 223
+        width: 69
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf4fa5469c26e3e0800000000000000
+      internalID: -2024881958530625586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 224
+        width: 68
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dcb00acf1ff9df0800000000000000
+      internalID: -171152193497608873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 222
+        width: 66
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e583a085cda58df0800000000000000
+      internalID: -178545546432903706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 217
+        width: 66
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22eb57fe57f3340800000000000000
+      internalID: 4845721395406971608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 211
+        width: 65
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7511bb043e938e4c0800000000000000
+      internalID: -4258089799472443049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 8
+        width: 64
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aabe7c4fb5f72230800000000000000
+      internalID: 3614127427959044774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7
+        width: 59
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b85fd208e749f70800000000000000
+      internalID: 9193111828362005349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 48
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d70e3aff6a31ba0800000000000000
+      internalID: -6119363851770102392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 5
+        width: 43
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eedf2c1e7489fc50800000000000000
+      internalID: 6699531597863968484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning03_5x5_pixel2_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4
+        width: 44
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f829c9101627c20800000000000000
+      internalID: 3202728944563556189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
