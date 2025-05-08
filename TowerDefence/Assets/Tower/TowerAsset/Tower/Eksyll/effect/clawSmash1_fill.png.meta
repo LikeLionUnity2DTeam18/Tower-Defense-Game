@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      clawSmash1_fill_0: 1977814568229617922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

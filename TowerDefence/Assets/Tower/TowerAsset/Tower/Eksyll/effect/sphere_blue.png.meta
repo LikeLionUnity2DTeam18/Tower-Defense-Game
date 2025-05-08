@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1484384757d369545a4ea660eb876ff9
+guid: afa5731194a0eba458c152447b5fc1d2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3479132741167739283
-    second: clawSmash2_fill_0
+      213: -6184839678822097464
+    second: sphere_blue_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -28,7 +28,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMipmapLimit: 1
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: clawSmash2_fill_0
+      name: sphere_blue_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 398
-        height: 183
+        x: 41
+        y: 42
+        width: 429
+        height: 429
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 391fbbb7bcc584030800000000000000
-      internalID: 3479132741167739283
+      spriteID: 8cd511fa4190b2aa0800000000000000
+      internalID: -6184839678822097464
       vertices: []
       indices: 
       edges: []
@@ -164,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sphere_blue_0: -6184839678822097464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
