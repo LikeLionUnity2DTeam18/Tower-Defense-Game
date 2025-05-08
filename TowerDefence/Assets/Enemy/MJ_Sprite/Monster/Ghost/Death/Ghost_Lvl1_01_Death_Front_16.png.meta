@@ -155,12 +155,12 @@ TextureImporter:
       name: Ghost_Lvl1_01_Death_Front_16_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 62
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 64
+        height: 43
+      alignment: 9
+      pivot: {x: 0.25, y: 1.6}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -177,7 +177,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ce5cd6c75d1fbbc49ac6f150f3174074
     internalID: 0
     vertices: []
     indices: 

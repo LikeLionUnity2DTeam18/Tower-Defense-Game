@@ -170,12 +170,12 @@ TextureImporter:
       name: Ghost_Lvl1_01_Death_Front_06_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 85
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 127
+        height: 119
+      alignment: 9
+      pivot: {x: 0.33169493, y: 0.625853}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -188,121 +188,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Ghost_Lvl1_01_Death_Front_06_1
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 1
-        width: 95
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7bcb3883fb381990800000000000000
-      internalID: -7415110869316809861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_Lvl1_01_Death_Front_06_2
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 87
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fda876237bc6e07a0800000000000000
-      internalID: -6409065685621175585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_Lvl1_01_Death_Front_06_3
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 62
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9af1f85ff4dbfc1b0800000000000000
-      internalID: -5634076457697337431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_Lvl1_01_Death_Front_06_4
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 62
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2301213f49694acb0800000000000000
-      internalID: -4853588931921178574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_Lvl1_01_Death_Front_06_5
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 46
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4d5f73f9335f78c0800000000000000
-      internalID: -3999386435718259378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a0ec4fec90390864c9e42384cbe9dd16
     internalID: 0
     vertices: []
     indices: 
@@ -313,11 +203,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Ghost_Lvl1_01_Death_Front_06_0: -630300316892650409
-      Ghost_Lvl1_01_Death_Front_06_1: -7415110869316809861
-      Ghost_Lvl1_01_Death_Front_06_2: -6409065685621175585
-      Ghost_Lvl1_01_Death_Front_06_3: -5634076457697337431
-      Ghost_Lvl1_01_Death_Front_06_4: -4853588931921178574
-      Ghost_Lvl1_01_Death_Front_06_5: -3999386435718259378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

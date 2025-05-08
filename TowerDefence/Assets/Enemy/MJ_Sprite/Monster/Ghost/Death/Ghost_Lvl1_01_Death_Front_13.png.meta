@@ -158,12 +158,12 @@ TextureImporter:
       name: Ghost_Lvl1_01_Death_Front_13_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 40
-        height: 108
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 57
+        height: 119
+      alignment: 9
+      pivot: {x: 0.2797924, y: 0.5563347}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -176,33 +176,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Ghost_Lvl1_01_Death_Front_13_1
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 103
-        width: 33
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3cb0bdbfc35a6eb90800000000000000
-      internalID: -7212896071845213245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: eeaca3fa90e96d640921781708681288
     internalID: 0
     vertices: []
     indices: 
@@ -213,7 +191,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Ghost_Lvl1_01_Death_Front_13_0: -6743394231206200169
-      Ghost_Lvl1_01_Death_Front_13_1: -7212896071845213245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
