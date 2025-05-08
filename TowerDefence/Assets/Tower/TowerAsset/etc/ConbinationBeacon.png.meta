@@ -1,28 +1,13 @@
 fileFormatVersion: 2
-guid: ff1802063dfb933448a58a9a4f2ee1c7
+guid: c7aec5dd334a10647aba0f9844fdb0ec
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5984877742037157324
-    second: hit-yellow_0
+      213: 8033124774521460997
+    second: "\uAC15\uD654_0"
   - first:
-      213: 5176778486590254928
-    second: hit-yellow_1
-  - first:
-      213: -7987582899047006642
-    second: hit-yellow_2
-  - first:
-      213: 5208314436392508006
-    second: hit-yellow_3
-  - first:
-      213: -7905347158085379338
-    second: hit-yellow_4
-  - first:
-      213: -8559813896331602926
-    second: hit-yellow_5
-  - first:
-      213: -6831132964366306873
-    second: hit-yellow_6
+      213: 3260113140277419357
+    second: "\uAC15\uD654_1"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -64,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -157,13 +142,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hit-yellow_0
+      name: "\uAC15\uD654_0"
       rect:
         serializedVersion: 2
-        x: 69
-        y: 65
-        width: 118
-        height: 126
+        x: 497
+        y: 1014
+        width: 30
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +157,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc5444ed89e8e0350800000000000000
-      internalID: 5984877742037157324
+      spriteID: 509ddbdcb646b7f60800000000000000
+      internalID: 8033124774521460997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hit-yellow_1
+      name: "\uAC15\uD654_1"
       rect:
         serializedVersion: 2
-        x: 284
-        y: 25
-        width: 200
-        height: 206
+        x: 47
+        y: 0
+        width: 930
+        height: 1010
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,118 +179,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05fa8161b9c97d740800000000000000
-      internalID: 5176778486590254928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hit-yellow_2
-      rect:
-        serializedVersion: 2
-        x: 525
-        y: 11
-        width: 230
-        height: 234
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4e71506ca7662190800000000000000
-      internalID: -7987582899047006642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hit-yellow_3
-      rect:
-        serializedVersion: 2
-        x: 868
-        y: 165
-        width: 56
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66ad6b39266a74840800000000000000
-      internalID: 5208314436392508006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hit-yellow_4
-      rect:
-        serializedVersion: 2
-        x: 774
-        y: 100
-        width: 85
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6fa5d20e4a09a4290800000000000000
-      internalID: -7905347158085379338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hit-yellow_5
-      rect:
-        serializedVersion: 2
-        x: 933
-        y: 100
-        width: 85
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 214d3b5fc9e653980800000000000000
-      internalID: -8559813896331602926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hit-yellow_6
-      rect:
-        serializedVersion: 2
-        x: 868
-        y: 4
-        width: 56
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c13c7503c0f231a0800000000000000
-      internalID: -6831132964366306873
+      spriteID: d5d91d5d0af3e3d20800000000000000
+      internalID: 3260113140277419357
       vertices: []
       indices: 
       edges: []
@@ -314,7 +189,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -324,13 +199,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hit-yellow_0: 5984877742037157324
-      hit-yellow_1: 5176778486590254928
-      hit-yellow_2: -7987582899047006642
-      hit-yellow_3: 5208314436392508006
-      hit-yellow_4: -7905347158085379338
-      hit-yellow_5: -8559813896331602926
-      hit-yellow_6: -6831132964366306873
+      "\uAC15\uD654_0": 8033124774521460997
+      "\uAC15\uD654_1": 3260113140277419357
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

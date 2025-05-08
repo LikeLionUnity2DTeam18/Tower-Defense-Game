@@ -373,7 +373,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mini-boss_screemParticle_0: -8338152603556156516
+      mini-boss_screemParticle_1: 5519411866396837694
+      mini-boss_screemParticle_2: 3167570217576431375
+      mini-boss_screemParticle_3: -6606515875878651892
+      mini-boss_screemParticle_4: 3539495922519734320
+      mini-boss_screemParticle_5: 2674821083449208912
+      mini-boss_screemParticle_6: -7401557949298754089
+      mini-boss_screemParticle_7: 3623451593051577501
+      mini-boss_screemParticle_8: 5900077271446351543
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
