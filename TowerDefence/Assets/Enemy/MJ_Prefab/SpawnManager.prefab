@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3371100478800874271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3779843308926876733}
+  - component: {fileID: 7920470971037241203}
+  m_Layer: 0
+  m_Name: SpawnManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3779843308926876733
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3371100478800874271}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7920470971037241203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3371100478800874271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e44fb4ca00bca5429799f3549460db5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyTypes:
+  - {fileID: 11400000, guid: 3036f20e0ce28f640b250aef7bdd0997, type: 2}
+  - {fileID: 11400000, guid: d780f3108d5e4c24da141a18151de0af, type: 2}
+  - {fileID: 11400000, guid: e1a915d22b2cc3a4bb3632bfeab91d0d, type: 2}
+  - {fileID: 11400000, guid: 87a418f542a98224cb63147ba0935c2c, type: 2}
+  - {fileID: 11400000, guid: 80d950e0c5e78ed42ad946866b3c4ae0, type: 2}
+  - {fileID: 11400000, guid: 7cdc57f17d0ba494cb6cf0ea6a7717c1, type: 2}
+  - {fileID: 11400000, guid: 55bc070a96558f84c96edc09666a6f45, type: 2}
+  - {fileID: 11400000, guid: 3f267d3f220955145ada50bf4f2135ed, type: 2}
+  spawnPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  factory: {fileID: 0}
+  spawnTime: 5
+  spawnCount: 4
