@@ -235,12 +235,13 @@ MonoBehaviour:
   rangePrefab: {fileID: 1989163829555034771, guid: b5077979d71dc37419e8c9ca294678c7, type: 3}
   cooldown: 7
   skillRange: 5
-  smartCasting: 1
+  smartCasting: 0
   skillPrefabN: {fileID: 102405982534705251, guid: 179610b5812f3224cba097e23e6a915d, type: 3}
   casterPrefab: {fileID: 4941022124819604385, guid: 401ce8cb54c74274aa31638e09d04d4d, type: 3}
   initial_damage: 10
   initial_bindTime: 3
   initial_castingTime: 1.2
+  skillPowerFactor: 5
 --- !u!114 &7342700798270561556
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -304,6 +305,7 @@ MonoBehaviour:
   initial_damage: 5
   initial_damageInterval: 0.1
   initial_length: 2
+  skillPowerFactor: 1
 --- !u!1 &6506093605228438563
 GameObject:
   m_ObjectHideFlags: 0
