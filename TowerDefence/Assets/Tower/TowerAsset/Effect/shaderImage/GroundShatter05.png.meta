@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GroundShatter05_0: 4887017029310630794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
