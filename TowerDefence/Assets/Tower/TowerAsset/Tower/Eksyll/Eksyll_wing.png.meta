@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 66b0f681e1cb74948be5e6a251fb63db
+guid: 9738fc02f112c3742a522266a1b7ba17
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8442280685176317154
-    second: Golem_3_0
+      213: 8698352158386365426
+    second: boss_EKSYLL_test_1_0
+  - first:
+      213: -7698493856941746952
+    second: boss_EKSYLL_test_1_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,23 +142,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Golem_3_0
+      name: boss_EKSYLL_test_1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 168
-        height: 170
+        y: 0
+        width: 627
+        height: 171
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2e46316dd81092570800000000000000
-      internalID: 8442280685176317154
+      spriteID: 582501b048343094ea95d27f5c7f408b
+      internalID: -230036954
       vertices: []
       indices: 
       edges: []
@@ -164,7 +167,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fd12a462328f6164f854ced5264aab99
     internalID: 0
     vertices: []
     indices: 
@@ -174,7 +177,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Golem_3_0: 8442280685176317154
+      boss_EKSYLL_test_1_0: -230036954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

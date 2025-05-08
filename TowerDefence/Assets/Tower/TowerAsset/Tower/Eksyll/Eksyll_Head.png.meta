@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 66b0f681e1cb74948be5e6a251fb63db
+guid: 35a34eca794065145887df1a925b5ddc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8442280685176317154
-    second: Golem_3_0
+      213: 8091603836504149672
+    second: boss_eksyll_head_4_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Golem_3_0
+      name: boss_eksyll_head_4_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 1
-        width: 168
-        height: 170
+        width: 88
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e46316dd81092570800000000000000
-      internalID: 8442280685176317154
+      spriteID: 8ae840271d62b4070800000000000000
+      internalID: 8091603836504149672
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Golem_3_0: 8442280685176317154
+      boss_eksyll_head_4_0: 8091603836504149672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

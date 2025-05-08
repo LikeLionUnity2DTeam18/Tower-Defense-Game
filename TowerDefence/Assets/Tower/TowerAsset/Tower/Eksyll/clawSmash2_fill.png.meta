@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 66b0f681e1cb74948be5e6a251fb63db
+guid: 1484384757d369545a4ea660eb876ff9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8442280685176317154
-    second: Golem_3_0
+      213: 3479132741167739283
+    second: clawSmash2_fill_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Golem_3_0
+      name: clawSmash2_fill_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 1
-        width: 168
-        height: 170
+        width: 398
+        height: 183
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e46316dd81092570800000000000000
-      internalID: 8442280685176317154
+      spriteID: 391fbbb7bcc584030800000000000000
+      internalID: 3479132741167739283
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Golem_3_0: 8442280685176317154
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
