@@ -10,11 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 7829443485412053667}
   - component: {fileID: 6138357465069120840}
-  - component: {fileID: 9048701659830370901}
+  - component: {fileID: 2666091919038488922}
   - component: {fileID: 3130093964075986011}
   - component: {fileID: 1563974543605409474}
   m_Layer: 0
-  m_Name: eksyll_projectile
+  m_Name: eksyll_projectile 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79,7 +79,7 @@ SpriteRenderer:
   m_SortingLayerID: -1468747467
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: afa5731194a0eba458c152447b5fc1d2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f6a1d7de5c886c142b4fb0bc1737aac0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -90,7 +90,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &9048701659830370901
+--- !u!114 &2666091919038488922
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -99,13 +99,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 8449066291794755690}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe39c08ac922af54f810f56d3b137679, type: 3}
+  m_Script: {fileID: 11500000, guid: a4954058ae6f78642be26baa86f2cb57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 20
-  speed: 1
-  pref: {fileID: 8449066291794755690, guid: 577cf839be3899f45b2f4d3148052d4f, type: 3}
-  spawnCooldown: 1
+  maxDistance: 10
+  speed: 5
 --- !u!50 &3130093964075986011
 Rigidbody2D:
   serializedVersion: 5
@@ -168,4 +166,4 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 2.56
+  m_Radius: 0.215

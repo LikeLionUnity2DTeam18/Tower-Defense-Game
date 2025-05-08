@@ -25,16 +25,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 726376147980311616}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.3535534, y: -0.3535534, z: -0.61237246, w: 0.61237246}
-  m_LocalPosition: {x: 3.16, y: 0.64, z: -3.46}
-  m_LocalScale: {x: 1, y: 1.5, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 4.23, y: -1.65, z: 0}
+  m_LocalScale: {x: 0.61, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1358098996660233617}
   - {fileID: 4466903104428322590}
   - {fileID: 5183111138513714823}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -60, y: 0, z: -90}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!114 &2679827337014095097
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60,6 +60,8 @@ GameObject:
   - component: {fileID: 1358098996660233617}
   - component: {fileID: 4035901495767500388}
   - component: {fileID: 3333623129160418086}
+  - component: {fileID: 5273490739432876275}
+  - component: {fileID: 5640809250953966760}
   m_Layer: 0
   m_Name: clawSmash1_fill_0
   m_TagString: Untagged
@@ -76,7 +78,7 @@ Transform:
   m_GameObject: {fileID: 4481617914730790901}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.02678442, y: 0.40176582, z: 0}
+  m_LocalPosition: {x: -0.03, y: -0.47, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -167,7 +169,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -219,6 +221,45 @@ PolygonCollider2D:
       - {x: -0.074999996, y: -0.375}
       - {x: -0.085, y: -0.36499998}
   m_UseDelaunayMesh: 0
+--- !u!50 &5273490739432876275
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4481617914730790901}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &5640809250953966760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4481617914730790901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bc5facdff455ee4f8ece6021f1986d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5835512071693293835
 GameObject:
   m_ObjectHideFlags: 0
@@ -230,6 +271,8 @@ GameObject:
   - component: {fileID: 5183111138513714823}
   - component: {fileID: 951579042648535220}
   - component: {fileID: 5439308066349059312}
+  - component: {fileID: 3328082816018427510}
+  - component: {fileID: 4850545267331926414}
   m_Layer: 0
   m_Name: clawSmash3_fill_0
   m_TagString: Untagged
@@ -246,7 +289,7 @@ Transform:
   m_GameObject: {fileID: 5835512071693293835}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.06869203, y: -0.516541, z: 0}
+  m_LocalPosition: {x: 0.07, y: -1.39, z: -0}
   m_LocalScale: {x: 1.31, y: 1.31, z: 1.31}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -337,7 +380,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -490,6 +533,45 @@ PolygonCollider2D:
       - {x: -0.14999999, y: -0.97999996}
       - {x: -0.16, y: -0.96999997}
   m_UseDelaunayMesh: 0
+--- !u!50 &3328082816018427510
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5835512071693293835}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &4850545267331926414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5835512071693293835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bc5facdff455ee4f8ece6021f1986d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8625367331449556695
 GameObject:
   m_ObjectHideFlags: 0
@@ -501,6 +583,8 @@ GameObject:
   - component: {fileID: 4466903104428322590}
   - component: {fileID: 2160110033377008703}
   - component: {fileID: 4546781216204608335}
+  - component: {fileID: 3305724345555296701}
+  - component: {fileID: 3571586345973749690}
   m_Layer: 0
   m_Name: clawSmash2_fill_0
   m_TagString: Untagged
@@ -517,7 +601,7 @@ Transform:
   m_GameObject: {fileID: 8625367331449556695}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0, y: -0.87, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -608,7 +692,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -767,3 +851,42 @@ PolygonCollider2D:
       - {x: -0.13, y: -0.765}
       - {x: -0.14, y: -0.755}
   m_UseDelaunayMesh: 0
+--- !u!50 &3305724345555296701
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8625367331449556695}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &3571586345973749690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8625367331449556695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bc5facdff455ee4f8ece6021f1986d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

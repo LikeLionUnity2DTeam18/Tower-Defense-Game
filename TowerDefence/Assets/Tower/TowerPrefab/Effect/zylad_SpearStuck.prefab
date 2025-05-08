@@ -103,6 +103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stats: {fileID: 0}
+  splashEffectPrefab: {fileID: 1935394350387649234, guid: 7ff9a7734b928fb48b2348b20131980a, type: 3}
 --- !u!50 &5600398869865698449
 Rigidbody2D:
   serializedVersion: 5
