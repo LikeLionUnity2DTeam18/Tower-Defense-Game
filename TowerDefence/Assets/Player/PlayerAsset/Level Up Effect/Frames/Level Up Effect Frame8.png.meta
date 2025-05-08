@@ -273,7 +273,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Level Up Effect Frame8_0: 3993422872153396606
+      Level Up Effect Frame8_1: 1652162310406412146
+      Level Up Effect Frame8_2: 4024269025781413098
+      Level Up Effect Frame8_3: 1259360966505813276
+      Level Up Effect Frame8_4: -4048515213153612831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
