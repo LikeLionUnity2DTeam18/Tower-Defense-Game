@@ -634,7 +634,7 @@ MonoBehaviour:
   fire: {fileID: 5424424841021745698}
   water: {fileID: 4450233882738227132}
   bomb: {fileID: 8456937249046740997}
-  vfx: {fileID: 1935394350387649234, guid: bb86e4bf27183da40875b975eb7e5837, type: 3}
+  vfx: {fileID: 1935394350387649234, guid: 7ff9a7734b928fb48b2348b20131980a, type: 3}
 --- !u!114 &8722972008462866026
 MonoBehaviour:
   m_ObjectHideFlags: 0
