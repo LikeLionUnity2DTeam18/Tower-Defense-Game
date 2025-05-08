@@ -29512,7 +29512,7 @@ Transform:
   m_GameObject: {fileID: 669362359}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.63, y: -0.75, z: 0.070115656}
+  m_LocalPosition: {x: 7.45, y: 3.17, z: 0.070115656}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -34388,13 +34388,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: eye
       objectReference: {fileID: 0}
+    - target: {fileID: 1114070239516844765, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.3081446
+      value: 6.84
       objectReference: {fileID: 0}
     - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.0779054
+      value: -3.47
       objectReference: {fileID: 0}
     - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
       propertyPath: m_LocalPosition.z
@@ -34477,13 +34481,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bloody
       objectReference: {fileID: 0}
+    - target: {fileID: 1534550865553590947, guid: 68b330ca099503a449b4b523c9702dd4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4676808198758744686, guid: 68b330ca099503a449b4b523c9702dd4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.7
+      value: -2.96
       objectReference: {fileID: 0}
     - target: {fileID: 4676808198758744686, guid: 68b330ca099503a449b4b523c9702dd4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.97
+      value: -1.52
       objectReference: {fileID: 0}
     - target: {fileID: 4676808198758744686, guid: 68b330ca099503a449b4b523c9702dd4, type: 3}
       propertyPath: m_LocalPosition.z

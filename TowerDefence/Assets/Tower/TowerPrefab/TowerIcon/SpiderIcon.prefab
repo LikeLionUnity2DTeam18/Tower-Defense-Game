@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8300122136753337415}
   - component: {fileID: 2168372222769641850}
   - component: {fileID: 4830562139090216262}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: SpiderIcon
   m_TagString: TowerIcon
   m_Icon: {fileID: 0}
