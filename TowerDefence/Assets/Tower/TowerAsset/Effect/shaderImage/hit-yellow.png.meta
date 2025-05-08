@@ -323,7 +323,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hit-yellow_0: 5984877742037157324
+      hit-yellow_1: 5176778486590254928
+      hit-yellow_2: -7987582899047006642
+      hit-yellow_3: 5208314436392508006
+      hit-yellow_4: -7905347158085379338
+      hit-yellow_5: -8559813896331602926
+      hit-yellow_6: -6831132964366306873
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
