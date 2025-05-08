@@ -19,52 +19,52 @@ MonoBehaviour:
     skillPower: 0
     moveSpeed: 0
   - baseAttackDamage: 10
+    baseattackSpeed: 1
+    baseattackRange: 3
+    skillPower: 5
+    moveSpeed: 10
+  - baseAttackDamage: 13
+    baseattackSpeed: 1.2
+    baseattackRange: 3
+    skillPower: 6
+    moveSpeed: 10
+  - baseAttackDamage: 16
+    baseattackSpeed: 1.4
+    baseattackRange: 3
+    skillPower: 7
+    moveSpeed: 10
+  - baseAttackDamage: 19
+    baseattackSpeed: 1.6
+    baseattackRange: 3
+    skillPower: 8
+    moveSpeed: 10
+  - baseAttackDamage: 22
+    baseattackSpeed: 1.8
+    baseattackRange: 3
+    skillPower: 9
+    moveSpeed: 10
+  - baseAttackDamage: 25
     baseattackSpeed: 2
     baseattackRange: 3
-    skillPower: 0
+    skillPower: 10
     moveSpeed: 10
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
-  - baseAttackDamage: 0
-    baseattackSpeed: 0
-    baseattackRange: 0
-    skillPower: 0
-    moveSpeed: 0
+  - baseAttackDamage: 28
+    baseattackSpeed: 2.2
+    baseattackRange: 3
+    skillPower: 11
+    moveSpeed: 10
+  - baseAttackDamage: 31
+    baseattackSpeed: 2.4
+    baseattackRange: 3
+    skillPower: 12
+    moveSpeed: 10
+  - baseAttackDamage: 34
+    baseattackSpeed: 2.6
+    baseattackRange: 3
+    skillPower: 13
+    moveSpeed: 10
+  - baseAttackDamage: 37
+    baseattackSpeed: 2.8
+    baseattackRange: 3
+    skillPower: 14
+    moveSpeed: 10
