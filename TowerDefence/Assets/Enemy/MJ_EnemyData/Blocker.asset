@@ -16,11 +16,15 @@ MonoBehaviour:
   enemyName: Blocker
   maxHealth: 100
   attackPower: 10
-  moveSpeed: 0.5
-  targetRange: 0.5
+  moveSpeed: 0.7
+  targetRange: 1
+  detectTowerRange: 2
   explosionRadius: 0
   enemyPrefab: {fileID: 8566166899873808963, guid: f547c3224a0eb4e48b9a868286bf2896, type: 3}
   attackEffectPrefab: {fileID: 0}
   attackEffectFront: {fileID: 0}
   attackEffectBack: {fileID: 0}
+  hitEffectPrefab: {fileID: 0}
+  hitEffectFront: {fileID: 0}
+  hitEffectBack: {fileID: 0}
   enemyAnim: {fileID: 9100000, guid: d3026d7075ab2d341840c27a49f9081c, type: 2}
