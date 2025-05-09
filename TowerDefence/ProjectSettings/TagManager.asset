@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Tower
   - TowerIcon
+  - BaseTower
   layers:
   - Default
   - TransparentFX
