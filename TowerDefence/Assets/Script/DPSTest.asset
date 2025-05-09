@@ -10,22 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e482ffc55d17d8248a4f1893e76b12ed, type: 3}
-  m_Name: Archer
+  m_Name: DPSTest
   m_EditorClassIdentifier: 
-  enemyType: 2
-  enemyName: Archer
-  enemyAnim: {fileID: 9100000, guid: 0da16d6b8f214c44dae3aa708055eab4, type: 2}
-  enemyPrefab: {fileID: 933412061526807299, guid: a30572754505eae4bb32252bbff90131, type: 3}
-  maxHealth: 99999
-  attackPower: 10
-  moveSpeed: 0.5
-  targetRange: 2
-  detectTowerRange: 4
+  enemyType: 0
+  enemyName: 
+  enemyAnim: {fileID: 0}
+  enemyPrefab: {fileID: 0}
+  maxHealth: 999999
+  attackPower: 0
+  moveSpeed: 0
+  targetRange: 0
+  detectTowerRange: 0
   rewardGold: 10
   explosionRadius: 0
-  attackEffectPrefab: {fileID: 7477349141166171581, guid: 14bfd14419540994f9aefe677ff5282c, type: 3}
+  attackEffectPrefab: {fileID: 0}
   attackEffectFront: {fileID: 0}
   attackEffectBack: {fileID: 0}
-  hitEffectPrefab: {fileID: 3264083160478469689, guid: 07af57d57ed8ad440ade15d70bbaef74, type: 3}
+  hitEffectPrefab: {fileID: 0}
   hitEffectFront: {fileID: 0}
   hitEffectBack: {fileID: 0}
