@@ -291,31 +291,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HitVFX: {fileID: 7112941523113584597, guid: 37e0520f4263e0e4e9c0befb30a13b02, type: 3}
   hp:
-    baseValue: 100
+    baseValue: 300
     modifiers: 
   melee:
-    baseValue: 30
+    baseValue: 35
     modifiers: 
   range:
-    baseValue: 10
+    baseValue: 15
     modifiers: 
   special:
     baseValue: 50
     modifiers: 
   cooldown:
-    baseValue: 15
+    baseValue: 12
     modifiers: 
   speed:
-    baseValue: 1
+    baseValue: 0
     modifiers: 
   meleeDistance:
     baseValue: 1
     modifiers: 
   moveDistance:
-    baseValue: 3
+    baseValue: 2
     modifiers: 
   rangeDistance:
-    baseValue: 5
+    baseValue: 6
     modifiers: 
   currentHealth: 0
 --- !u!114 &3281271766032558383
