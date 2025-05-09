@@ -9886,6 +9886,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8906871718057142912, guid: 8871a13b56c10be429833d7c50a649f3, type: 3}
+      propertyPath: stopAction
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8906871718057142912, guid: 8871a13b56c10be429833d7c50a649f3, type: 3}
       propertyPath: lengthInSec
       value: 1
       objectReference: {fileID: 0}
