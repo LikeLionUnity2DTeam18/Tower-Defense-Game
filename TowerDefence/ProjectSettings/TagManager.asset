@@ -18,8 +18,8 @@ TagManager:
   - Enemy
   - Wall
   - Player
-  - MergeBeacon
-  - BaseTower
+  - TowerIcon
+  - 
   - 
   - 
   - 

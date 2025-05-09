@@ -482,7 +482,7 @@ GameObject:
   - component: {fileID: 4579412400194111869}
   m_Layer: 0
   m_Name: Golem_Main
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

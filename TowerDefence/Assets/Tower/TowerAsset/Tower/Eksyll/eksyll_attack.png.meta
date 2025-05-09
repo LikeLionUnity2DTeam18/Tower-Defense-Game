@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: ee001b865b492ba40bd9e2841a567064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4597330553369948135
+    second: eksyll_attack_0
+  - first:
+      213: -2485522001654605387
+    second: eksyll_attack_1
+  - first:
+      213: 3837487449046291537
+    second: eksyll_attack_2
+  - first:
+      213: -4712141531266316320
+    second: eksyll_attack_3
+  - first:
+      213: -940074573141504456
+    second: eksyll_attack_4
+  - first:
+      213: -843055303653050208
+    second: eksyll_attack_5
+  - first:
+      213: -2424356176393609564
+    second: eksyll_attack_6
+  - first:
+      213: -958692591372548875
+    second: eksyll_attack_7
+  - first:
+      213: 5349228137197889652
+    second: eksyll_attack_8
+  - first:
+      213: 7781016670361301033
+    second: eksyll_attack_9
+  - first:
+      213: -2330729805637232650
+    second: eksyll_attack_10
+  - first:
+      213: 8374445572558910076
+    second: eksyll_attack_11
+  - first:
+      213: -7098029029626799911
+    second: eksyll_attack_12
+  - first:
+      213: -6600744404301488214
+    second: eksyll_attack_13
+  - first:
+      213: 4286216524903052867
+    second: eksyll_attack_14
+  - first:
+      213: 135353692822521784
+    second: eksyll_attack_15
+  - first:
+      213: -5699228711701528091
+    second: eksyll_attack_16
+  - first:
+      213: -4811041041286911137
+    second: eksyll_attack_17
+  - first:
+      213: -4517835491488485635
+    second: eksyll_attack_18
+  - first:
+      213: 7946968434412485009
+    second: eksyll_attack_19
+  - first:
+      213: 4779655797395476012
+    second: eksyll_attack_20
+  - first:
+      213: -1225738109362511342
+    second: eksyll_attack_21
+  - first:
+      213: -4393343182735043976
+    second: eksyll_attack_22
+  - first:
+      213: -645052758171579491
+    second: eksyll_attack_23
+  - first:
+      213: -2241805744781139852
+    second: eksyll_attack_24
+  - first:
+      213: 6808257285500562821
+    second: eksyll_attack_25
+  - first:
+      213: -4501867271384377415
+    second: eksyll_attack_26
+  - first:
+      213: 8126129669383233632
+    second: eksyll_attack_27
+  - first:
+      213: 6557343243194569672
+    second: eksyll_attack_28
+  - first:
+      213: 7822252284174680817
+    second: eksyll_attack_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eksyll_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef6aa4d7cffccf30800000000000000
+      internalID: 4597330553369948135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 628
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b995f988e6a18dd0800000000000000
+      internalID: -2485522001654605387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 628
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1549c66c08e714530800000000000000
+      internalID: 3837487449046291537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 628
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e781894e3c1b9eb0800000000000000
+      internalID: -4712141531266316320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 628
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e068d082f24f2f0800000000000000
+      internalID: -940074573141504456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 628
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a830c30baddc44f0800000000000000
+      internalID: -843055303653050208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed80107e4fa5ed0800000000000000
+      internalID: -2424356176393609564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 471
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c072ea2a02b2f0800000000000000
+      internalID: -958692591372548875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 471
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478643c36a64c3a40800000000000000
+      internalID: 5349228137197889652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 471
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9203744af69bbfb60800000000000000
+      internalID: 7781016670361301033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 471
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7d39b279597afd0800000000000000
+      internalID: -2330729805637232650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 471
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c727737e0e1083470800000000000000
+      internalID: 8374445572558910076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d81fab543cbe7d90800000000000000
+      internalID: -7098029029626799911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 314
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf5670cfe17564a0800000000000000
+      internalID: -6600744404301488214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 314
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34671455833bb7b30800000000000000
+      internalID: 4286216524903052867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 314
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b749bb677fd0e100800000000000000
+      internalID: 135353692822521784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 314
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1c259bea548e0b0800000000000000
+      internalID: -5699228711701528091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 314
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ba446b9afbb3db0800000000000000
+      internalID: -4811041041286911137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe2d289e8c6d41c0800000000000000
+      internalID: -4517835491488485635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 157
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f56eafad494e60800000000000000
+      internalID: 7946968434412485009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 157
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ec460cf9fb45240800000000000000
+      internalID: 4779655797395476012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 157
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e9cb0fad4dfee0800000000000000
+      internalID: -1225738109362511342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 157
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87291b8f6a5b703c0800000000000000
+      internalID: -4393343182735043976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 157
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b0ccf1fef4c07f0800000000000000
+      internalID: -645052758171579491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470e3ee7d8183e0e0800000000000000
+      internalID: -2241805744781139852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de9b1fde9cb7e50800000000000000
+      internalID: 6808257285500562821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b75d2f81972681c0800000000000000
+      internalID: -4501867271384377415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a95651efc5c070800000000000000
+      internalID: 8126129669383233632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39be8ffec500b50800000000000000
+      internalID: 6557343243194569672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eksyll_attack_29
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f248b522093e8c60800000000000000
+      internalID: 7822252284174680817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f862a53dc3cdd004096f5b3bbb237e78
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eksyll_attack_0: 4597330553369948135
+      eksyll_attack_1: -2485522001654605387
+      eksyll_attack_10: -2330729805637232650
+      eksyll_attack_11: 8374445572558910076
+      eksyll_attack_12: -7098029029626799911
+      eksyll_attack_13: -6600744404301488214
+      eksyll_attack_14: 4286216524903052867
+      eksyll_attack_15: 135353692822521784
+      eksyll_attack_16: -5699228711701528091
+      eksyll_attack_17: -4811041041286911137
+      eksyll_attack_18: -4517835491488485635
+      eksyll_attack_19: 7946968434412485009
+      eksyll_attack_2: 3837487449046291537
+      eksyll_attack_20: 4779655797395476012
+      eksyll_attack_21: -1225738109362511342
+      eksyll_attack_22: -4393343182735043976
+      eksyll_attack_23: -645052758171579491
+      eksyll_attack_24: -2241805744781139852
+      eksyll_attack_25: 6808257285500562821
+      eksyll_attack_26: -4501867271384377415
+      eksyll_attack_27: 8126129669383233632
+      eksyll_attack_28: 6557343243194569672
+      eksyll_attack_29: 7822252284174680817
+      eksyll_attack_3: -4712141531266316320
+      eksyll_attack_4: -940074573141504456
+      eksyll_attack_5: -843055303653050208
+      eksyll_attack_6: -2424356176393609564
+      eksyll_attack_7: -958692591372548875
+      eksyll_attack_8: 5349228137197889652
+      eksyll_attack_9: 7781016670361301033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
