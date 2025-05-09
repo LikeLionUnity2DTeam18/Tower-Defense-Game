@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5283574752492923025}
   - component: {fileID: 5859417434700284382}
   - component: {fileID: 1382891330007360001}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: DarkmurIcon
   m_TagString: TowerIcon
   m_Icon: {fileID: 0}
