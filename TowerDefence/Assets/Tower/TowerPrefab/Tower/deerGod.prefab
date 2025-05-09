@@ -19,7 +19,7 @@ GameObject:
   - component: {fileID: 3223798719187647412}
   - component: {fileID: 2813331052201124630}
   - component: {fileID: 3831374737504927157}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: deerGod
   m_TagString: Tower
   m_Icon: {fileID: 0}

@@ -81,7 +81,7 @@ GameObject:
   - component: {fileID: 3281271766032558383}
   - component: {fileID: 3573549989699291234}
   - component: {fileID: 2064666927534023141}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: azikel
   m_TagString: Tower
   m_Icon: {fileID: 0}

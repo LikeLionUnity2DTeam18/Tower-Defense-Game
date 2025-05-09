@@ -81,7 +81,7 @@ GameObject:
   - component: {fileID: 6026722002686326147}
   - component: {fileID: 9083677497597828876}
   - component: {fileID: 4435159302421278831}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: otto
   m_TagString: Tower
   m_Icon: {fileID: 0}
