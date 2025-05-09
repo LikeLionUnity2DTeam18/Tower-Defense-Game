@@ -116736,6 +116736,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   database:
   - {fileID: 11400000, guid: e05ed42cd235b3b4b9a57b746991fbd3, type: 2}
+  - {fileID: 11400000, guid: 6ebe55afe8b29ec4aa62595a945f69a7, type: 2}
+  - {fileID: 11400000, guid: f4306cb31eec2674795f476944acb191, type: 2}
+  - {fileID: 11400000, guid: ac67edd6106d1de419f0ae90404a4fcd, type: 2}
+  - {fileID: 11400000, guid: d81025fc24112eb4ca9dfdbbbc1f2e64, type: 2}
+  - {fileID: 11400000, guid: fc262e498f4060c4ab147bd2579b0644, type: 2}
+  - {fileID: 11400000, guid: 99428fb4bc0ddb342b02032df531fc35, type: 2}
+  - {fileID: 11400000, guid: 6eb9a3e7b83cca346bed0fd331a0e3ab, type: 2}
+  - {fileID: 11400000, guid: acff666b54c0ed745a710d65cd009a51, type: 2}
   startingItems:
   - {fileID: 11400000, guid: e05ed42cd235b3b4b9a57b746991fbd3, type: 2}
   possibleItems: []
