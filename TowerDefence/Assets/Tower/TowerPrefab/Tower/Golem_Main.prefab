@@ -482,7 +482,7 @@ GameObject:
   - component: {fileID: 1330107073596460240}
   - component: {fileID: 5409250147494991134}
   - component: {fileID: 4579412400194111869}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Golem_Main
   m_TagString: Tower
   m_Icon: {fileID: 0}

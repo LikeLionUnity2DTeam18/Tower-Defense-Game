@@ -14,17 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyType: 2
   enemyName: Archer
-  maxHealth: 100
-  attackPower: 10
+  enemyAnim: {fileID: 9100000, guid: 0da16d6b8f214c44dae3aa708055eab4, type: 2}
+  enemyPrefab: {fileID: 933412061526807299, guid: a30572754505eae4bb32252bbff90131, type: 3}
+  maxHealth: 99999
+  attackPower: 9999
   moveSpeed: 0.5
   targetRange: 2
   detectTowerRange: 4
+  rewardGold: 10
   explosionRadius: 0
-  enemyPrefab: {fileID: 933412061526807299, guid: a30572754505eae4bb32252bbff90131, type: 3}
   attackEffectPrefab: {fileID: 7477349141166171581, guid: 14bfd14419540994f9aefe677ff5282c, type: 3}
   attackEffectFront: {fileID: 0}
   attackEffectBack: {fileID: 0}
   hitEffectPrefab: {fileID: 3264083160478469689, guid: 07af57d57ed8ad440ade15d70bbaef74, type: 3}
   hitEffectFront: {fileID: 0}
   hitEffectBack: {fileID: 0}
-  enemyAnim: {fileID: 9100000, guid: 0da16d6b8f214c44dae3aa708055eab4, type: 2}
