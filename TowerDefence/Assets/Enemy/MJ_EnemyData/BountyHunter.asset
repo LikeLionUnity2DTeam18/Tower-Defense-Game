@@ -14,17 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyType: 6
   enemyName: BountyHunter
+  enemyAnim: {fileID: 9100000, guid: 5bdba0442150461488c475bdc9dfa837, type: 2}
+  enemyPrefab: {fileID: 5434805559014940858, guid: eadc7d5bd5843f742a0aeb998b33fd7f, type: 3}
   maxHealth: 100
-  attackPower: 20
+  attackPower: 24
   moveSpeed: 0.5
   targetRange: 2.5
   detectTowerRange: 4
+  rewardGold: 10
   explosionRadius: 0
-  enemyPrefab: {fileID: 5434805559014940858, guid: eadc7d5bd5843f742a0aeb998b33fd7f, type: 3}
   attackEffectPrefab: {fileID: 0}
   attackEffectFront: {fileID: 3991376887065470262, guid: ead3ee575aaf77f49915da218eaa9aff, type: 3}
   attackEffectBack: {fileID: 1241538805640114728, guid: 1c695e71174bc8f4384315487738a6d5, type: 3}
   hitEffectPrefab: {fileID: 5340490253090518805, guid: c1a42252cb53db6489640ab847b771be, type: 3}
   hitEffectFront: {fileID: 0}
   hitEffectBack: {fileID: 0}
-  enemyAnim: {fileID: 9100000, guid: 5bdba0442150461488c475bdc9dfa837, type: 2}
+  baseMaxHealth: 100
+  baseAttackPower: 24
+  baseMoveSpeed: 5
