@@ -14,17 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyType: 5
   enemyName: Tanky
+  enemyAnim: {fileID: 9100000, guid: 4b2e94a70f0331942905bc2ba6cb4b35, type: 2}
+  enemyPrefab: {fileID: 3787260639393171958, guid: b39613c348048af46a53d5988e372179, type: 3}
   maxHealth: 100
-  attackPower: 20
+  attackPower: 34.56
   moveSpeed: 0.8
   targetRange: 1
   detectTowerRange: 2
+  rewardGold: 10
   explosionRadius: 0
-  enemyPrefab: {fileID: 3787260639393171958, guid: b39613c348048af46a53d5988e372179, type: 3}
   attackEffectPrefab: {fileID: 1581627918564158672, guid: 3d1dd324aed0999448af91ff4dc065eb, type: 3}
   attackEffectFront: {fileID: 0}
   attackEffectBack: {fileID: 0}
   hitEffectPrefab: {fileID: 0}
   hitEffectFront: {fileID: 0}
   hitEffectBack: {fileID: 0}
-  enemyAnim: {fileID: 9100000, guid: 4b2e94a70f0331942905bc2ba6cb4b35, type: 2}
+  baseMaxHealth: 100
+  baseAttackPower: 34.56
+  baseMoveSpeed: 0.8
