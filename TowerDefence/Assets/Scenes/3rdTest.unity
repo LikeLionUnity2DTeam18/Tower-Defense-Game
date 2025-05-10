@@ -1099,6 +1099,10 @@ PrefabInstance:
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7920470971037241203, guid: bd1d74c416cc6794f8fcd886d810075d, type: 3}
+      propertyPath: stageBalanceData
+      value: 
+      objectReference: {fileID: 11400000, guid: 7a4d27d1db7f4af4c8d31fb00ae877d4, type: 2}
+    - target: {fileID: 7920470971037241203, guid: bd1d74c416cc6794f8fcd886d810075d, type: 3}
       propertyPath: 'spawnPoints.Array.data[0]'
       value: 
       objectReference: {fileID: 78044042}
@@ -120385,6 +120389,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archer
       objectReference: {fileID: 0}
+    - target: {fileID: 933412061526807299, guid: a30572754505eae4bb32252bbff90131, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6819832698418538841, guid: a30572754505eae4bb32252bbff90131, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -120457,3 +120465,4 @@ SceneRoots:
   - {fileID: 904360660}
   - {fileID: 1203036496}
   - {fileID: 1729731564}
+  - {fileID: 939727460276868068}
