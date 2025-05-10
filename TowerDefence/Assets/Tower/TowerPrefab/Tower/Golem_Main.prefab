@@ -431,7 +431,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 86374d27cf20a834db8057030e90b71e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DamageArea: {fileID: 1553364789554057641, guid: a394c8e5787aa0440a2e696ee0fb28b4, type: 3}
+  DamageArea: {fileID: 1553364789554057641, guid: f0ec63a401c84ef4cbc7bbcdb133aef9, type: 3}
   splashEffectPrefab: {fileID: 9083117626088372127, guid: 48d8ed4f21e70f24bbe7f3c2386e04e6, type: 3}
 --- !u!1 &2870747639185703543
 GameObject:
@@ -614,10 +614,10 @@ MonoBehaviour:
     baseValue: 1000
     modifiers: 
   melee:
-    baseValue: 300
+    baseValue: 350
     modifiers: 
   range:
-    baseValue: 100
+    baseValue: 120
     modifiers: 
   special:
     baseValue: 500
@@ -629,7 +629,7 @@ MonoBehaviour:
     baseValue: 0
     modifiers: 
   meleeDistance:
-    baseValue: 3
+    baseValue: 4
     modifiers: 
   moveDistance:
     baseValue: 0
@@ -1187,7 +1187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93e34ff7ccdb8314a993ca15675565c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DamageArea: {fileID: 1553364789554057641, guid: a394c8e5787aa0440a2e696ee0fb28b4, type: 3}
+  DamageArea: {fileID: 1553364789554057641, guid: f0ec63a401c84ef4cbc7bbcdb133aef9, type: 3}
   splashEffectPrefab: {fileID: 9083117626088372127, guid: 48d8ed4f21e70f24bbe7f3c2386e04e6, type: 3}
 --- !u!1001 &98580016348655332
 PrefabInstance:

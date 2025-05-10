@@ -15,7 +15,7 @@ MonoBehaviour:
   data:
   - StageNumber: 1
     GoldRewardOnEnd: 50
-    StageDuration: 3
+    StageDuration: 10
     NumberOfItems: 1
   - StageNumber: 2
     GoldRewardOnEnd: 100
