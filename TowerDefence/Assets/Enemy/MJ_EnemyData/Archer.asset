@@ -18,7 +18,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 933412061526807299, guid: a30572754505eae4bb32252bbff90131, type: 3}
   maxHealth: 100
   attackPower: 14.400001
-  moveSpeed: 0.5
+  moveSpeed: 0.8
   targetRange: 2
   detectTowerRange: 4
   rewardGold: 10

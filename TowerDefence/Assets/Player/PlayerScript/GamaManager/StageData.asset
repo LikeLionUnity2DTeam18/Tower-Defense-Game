@@ -38,6 +38,14 @@ MonoBehaviour:
     StageDuration: 30
     NumberOfItems: 1
   - StageNumber: 7
-    GoldRewardOnEnd: 99999
-    StageDuration: 99999
+    GoldRewardOnEnd: 350
+    StageDuration: 35
+    NumberOfItems: 1
+  - StageNumber: 8
+    GoldRewardOnEnd: 400
+    StageDuration: 40
+    NumberOfItems: 1
+  - StageNumber: 9
+    GoldRewardOnEnd: 450
+    StageDuration: 45
     NumberOfItems: 1
