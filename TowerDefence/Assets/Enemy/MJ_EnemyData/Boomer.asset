@@ -17,7 +17,7 @@ MonoBehaviour:
   enemyAnim: {fileID: 9100000, guid: 9c2294908b68b04468082fb471225d33, type: 2}
   enemyPrefab: {fileID: 6389062849089116401, guid: 7ca7dc1affce61a49835e2b100f4dc94, type: 3}
   maxHealth: 100
-  attackPower: 30
+  attackPower: 36
   moveSpeed: 1.5
   targetRange: 0.5
   detectTowerRange: 1
@@ -29,3 +29,6 @@ MonoBehaviour:
   hitEffectPrefab: {fileID: 0}
   hitEffectFront: {fileID: 0}
   hitEffectBack: {fileID: 0}
+  baseMaxHealth: 100
+  baseAttackPower: 36
+  baseMoveSpeed: 15
