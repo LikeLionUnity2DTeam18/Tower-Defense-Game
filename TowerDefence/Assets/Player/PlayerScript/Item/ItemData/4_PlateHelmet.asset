@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc2473497b114643a2fde0baceac8ef, type: 3}
+  m_Name: 4_PlateHelmet
+  m_EditorClassIdentifier: 
+  ItemName: "\uD310\uAE08\uD22C\uAD6C"
+  ItemSlot: 0
+  ItemIcon: {fileID: -342087371, guid: db1c47dbd53a9d340b1ad6088d0c6b91, type: 3}
+  AttackDamagePercent: 43.100002
+  AttackSpeedPercent: 0.90000004
+  SkillPower: 0.7
+  MoveSpeed: 2.8
+  BindShotBindTime: 0.3
+  WallMaxHP: 84.9
+  PowerupDamageUpAmount: 4.5
+  FireBreathDamage: 0.1
+  FireBreathDamageInterval: -0
