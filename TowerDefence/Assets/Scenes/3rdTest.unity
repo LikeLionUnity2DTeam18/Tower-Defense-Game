@@ -1943,7 +1943,6 @@ GameObject:
   - component: {fileID: 277332140}
   - component: {fileID: 277332139}
   - component: {fileID: 277332142}
-  - component: {fileID: 277332143}
   m_Layer: 5
   m_Name: Skill - R - Button
   m_TagString: Untagged
@@ -2065,31 +2064,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 342f65f540a3349faa71b07776d21b41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skill: {fileID: 277332143}
   tooltipView: {fileID: 558175941}
---- !u!114 &277332143
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 277332137}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 77faeaf063303924485b561660bd7367, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  previewPrefab: {fileID: 0}
-  skillPrefab: {fileID: 0}
-  rangePrefab: {fileID: 0}
-  cooldown: 0
-  skillRange: 0
-  smartCasting: 0
-  initial_duration: 0
-  initial_damage: 0
-  initial_damageInterval: 0
-  initial_length: 0
-  skillPowerFactor: 0
+  skillType: 3
 --- !u!1 &279455275
 GameObject:
   m_ObjectHideFlags: 0
@@ -104097,7 +104073,6 @@ GameObject:
   - component: {fileID: 1226754990}
   - component: {fileID: 1226754989}
   - component: {fileID: 1226754993}
-  - component: {fileID: 1226754992}
   m_Layer: 5
   m_Name: Skill - Q - Button
   m_TagString: Untagged
@@ -104207,30 +104182,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1226754987}
   m_CullTransparentMesh: 1
---- !u!114 &1226754992
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1226754987}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f42b2fb84b241a8418afd89f78e452f6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  previewPrefab: {fileID: 0}
-  skillPrefab: {fileID: 0}
-  rangePrefab: {fileID: 0}
-  cooldown: 0
-  skillRange: 0
-  smartCasting: 0
-  skillPrefabN: {fileID: 0}
-  casterPrefab: {fileID: 0}
-  initial_damage: 0
-  initial_bindTime: 0
-  initial_castingTime: 0
-  skillPowerFactor: 0
 --- !u!114 &1226754993
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104243,8 +104194,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 342f65f540a3349faa71b07776d21b41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skill: {fileID: 1226754992}
   tooltipView: {fileID: 558175941}
+  skillType: 0
 --- !u!1 &1245524824
 GameObject:
   m_ObjectHideFlags: 0
@@ -104890,7 +104841,6 @@ GameObject:
   - component: {fileID: 1342520529}
   - component: {fileID: 1342520528}
   - component: {fileID: 1342520531}
-  - component: {fileID: 1342520532}
   m_Layer: 5
   m_Name: Skill - E - Button
   m_TagString: Untagged
@@ -105012,29 +104962,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 342f65f540a3349faa71b07776d21b41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skill: {fileID: 1342520532}
   tooltipView: {fileID: 558175941}
---- !u!114 &1342520532
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1342520526}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4c2d5d0244d45aa4fa56f16e7e0674ca, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  previewPrefab: {fileID: 0}
-  skillPrefab: {fileID: 0}
-  rangePrefab: {fileID: 0}
-  cooldown: 0
-  skillRange: 0
-  smartCasting: 0
-  initial_damageUpAmount: 0
-  initial_duration: 0
-  initial_Aoe: 0
+  skillType: 2
 --- !u!1 &1344397916
 GameObject:
   m_ObjectHideFlags: 0
@@ -118717,7 +118646,6 @@ GameObject:
   - component: {fileID: 1969422164}
   - component: {fileID: 1969422163}
   - component: {fileID: 1969422166}
-  - component: {fileID: 1969422167}
   m_Layer: 5
   m_Name: Skill - W - Button
   m_TagString: Untagged
@@ -118839,28 +118767,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 342f65f540a3349faa71b07776d21b41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skill: {fileID: 1969422167}
   tooltipView: {fileID: 558175941}
---- !u!114 &1969422167
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1969422161}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 88acc03cc678cfd498a9332706894626, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  previewPrefab: {fileID: 0}
-  skillPrefab: {fileID: 0}
-  rangePrefab: {fileID: 0}
-  cooldown: 0
-  skillRange: 0
-  smartCasting: 0
-  initial_maxHP: 0
-  initial_duration: 0
+  skillType: 1
 --- !u!1 &1988675167
 GameObject:
   m_ObjectHideFlags: 0
