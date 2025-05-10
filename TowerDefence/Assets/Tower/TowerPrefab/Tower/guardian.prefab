@@ -294,13 +294,13 @@ MonoBehaviour:
     baseValue: 100
     modifiers: 
   melee:
-    baseValue: 30
+    baseValue: 20
     modifiers: 
   range:
-    baseValue: 10
+    baseValue: 20
     modifiers: 
   special:
-    baseValue: 2
+    baseValue: 10
     modifiers: 
   cooldown:
     baseValue: 20
