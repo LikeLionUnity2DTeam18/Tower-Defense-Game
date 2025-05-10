@@ -275,6 +275,7 @@ MonoBehaviour:
   prefab: {fileID: 8071540434812237378, guid: 4e5a2a4711d033842bc0d239f8c0f827, type: 3}
   right: {fileID: 3737457073281349340}
   left: {fileID: 3536728286103994513}
+  num: 2
 --- !u!114 &2341816456453350406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -289,10 +290,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HitVFX: {fileID: 7112941523113584597, guid: 37e0520f4263e0e4e9c0befb30a13b02, type: 3}
   hp:
-    baseValue: 100
+    baseValue: 300
     modifiers: 
   melee:
-    baseValue: 30
+    baseValue: 90
     modifiers: 
   range:
     baseValue: 10
@@ -301,19 +302,19 @@ MonoBehaviour:
     baseValue: 2
     modifiers: 
   cooldown:
-    baseValue: 20
+    baseValue: 30
     modifiers: 
   speed:
     baseValue: 0
     modifiers: 
   meleeDistance:
-    baseValue: 3
+    baseValue: 2
     modifiers: 
   moveDistance:
     baseValue: 0
     modifiers: 
   rangeDistance:
-    baseValue: 5
+    baseValue: 8
     modifiers: 
   currentHealth: 0
 --- !u!114 &6026722002686326147
