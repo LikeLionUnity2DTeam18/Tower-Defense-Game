@@ -15,9 +15,29 @@ MonoBehaviour:
   data:
   - StageNumber: 1
     GoldRewardOnEnd: 50
-    StageDuration: 10
+    StageDuration: 5
     NumberOfItems: 1
   - StageNumber: 2
     GoldRewardOnEnd: 100
+    StageDuration: 10
+    NumberOfItems: 1
+  - StageNumber: 3
+    GoldRewardOnEnd: 150
     StageDuration: 15
+    NumberOfItems: 1
+  - StageNumber: 4
+    GoldRewardOnEnd: 200
+    StageDuration: 20
+    NumberOfItems: 1
+  - StageNumber: 5
+    GoldRewardOnEnd: 250
+    StageDuration: 25
+    NumberOfItems: 1
+  - StageNumber: 6
+    GoldRewardOnEnd: 300
+    StageDuration: 30
+    NumberOfItems: 1
+  - StageNumber: 7
+    GoldRewardOnEnd: 99999
+    StageDuration: 99999
     NumberOfItems: 1
