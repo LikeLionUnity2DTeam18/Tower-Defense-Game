@@ -1102,6 +1102,10 @@ PrefabInstance:
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7920470971037241203, guid: bd1d74c416cc6794f8fcd886d810075d, type: 3}
+      propertyPath: stageBalanceData
+      value: 
+      objectReference: {fileID: 11400000, guid: 7a4d27d1db7f4af4c8d31fb00ae877d4, type: 2}
+    - target: {fileID: 7920470971037241203, guid: bd1d74c416cc6794f8fcd886d810075d, type: 3}
       propertyPath: 'spawnPoints.Array.data[0]'
       value: 
       objectReference: {fileID: 78044042}
