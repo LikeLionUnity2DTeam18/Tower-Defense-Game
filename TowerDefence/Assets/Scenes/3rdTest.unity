@@ -103847,6 +103847,11 @@ MonoBehaviour:
   soundArray:
   - {fileID: 11400000, guid: f8d132fc240193e41b3b92c53f2b4e51, type: 2}
   - {fileID: 11400000, guid: edd10ca938a62cd45942bcbcf0ece0b2, type: 2}
+  - {fileID: 11400000, guid: 0556dec8863e7ef40b7873a1023127d4, type: 2}
+  - {fileID: 11400000, guid: 629936a9d6d7ae54ea99f033ed73f37d, type: 2}
+  - {fileID: 11400000, guid: 8198bc4871bb82b4a81e33d7146aa175, type: 2}
+  - {fileID: 11400000, guid: e1b36b34cec43c043adfdb03c4d3e995, type: 2}
+  - {fileID: 11400000, guid: ffcc1ce6e71d8df44b391f73e381191c, type: 2}
 --- !u!4 &1203036496
 Transform:
   m_ObjectHideFlags: 0
@@ -119624,12 +119629,24 @@ PrefabInstance:
       value: eye
       objectReference: {fileID: 0}
     - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.28
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
       propertyPath: m_LocalPosition.z
@@ -119662,6 +119679,10 @@ PrefabInstance:
     - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3985555696737002883, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9055540649118950311, guid: 4716f5010585a4e4f944920f47470bda, type: 3}
       propertyPath: priceGold
