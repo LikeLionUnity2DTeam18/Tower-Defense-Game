@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc2473497b114643a2fde0baceac8ef, type: 3}
+  m_Name: 9_GoldenAmulet
+  m_EditorClassIdentifier: 
+  ItemName: "\uD669\uAE08\uBAA9\uAC78\uC774"
+  ItemSlot: 3
+  ItemIcon: {fileID: 272880282, guid: db1c47dbd53a9d340b1ad6088d0c6b91, type: 3}
+  AttackDamagePercent: 5.2000003
+  AttackSpeedPercent: 4.8
+  SkillPower: 1.2
+  MoveSpeed: 2.8
+  BindShotBindTime: 1.9
+  WallMaxHP: 9.3
+  PowerupDamageUpAmount: 1.9
+  FireBreathDamage: 2.1000001
+  FireBreathDamageInterval: -0.1

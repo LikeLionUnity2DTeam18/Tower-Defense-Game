@@ -294,10 +294,10 @@ MonoBehaviour:
     baseValue: 100
     modifiers: 
   melee:
-    baseValue: 30
+    baseValue: 10
     modifiers: 
   range:
-    baseValue: 10
+    baseValue: 20
     modifiers: 
   special:
     baseValue: 50
@@ -306,16 +306,16 @@ MonoBehaviour:
     baseValue: 10
     modifiers: 
   speed:
-    baseValue: 1
+    baseValue: 0.5
     modifiers: 
   meleeDistance:
     baseValue: 1
     modifiers: 
   moveDistance:
-    baseValue: 3
+    baseValue: 2.5
     modifiers: 
   rangeDistance:
-    baseValue: 5
+    baseValue: 6
     modifiers: 
   currentHealth: 0
 --- !u!114 &3281271766032558383
