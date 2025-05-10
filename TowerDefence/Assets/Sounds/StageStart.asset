@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: ec07b03c8f389564cadd34ba094a6eb3, type: 3}
   m_Name: StageStart
-  m_EditorClassIdentifier: Assembly-CSharp::SoundData
+  m_EditorClassIdentifier: 
   type: 2
   clip: {fileID: 8300000, guid: 5db400ed93536db42a7095c4b44cacae, type: 3}

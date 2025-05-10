@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: ec07b03c8f389564cadd34ba094a6eb3, type: 3}
   m_Name: Gacha
-  m_EditorClassIdentifier: Assembly-CSharp::SoundData
+  m_EditorClassIdentifier: 
   type: 5
   clip: {fileID: 8300000, guid: 58a0a62646fe4af4099625c0b162a675, type: 3}

@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: ec07b03c8f389564cadd34ba094a6eb3, type: 3}
   m_Name: Money
-  m_EditorClassIdentifier: Assembly-CSharp::SoundData
+  m_EditorClassIdentifier: 
   type: 4
   clip: {fileID: 8300000, guid: 8ea39c374c6c83e44b50de9f46a15444, type: 3}
