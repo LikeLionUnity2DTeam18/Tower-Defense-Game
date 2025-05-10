@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5290536880354709712}
   - component: {fileID: 9055540649118950311}
   - component: {fileID: 6971246513965447379}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: eye
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137,6 +137,7 @@ MonoBehaviour:
   - {fileID: 5545378091509048840, guid: 1fd052bde7712b54fa389bcb2a08ad1e, type: 3}
   - {fileID: 2466671558554157210, guid: 0b9f6e9f935a4e2458fd7dcf7417b6de, type: 3}
   - {fileID: 2634072822118698467, guid: 47158d0f1ae78174393ab96b2042bf86, type: 3}
+  priceGold: 0
 --- !u!58 &6971246513965447379
 CircleCollider2D:
   m_ObjectHideFlags: 0
